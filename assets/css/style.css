@@ -8768,6 +8768,12 @@ a.text-theme:hover,
 }
 
 /*------------------- 4.15 Awards  -------------------*/
+.awd-icon {
+  border: 2px solid green;
+  border-radius: 100px;
+  padding: 8px;
+}
+
 .awards-style1 {
   background-color: rgba(var(--third-theme-color-rgb), 0.12);
   position: relative;
@@ -9433,7 +9439,7 @@ a.text-theme:hover,
 .vs-services-box-style1::after {
   position: absolute;
   content: "";
-  left: 27px;
+  left: 112px;
   bottom: 0;
   width: 50px;
   height: 8px;
@@ -9462,8 +9468,9 @@ a.text-theme:hover,
 }
 
 .vs-services-box-style1 .services-content-inner {
-  padding: 0 27px 50px;
-  margin-top: -8px;
+  padding: 20px 27px 31px;
+  margin-top: 0px;
+  text-align: center;
 }
 
 .vs-services-box-style1 .services-content-inner .services-title {
