@@ -35,6 +35,39 @@
   <link rel="stylesheet" href="assets/css/plugins.css" />
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="assets/css/style.css" />
+  <style>
+    /* Background Video Style */
+    .hero-layout1 {
+      position: relative;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    .hero-bg-video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: -2;
+      /* keep video at the back */
+    }
+
+    /* Dark Overlay */
+    .hero-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.55);
+      /* dark transparent layer */
+      z-index: -1;
+      /* above video, below content */
+    }
+  </style>
+
 </head>
 
 <body class="vs-body">
@@ -339,18 +372,18 @@
                         </svg>
                         <ul class="custom-ul">
                           <li>
-                            <a href="https://x.com/" target="_blank">
+                            <a href="https://x.com/bellavista_info" target="_blank">
                               <i class="fa-brands fa-x-twitter"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="https://www.facebook.com/" target="_blank">
+                            <a href="https://www.facebook.com/bellavistamahabaleshwar" target="_blank">
                               <i class="fab fa-facebook-f"></i>
                             </a>
                           </li>
                           <li>
                             <a href="https://www.linkedin.com/" target="_blank">
-                              <i class="fab fa-linkedin-in"></i>
+                              <i class="fa-brands fa-instagram"></i>
                             </a>
                           </li>
                         </ul>
@@ -492,12 +525,22 @@
     </header>
     <!--================= Header Area end =================-->
     <!--================= Hero Area =================-->
-    <section class="z-index-common hero-layout1 overflow-clip" data-bg-src="assets/img/hero/hero-layout1-bg.png">
+    <section class="z-index-common hero-layout1 overflow-clip">
+
+      <!-- Background Video -->
+      <video autoplay muted loop playsinline class="hero-bg-video">
+        <source src="assets/img/hero/vdo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+
+      <!-- Dark Overlay -->
+      <div class="hero-overlay"></div>
+
       <div class="container-fluid p-xl-0">
         <div class="row justify-content-center">
           <div class="col-xl-10 col-xxl-7">
             <div class="hero-content text-center">
-              <img class="fade-anim" data-delay="0.70" src="assets/img/icons/hero-sun.png" alt="icon" />
+              <!-- <img class="fade-anim" data-delay="0.70" src="assets/img/icons/hero-sun.png" alt="icon" />
               <div class="title-area text-center">
                 <span class="sec-subtitle mb-0 fade-anim" data-delay="0.75" data-direction="bottom">about Bella
                   Vista</span>
@@ -505,7 +548,7 @@
                   Find your holiday <br class="d-none d-xxl-block" />
                   with us
                 </h1>
-              </div>
+              </div> -->
               <div class="search-box fade-anim" data-delay="0.77" data-direction="top">
                 <form action="https://html.vecurosoft.com/tripix/tripix-demo/index.html" class="align-items-center">
                   <!-- Destination Field -->
@@ -563,6 +606,11 @@
         </div>
       </div>
     </section>
+
+
+
+
+
     <!--================= Hero Area end =================-->
 
     <!--================= Tour Package Area start =================-->
@@ -867,7 +915,7 @@
                     <img src="assets/img/services/services-thumb-1-3.png" alt="vs-services-thumb" class="w-100" />
                   </figure>
                   <div class="services-content">
-                   
+
                     <div class="services-content-inner">
                       <h5 class="services-title">
                         <a href="javascript:void(0)">Best Rates</a>
@@ -882,7 +930,7 @@
                     <img src="assets/img/services/services-thumb-1-4.png" alt="vs-services-thumb" class="w-100" />
                   </figure>
                   <div class="services-content">
-                    
+
                     <div class="services-content-inner">
                       <h5 class="services-title">
                         <a href="javascript:void(0)">No Hidden Charges</a>
@@ -901,7 +949,7 @@
                     <img src="assets/img/services/services-thumb-1-1.png" alt="vs-services-thumb" class="w-100" />
                   </figure>
                   <div class="services-content">
-                   
+
                     <div class="services-content-inner">
                       <h5 class="services-title">
                         <a href="javascript:void(0)">Exclusive Offers</a>
@@ -916,7 +964,7 @@
                     <img src="assets/img/services/services-thumb-1-2.png" alt="vs-services-thumb" class="w-100" />
                   </figure>
                   <div class="services-content">
-                    
+
                     <div class="services-content-inner">
                       <h5 class="services-title">
                         <a href="javascript:void(0)">Wifi Access</a>
@@ -1185,84 +1233,97 @@
       </div>
     </section>
     <!--================= Testimonial Section End =================-->
+    <!--================= Services Area end =================-->
+    <div class="vs-services-style1 space bg-second-theme-color"
+      data-bg-src="assets/img/services/vs-services-style1-bg.png">
+      <img src="assets/img/icons/cloud.png" alt="icon" class="vs-services-style1-icon-1 animate-parachute" />
+      <img src="assets/img/icons/ballon.png" alt="icon" class="vs-services-style1-icon-2 animate-parachute" />
+      <div class="container">
+        <div class="row g-4 align-items-end">
+          <div class="col-md-6 text-center text-md-start">
+            <div class="row">
+              <div class="col-12 col-xl-11">
+                <div class="title-area text-center text-md-start">
+                  <span class="sec-subtitle fade-anim" data-direction="bottom">Commitment Restrengthened</span>
+                  <h2 class="sec-title text-white-color fade-anim" data-direction="top">
+                    Stronger Promises,<span>Deeper</span> Connections
+                  </h2>
+                </div>
+                <a class="vs-btn style-4 fade-anim" data-direction="top" href="javascript:void(0)">Book Direct</a>
+              </div>
+            </div>
+            <div class="row g-4 pt-120">
+              <div class="col-lg-6 fade-anim">
+                <div class="vs-services-box-style1">
+                  <figure class="services-thumb">
+                    <img src="assets/img/services/services-thumb-1-3.png" alt="vs-services-thumb" class="w-100" />
+                  </figure>
+                  <div class="services-content">
 
-    <!--================= Destination Gallery Area start =================-->
-    <div class="vs-destination-gallery-style1 overflow-hidden">
-      <div class="row destination-gallery">
-        <div class="col-lg-6 p-0">
-          <div class="destination-gallery-box h-100">
-            <img src="assets/img/destination-galler/destination-gallery-1-1.png" alt="destination-gallery"
-              class="w-100 h-100" />
-            <div class="icon-box">
-              <a href="assets/img/destination-galler/destination-gallery-1-1.png" title="Destination Gallery-1"
-                class="">
-                <i class="fa-solid fa-eye"></i>
-              </a>
+                    <div class="services-content-inner">
+                      <h5 class="services-title">
+                        <a href="javascript:void(0)">Best Rates</a>
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6 fade-anim">
+                <div class="vs-services-box-style1">
+                  <figure class="services-thumb">
+                    <img src="assets/img/services/services-thumb-1-4.png" alt="vs-services-thumb" class="w-100" />
+                  </figure>
+                  <div class="services-content">
+
+                    <div class="services-content-inner">
+                      <h5 class="services-title">
+                        <a href="javascript:void(0)">No Hidden Charges</a>
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <span class="content"> Activity area </span>
           </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="row">
-            <div class="col-sm-6 p-0">
-              <div class="destination-gallery-box h-100">
-                <img src="assets/img/destination-galler/destination-gallery-1-2.png" alt="destination-gallery"
-                  class="w-100 h-100" />
-                <div class="icon-box">
-                  <a href="assets/img/destination-galler/destination-gallery-1-2.png" title="Destination Gallery-1"
-                    class="">
-                    <i class="fa-solid fa-eye"></i>
-                  </a>
+          <div class="col-md-6">
+            <div class="row g-4">
+              <div class="col-lg-6 fade-anim">
+                <div class="vs-services-box-style1">
+                  <figure class="services-thumb">
+                    <img src="assets/img/services/services-thumb-1-1.png" alt="vs-services-thumb" class="w-100" />
+                  </figure>
+                  <div class="services-content">
+
+                    <div class="services-content-inner">
+                      <h5 class="services-title">
+                        <a href="javascript:void(0)">Exclusive Offers</a>
+                      </h5>
+                    </div>
+                  </div>
                 </div>
-                <span class="content"> Grounds & Views </span>
               </div>
-            </div>
-            <div class="col-sm-6 p-0">
-              <div class="destination-gallery-box h-100">
-                <img src="assets/img/destination-galler/destination-gallery-1-3.png" alt="destination-gallery"
-                  class="w-100 h-100" />
-                <div class="icon-box">
-                  <a href="assets/img/destination-galler/destination-gallery-1-3.png" title="Destination Gallery-1"
-                    class="">
-                    <i class="fa-solid fa-eye"></i>
-                  </a>
+              <div class="col-lg-6 fade-anim">
+                <div class="vs-services-box-style1">
+                  <figure class="services-thumb">
+                    <img src="assets/img/services/services-thumb-1-2.png" alt="vs-services-thumb" class="w-100" />
+                  </figure>
+                  <div class="services-content">
+
+                    <div class="services-content-inner">
+                      <h5 class="services-title">
+                        <a href="javascript:void(0)">Wifi Access</a>
+                      </h5>
+                    </div>
+                  </div>
                 </div>
-                <span class="content"> Restaurant </span>
               </div>
-            </div>
-            <div class="col-sm-6 p-0">
-              <div class="destination-gallery-box h-100">
-                <img src="assets/img/destination-galler/destination-gallery-1-4.png" alt="destination-gallery"
-                  class="w-100 h-100" />
-                <div class="icon-box">
-                  <a href="assets/img/destination-galler/destination-gallery-1-4.png" title="Destination Gallery-1"
-                    class="">
-                    <i class="fa-solid fa-eye"></i>
-                  </a>
-                </div>
-                <span class="content"> Room </span>
-              </div>
-            </div>
-            <div class="col-sm-6 p-0">
-              <div class="destination-gallery-box h-100">
-                <img src="assets/img/destination-galler/destination-gallery-1-5.png" alt="destination-gallery"
-                  class="w-100 h-100" />
-                <div class="icon-box">
-                  <a href="assets/img/destination-galler/destination-gallery-1-5.png" title="Destination Gallery-1"
-                    class="">
-                    <i class="fa-solid fa-eye"></i>
-                  </a>
-                </div>
-                <span class="content"> Hotel wings </span>
-              </div>
+              
             </div>
           </div>
         </div>
       </div>
     </div>
-    <!--================= Destination Gallery Area end =================-->
-
-
+    <!--================= Services Area end =================-->
 
 
 
@@ -1453,16 +1514,23 @@
               <div class="social-media">
                 <ul class="custom-ul">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/bellavistamahabaleshwar" target="_blank"><i
+                        class="fa-brands fa-facebook-f"></i></a>
                   </li>
                   <li>
-                    <a href="https://x.com/" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="https://x.com/bellavista_info" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/bellavistaresort" target="_blank"><i
+                        class="fa-brands fa-instagram"></i></a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.google.com/travel/hotels/entity/CgsIyNCznsqk0ejWARAB/reviews?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4515404%2C4545890%2C4596364%2C4597339%2C4615946%2C4617195%2C4619745%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&rp=EMjQs57KpNHo1gEQyNCznsqk0ejWATgCQABIAcABAg&ictx=1&sa=X&ved=0CAAQ5JsGahcKEwiIl4rf0qOPAxUAAAAAHQAAAAAQBA&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAEaSQorEicyJTB4M2JjMjY1N2JjNzI1Y2UyYjoweGQ2ZDE0NTI0YTNjY2U4NDgaABIaEhQKBwjpDxAKGAkSBwjpDxAKGAoYATICEAAqCQoFOgNJTlIaAA"
+                      target="_blank"><i class="fa-brands fa-google-plus-g"></i></a>
+                  </li>
+                  <li>
+                    <a href="https://www.tripadvisor.com/Hotel_Review-g635749-d6376843-Reviews-Bella_Vista_Resort-Mahabaleshwar_Satara_District_Maharashtra.html"
+                      target="_blank"><img src="assets/img/icons/trip.png" alt="trip" width="20" height="20"></a>
                   </li>
                 </ul>
               </div>
@@ -1470,15 +1538,6 @@
               <p class="mt-4 mb-3 text-color-5">
                 Stay connected for future updates.
               </p>
-              <div class="newsletter">
-                <form action="javascript:void(0)" class="w100">
-                  <input type="email" class="form-control" placeholder="Enter Email Address" />
-                  <button type="submit" class="text-uppercase text-color-5">
-                    <i class="fa-solid fa-angles-right"></i>
-                    <span>Subscribe now</span>
-                  </button>
-                </form>
-              </div>
             </div>
           </div>
           <div class="col-lg-5 col-xl-4 order-md-3 order-lg-2">
@@ -1520,7 +1579,7 @@
                           Blog
                         </a>
                       </li>
-                       <li>
+                      <li>
                         <a href="javascript:void(0)">
                           <i class="fa-solid fa-angles-right"></i>
                           Destination Wedding
@@ -1535,9 +1594,15 @@
           <div class="col-md-6 col-lg-3 col-xl-3 order-md-2 order-lg-3">
             <div class="footer-widgets">
               <h5 class="widgets-title text-white-color text-capitalize">
-                instagram
+                Facebook
               </h5>
-              <div class="instagram">
+              <iframe
+                src="https://www.facebook.com/v3.0/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df8104799c5dc82dad%26domain%3Dwww.bellavistaresort.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.bellavistaresort.com%252Ff24ac6b98a7ff92c9%26relation%3Dparent.parent&container_width=263&height=336&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Fbellavistamahabaleshwar%2F&locale=en_GB&sdk=joey&show_facepile=true&small_header=false&tabs=timeline&width=400"
+                width="340" height="400" style="border:none;overflow:hidden; margin-top:10px;" scrolling="no"
+                frameborder="0" allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+              </iframe>
+              <!-- <div class="instagram">
                 <a href="https://www.instagram.com/" target="_blank">
                   <img src="assets/img/instagram-post/instagram-1.png" alt="instagram-1" class="w-100" />
                 </a>
@@ -1556,7 +1621,7 @@
                 <a href="https://www.instagram.com/" target="_blank">
                   <img src="assets/img/instagram-post/instagram-6.png" alt="instagram-6" class="w-100" />
                 </a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -1564,27 +1629,21 @@
     </div>
     <div class="footer-bottom bg-third-theme-color">
       <div class="container">
-        <div class="row">
-          <div class="col-md-6 order-2 order-md-1">
-            <p class="footer-copyright text-center text-md-start">
-              © <span class="current-year"></span>
-              <a href="index.html" title="Develop by Vecuro" class="text-theme-color">Bella Vista</a>, All Rights
-              Reserved
+        <div class="row text-center">
+          <div class="col-md-12  order-2">
+            <p class="footer-copyright text-center text-md-center">
+              © Copyrights 2025. Developed & SEO By <span class="current-year"></span>
+              <a href="https://getnow.digital" title="Develop by Vecuro" class="text-theme-color">Getnow Digital</a>
             </p>
-          </div>
-          <div class="col-md-6 order-1 order-md-2">
-            <div class="footer-menu">
-              <ul class="custom-ul justify-content-center justify-content-md-end">
-                <li><a href="javascript:void(0)">About Us</a></li>
-                <li><a href="javascript:void(0)">Faq’s</a></li>
-                <li><a href="javascript:void(0)">Team</a></li>
-              </ul>
-            </div>
           </div>
         </div>
       </div>
     </div>
   </footer>
+  <a href="https://api.whatsapp.com/send?phone=917720062299&text=Helllo BellaVista Team I want to know about Your rooms and services."
+    class="whatsapp-btn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
+  </a>
   <!-- ================= Footer End ================= -->
 
   <!-- ================= Main Section Wrapper End ================= -->

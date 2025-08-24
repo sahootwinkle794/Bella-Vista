@@ -83,12 +83,12 @@ Version: 1.0.0
 /*------------------- 1.2. Function -------------------*/
 /*------------------- 1.3. Variable-------------------*/
 :root {
-  --theme-color: #f7921f;
+  --theme-color: #a07706;
   --theme-color-rgb: 247, 146, 31;
-  --second-theme-color: #223740;
+  --second-theme-color: #102311;
   --second-theme-color-rgb: 34, 55, 64;
-  --third-theme-color: #465b2d;
-  --third-theme-color-rgb: 70, 91, 45;
+  --third-theme-color: #143627;
+  --third-theme-color-rgb: 20, 54, 39;
   --title-color: #141414;
   --title-color-rgb: 20, 20, 20;
   --body-color: #535b5f;
@@ -102,9 +102,9 @@ Version: 1.0.0
   --error-color: #dc3545;
   --bg-color-1: #f7921f;
   --bg-color-1-rgb: 247, 146, 31;
-  --bg-color-2: #223740;
+  --bg-color-2: #222640;
   --bg-color-2-rgb: 34, 55, 64;
-  --bg-color-3: #465b2d;
+  --bg-color-3: #143627;
   --bg-color-3-rgb: 70, 91, 45;
   --bg-color-4: #141414;
   --bg-color-4-rgb: 20, 20, 20;
@@ -122,7 +122,7 @@ Version: 1.0.0
   --bg-color-10-rgb: 218, 218, 218;
   --bg-color-11: #f1eadb;
   --bg-color-11-rgb: 241, 234, 219;
-  --bg-color-12: #43a32d;
+  --bg-color-12: #143627;
   --bg-color-12-rgb: 67, 163, 45;
   --bg-color-13: #d80808;
   --bg-color-13-rgb: 217, 8, 8;
@@ -3620,7 +3620,12 @@ a.text-theme:hover,
 }
 
 /*------------------- 3.11. Search -------------------*/
+.hero-layout1{
+  position: relative;
+}
 .search-box {
+  position: absolute;
+  bottom: 10%;
   border-radius: 25px;
   background: rgba(217, 217, 217, 0.2);
   backdrop-filter: blur(2px);
@@ -5450,7 +5455,7 @@ a.text-theme:hover,
 
 /*------------------- 4.3. Footer  -------------------*/
 .footer-bottom {
-  padding: 40px 0;
+  padding: 11px 0;
 }
 
 @media (max-width: 991px) {
@@ -11955,3 +11960,28 @@ a.text-theme:hover,
 }
 
 /*# sourceMappingURL=style.css.map */
+.whatsapp-btn {
+    position: fixed;
+    bottom: 50px;       
+    left: 20px;        
+    width: 60px;       
+    height: 60px;
+    background: var(--bg-color-9); 
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.3);
+    z-index: 9999;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.whatsapp-btn img {
+    width: 32px;
+    height: 32px;
+}
+
+.whatsapp-btn:hover {
+    background: var(--bg-color-1); 
+    transform: scale(1.1);
+}
