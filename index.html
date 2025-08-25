@@ -437,12 +437,63 @@
                   </li>
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">Accommodation</a>
-                    <!-- <ul class="sub-menu">
-                      <li><a href="Accommodation.html">Accommodation</a></li>
-                      <li>
-                        <a href="javascript:void(0)">Destination Details</a>
+                    <ul class="sub-menu">
+                      <li class="menu-item-has-children"><a href="javascript:void(0)">THE FOREST WING</a>
+                        <ul class="sub-menu">
+                          <li class="menu-item-has-children"><a href="javascript:void(0)">THE FOREST WING</a></li>
+                          <li>
+                            <a href="javascript:void(0)">Forest Deluxe (Ground Floor)</a>
+                          </li>
+                          <li>
+                            <a href="javascript:void(0)">Forest Duplex (1st Floor)</a>
+                          </li>
+                        </ul>
                       </li>
-                    </ul> -->
+
+                      <li class="menu-item-has-children">
+                        <a href="javascript:void(0)">RED STONE WING</a>
+                        <ul class="sub-menu">
+                          <li class="menu-item-has-children"><a href="javascript:void(0)">Deluxe</a></li>
+                          <li>
+                            <a href="javascript:void(0)">Valley Deluxe</a>
+                          </li>
+                          <li>
+                            <a href="javascript:void(0)">Premium</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="javascript:void(0)">THE ORCHID WING</a>
+                        <ul class="sub-menu">
+                          <li class="menu-item-has-children"><a href="javascript:void(0)">Orchid Deluxe (1st and 2nd floor)</a></li>
+                          <li>
+                            <a href="javascript:void(0)">Orchid Executive 1st floor</a>
+                          </li>
+                          <li>
+                            <a href="javascript:void(0)">Orchid Executive 2nd floor </a>
+                          </li>
+                          <li>
+                            <a href="javascript:void(0)">Tierra suite (1st floor)</a>
+                          </li>
+                          <li>
+                            <a href="javascript:void(0)">Stella suite (2nd floor)</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="javascript:void(0)">FOREST CENTRAL WING</a>
+                        <ul class="sub-menu">
+                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Forest Executive Room</a></li>
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="javascript:void(0)">APARTMENT WING</a>
+                        <ul class="sub-menu">
+                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Ground Floor</a></li>
+                          <li class="menu-item-has-children"><a href="javascript:void(0)"> 1st Floor</a></li>
+                        </ul>
+                      </li>
+                    </ul>
                   </li>
                   <li class="menu-item-has-children mega-menu-wrap">
                     <a href="javascript:void(0)">Destination Wedding</a>
@@ -1494,7 +1545,7 @@
               </div>
               <!-- Slide 3 -->
               <div class="swiper-slide">
-               <img src="assets/img/icons/hotel-service.png" alt="water" class="commitment-icon">
+                <img src="assets/img/icons/hotel-service.png" alt="water" class="commitment-icon">
                 <h3>Room Service</h3>
                 <p>Impeccable room service is provided around the clock.</p>
               </div>
@@ -1506,7 +1557,7 @@
               </div>
               <!-- Slide 5 -->
               <div class="swiper-slide">
-               <img src="assets/img/icons/safebox.png" alt="water" class="commitment-icon">
+                <img src="assets/img/icons/safebox.png" alt="water" class="commitment-icon">
                 <h3>Electronic Locker</h3>
                 <p>An electronic safe is provided in most rooms.</p>
               </div>
@@ -1521,7 +1572,51 @@
 
       </div>
     </div>
+
+
   </main>
+  <div class="offer-btn" onclick="openModal()">🎁 Special Offer</div>
+
+  <!-- Modal -->
+  <div class="modal" id="offerModal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeModal()">&times;</span>
+
+      <!-- Offer Swiper -->
+      <div class="offer-swiper swiper">
+        <div class="swiper-wrapper">
+
+          <!-- Slide 1 -->
+          <div class="offer-slide swiper-slide">
+            <div class="slide-image">
+              <img src="assets/img/activities/2nightpackage.jpg" alt="Offer 1" class="offer-img">
+            </div>
+            <div class="ft-text">
+              <a href="#" class="slide-btn">Redeem on hotel website</a>
+              <a href="tel:+917798844872" class="offer-call"><i class="fa fa-phone"></i> +91 7798844872</a>
+            </div>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="offer-slide swiper-slide">
+            <div class="slide-image">
+              <img src="assets/img/activities/3nightpackage.jpg" alt="Offer 2" class="offer-img">
+            </div>
+            <div class="ft-text">
+              <a href="#" class="slide-btn">Redeem on hotel website</a>
+              <a href="tel:+917798844872" class="offer-call"><i class="fa fa-phone"></i> +91 7798844872</a>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Arrows & Pagination -->
+        <div class="offer-button-next swiper-button-next"></div>
+        <div class="offer-button-prev swiper-button-prev"></div>
+        <div class="offer-pagination swiper-pagination"></div>
+      </div>
+    </div>
+  </div>
 
   <!-- ================= Footer Start ================= -->
   <footer class="vs-footer-style1" data-bg-src="assets/img/footer/footer-style1-bg.png">
@@ -1751,7 +1846,35 @@
   <script src="assets/js/main.js"></script>
   <!-- Swiper JS -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script>
+    // Initialize Swiper with offer-specific classes
+    const swiper2 = new Swiper('.offer-swiper', {
+      loop: true,
+      navigation: {
+        nextEl: '.offer-button-next',
+        prevEl: '.offer-button-prev',
+      },
+      pagination: {
+        el: '.offer-pagination',
+        clickable: true,
+      },
+    });
 
+    // Modal Functions
+    function openModal() {
+      document.getElementById("offerModal").style.display = "flex";
+    }
+    function closeModal() {
+      document.getElementById("offerModal").style.display = "none";
+    }
+
+    // Close modal when clicking outside
+    document.getElementById("offerModal").addEventListener("click", function (e) {
+      if (e.target.id === "offerModal") {
+        closeModal();
+      }
+    });
+  </script>
   <script>
     var swiper = new Swiper(".commitment-swiper", {
       slidesPerView: 3,
