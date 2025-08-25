@@ -1208,6 +1208,7 @@
     });
   }
 
+
   const testimonialThumbnailSlider = document.querySelector(
     ".testimonial-thumbnail-slider"
   );

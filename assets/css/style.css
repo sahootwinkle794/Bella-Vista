@@ -3620,6 +3620,10 @@ a.text-theme:hover,
 }
 
 /*------------------- 3.11. Search -------------------*/
+.commit-icon{
+  width: 100px !important;
+  height: 100px !important;
+}
 .hero-layout1{
   position: relative;
 }
@@ -9455,6 +9459,7 @@ a.text-theme:hover,
 
 .vs-services-box-style1 .services-thumb {
   overflow: clip;
+  text-align: center;
 }
 
 .vs-services-box-style1 .services-thumb img {
