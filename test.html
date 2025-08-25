@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Commitment Swiper</title>
+
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background: #f5f7fa;
+      margin: 0;
+      padding: 40px;
+    }
+
+    .commitment-container {
+      width: 100%;
+      max-width: 1200px;
+      margin: auto;
+      position: relative;
+    }
+
+    .swiper {
+      padding: 50px 0;
+    }
+
+    .swiper-slide {
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      padding: 40px 20px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .swiper-slide:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .commitment-icon {
+      font-size: 50px;
+      color: #4f46e5;
+      margin-bottom: 20px;
+    }
+
+    .swiper-slide h3 {
+      font-size: 20px;
+      font-weight: 600;
+      color: #222;
+      margin-bottom: 10px;
+    }
+
+    .swiper-slide p {
+      font-size: 15px;
+      color: #666;
+    }
+
+    /* Navigation Buttons */
+    .swiper-button-next,
+    .swiper-button-prev {
+      background: #4f46e5;
+      color: #fff;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: 0.3s ease;
+      box-shadow: 0 4px 12px rgba(79, 70, 229, 0.4);
+    }
+
+    .swiper-button-next:hover,
+    .swiper-button-prev:hover {
+      background: #3730a3;
+      transform: scale(1.1);
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev::after {
+      font-size: 18px;
+    }
+
+    /* Pagination Dots */
+    .swiper-pagination-bullet {
+      background: #4f46e5;
+      opacity: 0.6;
+    }
+    .swiper-pagination-bullet-active {
+      background: #3730a3;
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="commitment-container">
+    <div class="swiper commitment-swiper">
+      <div class="swiper-wrapper">
+        <!-- Slide 1 -->
+        <div class="swiper-slide">
+          <i class="fa-solid fa-handshake commitment-icon"></i>
+          <h3>Our Commitment</h3>
+          <p>We always strive for excellence in delivering solutions.</p>
+        </div>
+        <!-- Slide 2 -->
+        <div class="swiper-slide">
+          <i class="fa-solid fa-users commitment-icon"></i>
+          <h3>Team Work</h3>
+          <p>Collaboration is the key to achieving success.</p>
+        </div>
+        <!-- Slide 3 -->
+        <div class="swiper-slide">
+          <i class="fa-solid fa-shield-halved commitment-icon"></i>
+          <h3>Security First</h3>
+          <p>Your data is safe with our advanced protection systems.</p>
+        </div>
+        <!-- Slide 4 -->
+        <div class="swiper-slide">
+          <i class="fa-solid fa-lightbulb commitment-icon"></i>
+          <h3>Innovation</h3>
+          <p>We bring creative solutions to complex challenges.</p>
+        </div>
+        <!-- Slide 5 -->
+        <div class="swiper-slide">
+          <i class="fa-solid fa-star commitment-icon"></i>
+          <h3>Quality</h3>
+          <p>Ensuring the best quality is our top priority.</p>
+        </div>
+      </div>
+
+      <!-- Add Controls -->
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script>
+    var swiper = new Swiper(".commitment-swiper", {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      loop: true,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      breakpoints: {
+        0: { slidesPerView: 1 },
+        768: { slidesPerView: 2 },
+        1024: { slidesPerView: 3 },
+      },
+    });
+  </script>
+</body>
+</html>

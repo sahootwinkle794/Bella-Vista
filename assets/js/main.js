@@ -292,7 +292,7 @@
    ***** 03. Preloader *****
    **************************************/
   $(window).on("load", function () {
-    $(".preloader").delay(800).fadeOut("slow");
+    $(".preloader").delay(100).fadeOut("slow");
     $(".vs-hero").addClass("animate-elements");
 
     // Check if preloader exists and handle close event
