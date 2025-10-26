@@ -38,84 +38,6 @@
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="assets/css/style.css" />
 
-  <style>
-    .marquee-container {
-      width: 100%;
-      overflow: hidden;
-      white-space: nowrap;
-      border-top: 2px solid var(--theme-color);
-      border-bottom: 2px solid var(--theme-color);
-      background: #000;
-      padding: 5px 0;
-      position: relative;
-    }
-
-    .marquee-track {
-      display: inline-flex;
-      animation: scroll-left 20s linear infinite;
-    }
-
-    .marquee-track span {
-      margin-right: 100px;
-      font-size: 18px;
-      font-weight: 500;
-      color: var(--theme-color);
-      transition: color 0.3s ease, transform 0.3s ease;
-      cursor: pointer;
-    }
-
-    /* Hover color and slight scaling */
-    .marquee-track span:hover {
-      color: var(--pink-bg-color);
-      transform: scale(1.05);
-    }
-
-    /* Stop animation on hover */
-    .marquee-container:hover .marquee-track {
-      animation-play-state: paused;
-    }
-
-    @keyframes scroll-left {
-      0% {
-        transform: translateX(0);
-      }
-
-      100% {
-        transform: translateX(-50%);
-      }
-    }
-
-    /* Background Video Style */
-    .hero-layout1 {
-      position: relative;
-      height: 100vh;
-      overflow: hidden;
-    }
-
-    .hero-bg-video {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      z-index: -2;
-      /* keep video at the back */
-    }
-
-    /* Dark Overlay */
-    .hero-overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.55);
-      /* dark transparent layer */
-      z-index: -1;
-      /* above video, below content */
-    }
-  </style>
 
 </head>
 
@@ -619,8 +541,7 @@
                   <rect x="5" width="1" height="39" fill="#D9D9D9" fill-opacity="0.7" />
                   <rect y="9" width="1" height="20" fill="#D9D9D9" fill-opacity="0.7" />
                 </svg>
-                <a href="javascript:void(0)" class="vs-btn style8" data-bs-toggle="modal"
-                  data-bs-target="#exampleModal">
+                <a href="contact.html" class="vs-btn style8" data-bs-toggle="modal" data-bs-target="#exampleModal">
                   <span>Book Now</span>
                 </a>
               </div>
@@ -1111,7 +1032,7 @@
                     Book Direct for <span>the Best </span> Services
                   </h2>
                 </div>
-                <a class="vs-btn style-4 fade-anim" data-direction="top" href="javascript:void(0)">Book Direct</a>
+                <a class="vs-btn style-4 fade-anim" data-direction="top" href="contact.html">Book Direct</a>
               </div>
             </div>
             <div class="row g-4 pt-120">
@@ -1638,8 +1559,21 @@
 
           <!-- Slide 1 -->
           <div class="offer-slide swiper-slide">
-            <div class="slide-image">
-              <img src="assets/img/activities/2nightpackage.jpg" alt="Offer 1" class="offer-img">
+            <div class="slide-image mt-5">
+              <div class="row">
+                <div class="col-md-6"><img src="assets/img/activities/night-package.png" alt="Offer 1"
+                    class="offer-img"></div>
+                <div class="col-md-6">
+                  <h3>2 Nights Package</h3>
+                  <p>BOOK YOUR ROOM FOR 2 NIGHTS AND GET A 60% DISCOUNT ON THE 2ND NIGHT!</p>
+                  <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
+                    (SUNDAY THURSDAY)</p>
+                  <p>VALID ONLY FOR DIRECT BOOKINGS WITH THE RESORT.</p>
+                  <span>Booking validity - July 1 to Oct 16, 2025 </span>
+                  <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
+                </div>
+              </div>
+
             </div>
             <div class="ft-text">
               <a href="#" class="slide-btn">Redeem on hotel website</a>
@@ -1649,8 +1583,20 @@
 
           <!-- Slide 2 -->
           <div class="offer-slide swiper-slide">
-            <div class="slide-image">
-              <img src="assets/img/activities/3nightpackage.jpg" alt="Offer 2" class="offer-img">
+            <div class="slide-image mt-5">
+              <div class="row">
+                <div class="col-md-6"><img src="assets/img/activities/night-package.png" alt="Offer 1"
+                    class="offer-img"></div>
+                <div class="col-md-6">
+                  <h3>3 Nights Special Offer</h3>
+                  <p>BOOK YOUR ROOM FOR 3 NIGHTS AND PAY ONLY FOR 2 NIGHTS THE 3RD NIGHT IS FREE!</p>
+                  <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
+                    (SUNDAY THURSDAY)!</p>
+                  <p>THE OFFER IS VALID FOR DIRECT BOOKINGS WITH THE RESORT.</p>
+                  <span>Booking validity - July 1 to Oct 16, 2025</span>
+                  <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
+                </div>
+              </div>
             </div>
             <div class="ft-text">
               <a href="#" class="slide-btn">Redeem on hotel website</a>
@@ -1953,7 +1899,7 @@
     // Text messages for the marquee
     const texts = [
       "Please note that our swimming pool will be closed for maintenance from November 2, Sunday to November 7, Friday. We apologize for any inconvenience caused and thank you for understanding."
-      
+
     ];
 
     const track = document.getElementById("marqueeTrack");
