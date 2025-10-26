@@ -4986,7 +4986,7 @@ a.text-theme:hover,
 }
 
 .menu-style1.v2>ul>li>a {
-  padding: 43.5px 24px;
+  padding: 43.5px 12px;
   color: var(--title-color);
 }
 
@@ -12093,6 +12093,14 @@ a.text-theme:hover,
 }
 
 /* Navigation Buttons */
+.swiper-button-prev.amt-card{
+  margin-left: 90px;
+  margin-top: 50px;
+}
+.swiper-button-next.amt-card{
+  margin-right: 90px;
+  margin-top: 50px;
+}
 .swiper-button-next,
 .swiper-button-prev {
   background: var(--theme-color);
