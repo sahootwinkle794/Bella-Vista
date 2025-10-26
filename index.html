@@ -37,7 +37,54 @@
   <link rel="stylesheet" href="assets/css/plugins.css" />
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="assets/css/style.css" />
+
   <style>
+    .marquee-container {
+      width: 100%;
+      overflow: hidden;
+      white-space: nowrap;
+      border-top: 2px solid var(--theme-color);
+      border-bottom: 2px solid var(--theme-color);
+      background: #000;
+      padding: 5px 0;
+      position: relative;
+    }
+
+    .marquee-track {
+      display: inline-flex;
+      animation: scroll-left 20s linear infinite;
+    }
+
+    .marquee-track span {
+      margin-right: 100px;
+      font-size: 18px;
+      font-weight: 500;
+      color: var(--theme-color);
+      transition: color 0.3s ease, transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    /* Hover color and slight scaling */
+    .marquee-track span:hover {
+      color: var(--pink-bg-color);
+      transform: scale(1.05);
+    }
+
+    /* Stop animation on hover */
+    .marquee-container:hover .marquee-track {
+      animation-play-state: paused;
+    }
+
+    @keyframes scroll-left {
+      0% {
+        transform: translateX(0);
+      }
+
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+
     /* Background Video Style */
     .hero-layout1 {
       position: relative;
@@ -112,7 +159,7 @@
             </ul> -->
           </li>
           <li class="menu-item-has-children">
-            <a href="javascript:void(0)">About</a>
+            <a href="about.html">About</a>
             <!-- <ul class="sub-menu">
               <li><a href="Accommodation.html">Accommodation</a></li>
               <li>
@@ -223,7 +270,7 @@
                 </ul> -->
               </li>
               <li class="menu-item-has-children">
-                <a href="javascript:void(0)">About</a>
+                <a href="about.html">About</a>
                 <!-- <ul class="sub-menu">
                   <li><a href="Accommodation.html">Accommodation</a></li>
                   <li>
@@ -325,10 +372,14 @@
       </div>
     </div>
   </div>
+  <div class="marquee-container">
+    <div class="marquee-track" id="marqueeTrack"></div>
+  </div>
   <!-- =================
     	Main Section Wrapper
   	================= -->
   <main class="main">
+
     <!--================= Header Area =================-->
     <header class="vs-header layout1">
       <!-- Main Menu Area -->
@@ -427,7 +478,7 @@
                     </ul> -->
                   </li>
                   <li class="menu-item-has-children">
-                    <a href="javascript:void(0)">About</a>
+                    <a href="about.html">About</a>
                     <!-- <ul class="sub-menu">
                       <li><a href="Accommodation.html">Accommodation</a></li>
                       <li>
@@ -465,7 +516,8 @@
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">THE ORCHID WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)">Orchid Deluxe (1st and 2nd floor)</a></li>
+                          <li class="menu-item-has-children"><a href="javascript:void(0)">Orchid Deluxe (1st and 2nd
+                              floor)</a></li>
                           <li>
                             <a href="javascript:void(0)">Orchid Executive 1st floor</a>
                           </li>
@@ -483,7 +535,8 @@
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Forest Executive Room</a></li>
+                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Forest Executive Room</a>
+                          </li>
                         </ul>
                       </li>
                       <li class="menu-item-has-children">
@@ -665,7 +718,7 @@
     </section>
 
     <!--================= Hero Area end =================-->
-	<!--================= Commitment Area end =================-->
+    <!--================= Commitment Area end =================-->
     <div class="vs-services-style1 space bg-second-theme-color"
       data-bg-src="assets/img/services/vs-services-style1-bg.png">
       <img src="assets/img/icons/cloud.png" alt="icon" class="vs-services-style1-icon-1 animate-parachute" />
@@ -1233,7 +1286,7 @@
       </div>
     </section>
     <!--================= Destination Area end =================-->
-	<div class="vs-services-style1 space bg-second-theme-color"
+    <div class="vs-services-style1 space bg-second-theme-color"
       data-bg-src="assets/img/services/vs-services-style1-bg.png">
       <img src="assets/img/icons/cloud.png" alt="icon" class="vs-services-style1-icon-1 animate-parachute" />
       <img src="assets/img/icons/ballon.png" alt="icon" class="vs-services-style1-icon-2 animate-parachute" />
@@ -1441,7 +1494,7 @@
       </div>
     </section>
     <!--================= Testimonial Section End =================-->
-    
+
 
     <!--================= Awards Area start =================-->
     <section class="awards-style1 space" data-bg-src="assets/img/awards/awards-style1-bg.png">
@@ -1570,7 +1623,7 @@
       </div>
 
     </section>
-    <!--================= Awards Area end =================--> 
+    <!--================= Awards Area end =================-->
   </main>
   <div class="offer-btn" onclick="openModal()">🎁 Special Offer</div>
 
@@ -1715,13 +1768,13 @@
                         </a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">
+                        <a href="about.html">
                           <i class="fa-solid fa-angles-right"></i>
                           About Us
                         </a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">
+                        <a href="contact.html">
                           <i class="fa-solid fa-angles-right"></i>
                           Contact Us
                         </a>
@@ -1896,7 +1949,29 @@
       },
     });
   </script>
+  <script>
+    // Text messages for the marquee
+    const texts = [
+      "Please note that our swimming pool will be closed for maintenance from November 2, Sunday to November 7, Friday. We apologize for any inconvenience caused and thank you for understanding."
+      
+    ];
 
+    const track = document.getElementById("marqueeTrack");
+
+    // Create dynamic text items
+    texts.forEach(text => {
+      const span = document.createElement("span");
+      span.textContent = text;
+      track.appendChild(span);
+    });
+
+    // Duplicate for seamless infinite scrolling
+    texts.forEach(text => {
+      const span = document.createElement("span");
+      span.textContent = text;
+      track.appendChild(span);
+    });
+  </script>
 </body>
 
 
