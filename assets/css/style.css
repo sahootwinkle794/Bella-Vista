@@ -9697,7 +9697,7 @@ a.text-theme:hover,
 .service-content-box .nav-pills li .nav-link {
   position: relative;
   border-radius: 100px 100px 10px 10px;
-  color: var(--white-color);
+  color: var(--bg-color-1);
   width: 100%;
   font-size: 16px;
   font-weight: 700;
@@ -9738,7 +9738,7 @@ a.text-theme:hover,
   left: 0;
   right: 0;
   bottom: -11px;
-  background: rgba(var(--white-color-rgb), 0.15);
+  background: #898989;
   border-radius: 10px;
 }
 
@@ -9750,7 +9750,22 @@ a.text-theme:hover,
 }
 
 .service-content-box .nav-pills li .nav-link.active {
-  background: rgba(var(--white-color-rgb), 0.15);
+  background: rgba(var(--theme-color-rgb), 1.15);
+  color: white;
+}
+
+.tab-content ul li {
+  color: #143627;
+  float: left;
+  width: 50%;
+  text-align: left;
+  font-size: 15px;
+  padding: 7px 0;
+  margin: 0;
+}
+
+.tab-content ul li span {
+  margin-left: 10px;
 }
 
 .service-content-box .nav-pills li .nav-link.active:hover {
@@ -12093,14 +12108,16 @@ a.text-theme:hover,
 }
 
 /* Navigation Buttons */
-.swiper-button-prev.amt-card{
+.swiper-button-prev.amt-card {
   margin-left: 90px;
   margin-top: 50px;
 }
-.swiper-button-next.amt-card{
+
+.swiper-button-next.amt-card {
   margin-right: 90px;
   margin-top: 50px;
 }
+
 .swiper-button-next,
 .swiper-button-prev {
   background: var(--theme-color);
@@ -12194,14 +12211,16 @@ a.text-theme:hover,
 }
 
 /* Modal Background */
-.slide-image span{
-  color:var(--bg-color-12);
+.slide-image span {
+  color: var(--bg-color-12);
   font-weight: ;
 }
-.slide-image h3{
+
+.slide-image h3 {
   color: var(--bg-color-9);
   letter-spacing: 2px;
 }
+
 .slide-image p {
   font-family: "Nova Mono", monospace;
   font-weight: 400;
