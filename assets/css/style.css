@@ -7702,7 +7702,10 @@ a.text-theme:hover,
 .vs-destination-single .destination-info-tabs ul li.current {
   color: var(--theme-color);
 }
-
+.destination-border{
+  border-bottom: 1px solid rgba(var(--title-color-rgb), 0.2);
+  padding-bottom: 50px;
+}
 .vs-destination-single .destination-overview {
   border-bottom: 1px solid rgba(var(--title-color-rgb), 0.2);
   padding-bottom: 50px;
@@ -8090,16 +8093,23 @@ a.text-theme:hover,
 .trip-info-box .header svg {
   color: var(--theme-color);
 }
-
+.trip-info-box .header img{
+  width: 40px;
+  height: 40px;
+}
 .trip-info-box .info-title {
   margin-top: 3px;
   font-family: var(--body-font);
   font-weight: 500;
   line-height: 137.5%;
-  letter-spacing: 0.48px;
+  letter-spacing: 0px;
   text-transform: capitalize;
 }
-
+span.info-title {
+    color: black;
+    font-size: 16px;
+    margin: 0px !important;
+}
 /*------------------- 4.11 Blog-single  -------------------*/
 @media (min-width: 1200px) {
   .blog-single .blog-content {
