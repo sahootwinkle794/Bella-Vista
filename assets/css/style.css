@@ -7664,7 +7664,7 @@ a.text-theme:hover,
   border-top: 1px solid rgba(var(--title-color-rgb), 0.2);
   border-bottom: 1px solid rgba(var(--title-color-rgb), 0.2);
   padding-block: 33px;
-  margin-top: 65px;
+  /* margin-top: 65px; */
 }
 
 @media (max-width: 991px) {
