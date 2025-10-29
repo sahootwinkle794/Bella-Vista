@@ -1,0 +1,65 @@
+/* Main Carousel */
+#sync1 .item {
+  /* padding: 40px 0;   */
+  margin: 5px;
+  color: #FFF;
+  border-radius: 3px;
+  text-align: center;
+}
+
+/* Thumbnail Carousel */
+#sync2 .item {
+  background: #C9C9C9;
+  /* padding: 8px 0;  */
+  margin: 5px;
+  color: #FFF;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+}
+#sync2 .item h1 {
+  font-size: 14px;
+  margin: 0;
+}
+/* #sync2 .current .item {
+  background: #0c83e7;
+} */
+
+/* Hide dots/indicators */
+.owl-dots {
+  display: none !important;
+}
+
+/* Nav arrows cleanup */
+.owl-theme .owl-nav [class*='owl-'] {
+  background: none !important;
+  border: none !important;
+  color: #000;
+  font-size: 0; /* hide text */
+  transition: all 0.3s ease;
+}
+
+#sync1.owl-theme .owl-next,
+#sync1.owl-theme .owl-prev {
+  width: 25px;
+  height: 25px;
+  margin-top: -12px;
+  position: absolute;
+  top: 50%;
+}
+
+#sync1.owl-theme .owl-prev {
+  left: 10px;
+  background-color: white !important;
+}
+
+#sync1.owl-theme .owl-next {
+  right: 10px;
+  background-color: white !important;
+}
+
+.ifrm {
+  border: none;
+  width: 100%;
+  margin-top: 50px;
+}
