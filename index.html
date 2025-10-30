@@ -402,7 +402,8 @@
               <rect y="9" width="1" height="20" fill="#D9D9D9" fill-opacity="0.7"></rect>
             </svg>
             <div class="logo d-none d-sm-block">
-              <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style10" target="_blank">
+              <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style10"
+                target="_blank">
                 <span>Book Now</span>
               </a>
             </div>
@@ -661,7 +662,8 @@
                   <rect x="5" width="1" height="39" fill="#D9D9D9" fill-opacity="0.7" />
                   <rect y="9" width="1" height="20" fill="#D9D9D9" fill-opacity="0.7" />
                 </svg>
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8" data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8"
+                  data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank">
                   <span>Book Now</span>
                 </a>
               </div>
@@ -1152,7 +1154,8 @@
                     Book Direct for <span>the Best </span> Services
                   </h2>
                 </div>
-                <a class="vs-btn style-4 fade-anim" target="_blank" data-direction="top" href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Book Direct</a>
+                <a class="vs-btn style-4 fade-anim" target="_blank" data-direction="top"
+                  href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Book Direct</a>
               </div>
             </div>
             <div class="row g-4 pt-120">
@@ -1668,73 +1671,73 @@
     </section>
     <!--================= Awards Area end =================-->
   </main>
-  <div class="offer-btn" onclick="openModal()">🎁 Special Offer</div>
+  <!-- Offer Button -->
 
-  <!-- Modal -->
-  <div class="modal" id="offerModal">
-    <div class="modal-content">
-      <span class="close-btn" onclick="closeModal()">&times;</span>
+  <!-- Offer Button -->
+  <button class="offer-button" id="offerBtn">🎁 Special Offer</button>
 
-      <!-- Offer Swiper -->
-      <div class="offer-swiper swiper">
-        <div class="swiper-wrapper">
+  <!-- Overlay -->
+  <div class="overlay" id="overlay"></div>
 
-          <!-- Slide 1 -->
-          <div class="offer-slide swiper-slide">
-            <div class="slide-image mt-5">
-              <div class="row">
-                <div class="col-md-6"><img src="assets/img/activities/night-package.png" alt="Offer 1"
-                    class="offer-img"></div>
-                <div class="col-md-6">
-                  <h3>2 Nights Package</h3>
-                  <p>BOOK YOUR ROOM FOR 2 NIGHTS AND GET A 60% DISCOUNT ON THE 2ND NIGHT!</p>
-                  <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
-                    (SUNDAY THURSDAY)</p>
-                  <p>VALID ONLY FOR DIRECT BOOKINGS WITH THE RESORT.</p>
-                  <span>Booking validity - July 1 to Oct 16, 2025 </span>
-                  <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
-                </div>
-              </div>
+  <!-- Offer Panel -->
+  <div class="offer-panel" id="offerPanel">
+    <button class="close-offer" id="closeOffer">×</button>
 
-            </div>
+    <!-- Swiper Slider -->
+    <div class="swiper offerSwiper">
+      <div class="swiper-wrapper">
+
+        <!-- Slide 1 -->
+        <div class="swiper-slide">
+          <div class="slide-left">
+            <img src="assets/img/activities/night-package.png" alt="Offer 1">
+          </div>
+          <div class="slide-right">
+            <h3>2 Nights Package</h3>
+            <p>BOOK YOUR ROOM FOR 2 NIGHTS AND GET A 60% DISCOUNT ON THE 2ND NIGHT!</p>
+            <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
+              (SUNDAY THURSDAY)</p>
+            <p>VALID ONLY FOR DIRECT BOOKINGS WITH THE RESORT.</p>
+            <span>Booking validity - July 1 to Oct 16, 2025 </span>
+            <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
             <div class="ft-text">
               <a href="#" class="slide-btn">Redeem on hotel website</a>
               <a href="tel:+917798844872" class="offer-call"><i class="fa fa-phone"></i> +91 7798844872</a>
             </div>
           </div>
-
-          <!-- Slide 2 -->
-          <div class="offer-slide swiper-slide">
-            <div class="slide-image mt-5">
-              <div class="row">
-                <div class="col-md-6"><img src="assets/img/activities/night-package.png" alt="Offer 1"
-                    class="offer-img"></div>
-                <div class="col-md-6">
-                  <h3>3 Nights Special Offer</h3>
-                  <p>BOOK YOUR ROOM FOR 3 NIGHTS AND PAY ONLY FOR 2 NIGHTS THE 3RD NIGHT IS FREE!</p>
-                  <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
-                    (SUNDAY THURSDAY)!</p>
-                  <p>THE OFFER IS VALID FOR DIRECT BOOKINGS WITH THE RESORT.</p>
-                  <span>Booking validity - July 1 to Oct 16, 2025</span>
-                  <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
-                </div>
-              </div>
-            </div>
-            <div class="ft-text">
-              <a href="#" class="slide-btn">Redeem on hotel website</a>
-              <a href="tel:+917798844872" class="offer-call"><i class="fa fa-phone"></i> +91 7798844872</a>
-            </div>
-          </div>
-
         </div>
 
-        <!-- Arrows & Pagination -->
-        <div class="offer-button-next swiper-button-next"></div>
-        <div class="offer-button-prev swiper-button-prev"></div>
-        <div class="offer-pagination swiper-pagination"></div>
+        <!-- Slide 2 -->
+        <div class="swiper-slide">
+          <div class="slide-left">
+            <img src="assets/img/activities/night-package.png" alt="Offer 2">
+          </div>
+          <div class="slide-right">
+            <h3>3 Nights Special Offer</h3>
+            <p>BOOK YOUR ROOM FOR 3 NIGHTS AND PAY ONLY FOR 2 NIGHTS THE 3RD NIGHT IS FREE!</p>
+            <p>GET AN ADDITIONAL 10% DISCOUNT ON WEEKDAY BOOKINGS!
+              (SUNDAY THURSDAY)!</p>
+            <p>THE OFFER IS VALID FOR DIRECT BOOKINGS WITH THE RESORT.</p>
+            <span>Booking validity - July 1 to Oct 16, 2025</span>
+            <span>Invalid dates - Aug 15 to Aug 17 & Oct 2 to Oct 4</span>
+            <div class="ft-text">
+              <a href="#" class="slide-btn">Redeem on hotel website</a>
+              <a href="tel:+917798844872" class="offer-call"><i class="fa fa-phone"></i> +91 7798844872</a>
+            </div>
+          </div>
+        </div>
+
       </div>
+
+      <!-- Swiper Navigation -->
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <!-- <div class="swiper-pagination"></div> -->
     </div>
   </div>
+
+
+
 
   <!-- ================= Footer Start ================= -->
   <footer class="vs-footer-style1" data-bg-src="assets/img/footer/footer-style1-bg.png">
@@ -1773,7 +1776,8 @@
                   </div>
                 </div>
                 <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end btn-trigger btn-bounce">
-                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style6" target="_blank">
+                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style6"
+                    target="_blank">
                     <span>booking now</span>
                   </a>
                 </div>
@@ -1964,36 +1968,44 @@
   <script src="assets/js/main.js"></script>
   <!-- Swiper JS -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
   <script>
-    // Initialize Swiper with offer-specific classes
-    const swiper2 = new Swiper('.offer-swiper', {
+    // Swiper Init
+    const swiper = new Swiper(".offerSwiper", {
       loop: true,
       navigation: {
-        nextEl: '.offer-button-next',
-        prevEl: '.offer-button-prev',
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
       },
       pagination: {
-        el: '.offer-pagination',
+        el: ".swiper-pagination",
         clickable: true,
+      },
+      autoplay: {
+        delay: 4000,
+        disableOnInteraction: false,
       },
     });
 
-    // Modal Functions
-    function openModal() {
-      document.getElementById("offerModal").style.display = "flex";
-    }
-    function closeModal() {
-      document.getElementById("offerModal").style.display = "none";
+    // Select elements
+    const offerBtn = document.getElementById("offerBtn");
+    const overlay = document.getElementById("overlay");
+    const offerPanel = document.getElementById("offerPanel");
+    const closeOffer = document.getElementById("closeOffer");
+
+    // Toggle function
+    function toggleOfferPanel() {
+      offerPanel.classList.toggle("active");
+      overlay.classList.toggle("active");
     }
 
-    // Close modal when clicking outside
-    document.getElementById("offerModal").addEventListener("click", function (e) {
-      if (e.target.id === "offerModal") {
-        closeModal();
-      }
-    });
+    // Event listeners
+    offerBtn.addEventListener("click", toggleOfferPanel);
+    closeOffer.addEventListener("click", toggleOfferPanel);
+    overlay.addEventListener("click", toggleOfferPanel);
   </script>
+
+
+
   <script>
     var swiper = new Swiper(".commitment-swiper", {
       slidesPerView: 3,
