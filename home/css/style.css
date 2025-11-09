@@ -8097,7 +8097,7 @@ a.text-theme:hover,
 }
 
 .sidebar-area.tours-sidebar {
-  position: absolute;
+  position: sticky;
   top: 125px;
 }
 
