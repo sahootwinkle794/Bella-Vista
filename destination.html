@@ -48,13 +48,37 @@
     <link rel="stylesheet" href="home/css/style.css" />
     <link rel="stylesheet" href="home/css/owl.css" />
     <style>
-        .tab-btn {
-            display: block !important;
-            margin-left: auto !important;
-            margin-right: auto !important;
-            float: none !important;
-            text-align: center !important;
+        .tab-content {
+            display: none;
         }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .custom-ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            gap: 15px;
+        }
+
+        .custom-ul li {
+            cursor: pointer;
+        }
+
+        .custom-ul li.current a {
+            font-weight: bold;
+            color: #d9534f;
+            border-bottom: 2px solid #d9534f;
+            padding-bottom: 4px;
+        }
+
+        .custom-ul a {
+            text-decoration: none;
+            color: #333;
+        }
+
 
         .gallery-container {
             position: relative;
@@ -784,7 +808,7 @@
         <!--================= Destination Details Area Start =================-->
         <section class="vs-destination-details space bg-theme-07">
             <div class="container">
-                <div class="row gx-3 gx-xl-5 gy-5">
+                <div class="row gx-3 gx-xl-5 gy-5 room-row">
                     <div class="col-lg-8">
                         <div class="vs-destination-single">
                             <div class="row align-items-center gy-3 mb-4">
@@ -848,165 +872,142 @@
 
 
                                 <div class="destination-single-px">
-
                                     <div class="destination-info-tabs">
                                         <ul class="custom-ul">
                                             <li class="current"><a href="#current">Overview</a></li>
-                                            <li class=""><a href="#room">Room Services</a></li>
-                                            <li class=""><a href="#hotel">Hotel Services</a></li>
-                                            <li class=""><a href="#dimensions">Dimensions</a></li>
+                                            <li><a href="#room">Room Services</a></li>
+                                            <li><a href="#hotel">Hotel Services</a></li>
+                                            <li><a href="#dimensions">Dimensions</a></li>
                                         </ul>
                                     </div>
-                                    <div id="current" class="destination-overview tab-content">
+
+                                    <!-- Tab Contents -->
+                                    <div id="current" class="tab-content active">
                                         <h4 class="title">Overview</h4>
-                                        <p>
-                                            Corner room in the new 'Red Stone' wing equipped with a King Size Bed and a
-                                            makeshift sofa bed. In addition to sliding doors leading to the balcony, a
-                                            vast expanse of glass window from ceiling to bed level provides 180 degree
-                                            views of the Lingmala valley.
-                                        </p>
+                                        <p> Corner room in the new 'Red Stone' wing equipped with a King Size Bed and a
+                                            makeshift sofa bed. In addition
+                                            to sliding doors leading to the balcony, a vast expanse of glass window from
+                                            ceiling to bed level provides
+                                            180 degree views of the Lingmala valley. </p>
                                     </div>
-                                    <div id="room" class="destination-room tab-content destination-border">
+
+                                    <div id="room" class="tab-content">
                                         <h4 class="title">Room Services</h4>
                                         <div class="trip-info">
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-1.png" alt="service">
-                                                    <span class="info-title">Satellite channels</span>
+                                                <div class="header"> <img src="home/img/icons/service-1.png"
+                                                        alt="service"> <span class="info-title">Satellite
+                                                        channels</span> </div>
+                                            </div>
+                                            <div class="trip-info-box">
+                                                <div class="header"> <img src="home/img/icons/service-2.png"
+                                                        alt="service"> <span class="info-title">Split Air
+                                                        Conditioning</span> </div>
+                                            </div>
+                                            <div class="trip-info-box">
+                                                <div class="header"> <img src="home/img/icons/service-3.png"
+                                                        alt="service"> <span class="info-title">24x7 Hot Water</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-2.png" alt="service">
-                                                    <span class="info-title">Split Air Conditioning</span>
-                                                </div>
-
+                                                <div class="header"> <img src="home/img/icons/service-4.png"
+                                                        alt="service"> <span class="info-title">Laundry
+                                                        Facilities</span> </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-3.png" alt="service">
-                                                    <span class="info-title">24x7 Hot Water</span>
-                                                </div>
+                                                <div class="header"> <img src="home/img/icons/service-5.png"
+                                                        alt="service"> <span class="info-title">Double Bed</span> </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-4.png" alt="service">
-                                                    <span class="info-title">Laundry Facilities</span>
+                                                <div class="header"> <img src="home/img/icons/service-6.png"
+                                                        alt="service"> <span class="info-title">Mini Refrigerator</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-5.png" alt="service">
-                                                    <span class="info-title">Double Bed</span>
+                                                <div class="header"> <img src="home/img/icons/service-7.png"
+                                                        alt="service"> <span class="info-title">Wi
+                                                        Fi</span> </div>
+                                            </div>
+                                            <div class="trip-info-box">
+                                                <div class="header"> <img src="home/img/icons/service-8.png"
+                                                        alt="service"> <span class="info-title">Daily Newspapers</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-6.png" alt="service">
-                                                    <span class="info-title">Mini Refrigerator</span>
+                                                <div class="header"> <img src="home/img/icons/service-9.png"
+                                                        alt="service"> <span class="info-title">Tea/Coffee Maker</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-7.png" alt="service">
-                                                    <span class="info-title">Wi Fi</span>
+                                                <div class="header"> <img src="home/img/icons/service-10.png"
+                                                        alt="service"> <span class="info-title">Room Slippers</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-8.png" alt="service">
-                                                    <span class="info-title">Daily Newspapers</span>
-                                                </div>
-                                            </div>
-                                            <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-9.png" alt="service">
-                                                    <span class="info-title">Tea/Coffee Maker</span>
-                                                </div>
-                                            </div>
-                                            <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-10.png" alt="service">
-                                                    <span class="info-title">Room Slippers</span>
-                                                </div>
-                                            </div>
-                                            <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-11.png" alt="service">
-                                                    <span class="info-title">Electronic Locker</span>
+                                                <div class="header"> <img src="home/img/icons/service-11.png"
+                                                        alt="service"> <span class="info-title">Electronic Locker</span>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="hotel" class="destination-hotel tab-content destination-border">
-                                        <div class="d-flex justify-content-between align-items-center gap-2">
-                                            <h4 class="title">Hotel Services</h4>
-                                        </div>
+
+                                    <div id="hotel" class="tab-content">
+                                        <h4 class="title">Hotel Services</h4>
                                         <div class="trip-info">
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-12.png" alt="service">
-                                                    <span class="info-title">Board Games</span>
+                                                <div class="header"> <img src="home/img/icons/service-12.png"
+                                                        alt="service"> <span class="info-title">Board Games</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-13.png" alt="service">
-                                                    <span class="info-title">Complimentary Breakfast</span>
+                                                <div class="header"> <img src="home/img/icons/service-13.png"
+                                                        alt="service"> <span class="info-title">Complimentary
+                                                        Breakfast</span> </div>
+                                            </div>
+                                            <div class="trip-info-box">
+                                                <div class="header"> <img src="home/img/icons/service-14.png"
+                                                        alt="service"> <span class="info-title">Doctor on Call</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-14.png" alt="service">
-                                                    <span class="info-title">Doctor on Call</span>
+                                                <div class="header"> <img src="home/img/icons/service-15.png"
+                                                        alt="service"> <span class="info-title">Express Check In</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-15.png" alt="service">
-                                                    <span class="info-title">Express Check In</span>
+                                                <div class="header"> <img src="home/img/icons/service-16.png"
+                                                        alt="service"> <span class="info-title">Security Guards</span>
                                                 </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-16.png" alt="service">
-                                                    <span class="info-title">Security Guards</span>
-                                                </div>
+                                                <div class="header"> <img src="home/img/icons/service-17.png"
+                                                        alt="service"> <span class="info-title">24
+                                                        hour Front Desk</span> </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-17.png" alt="service">
-                                                    <span class="info-title">24 hour Front Desk</span>
-                                                </div>
+                                                <div class="header"> <img src="home/img/icons/service-18.png"
+                                                        alt="service"> <span class="info-title">Shoe Shine</span> </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-18.png" alt="service">
-                                                    <span class="info-title">Shoe Shine</span>
-                                                </div>
-                                            </div>
-                                            <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-19.png" alt="service">
-                                                    <span class="info-title">Smoking Zone</span>
+                                                <div class="header"> <img src="home/img/icons/service-19.png"
+                                                        alt="service"> <span class="info-title">Smoking Zone</span>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="dimensions" class="destination-dimensions tab-content destination-border">
+
+                                    <div id="dimensions" class="tab-content">
                                         <h4 class="title">Dimensions</h4>
                                         <div class="trip-info">
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-20.png" alt="service">
-                                                    <span class="info-title">Room size: 225 sq feet</span>
-                                                </div>
+                                                <div class="header"> <img src="home/img/icons/service-20.png"
+                                                        alt="service"> <span class="info-title">Room size: 225 sq
+                                                        feet</span> </div>
                                             </div>
                                             <div class="trip-info-box">
-                                                <div class="header">
-                                                    <img src="home/img/icons/service-21.png" alt="service">
-                                                    <span class="info-title">Bathroom: 45 sq feet</span>
-                                                </div>
+                                                <div class="header"> <img src="home/img/icons/service-21.png"
+                                                        alt="service"> <span class="info-title">Bathroom: 45 sq
+                                                        feet</span> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1762,7 +1763,26 @@
             modalVideo.currentTime = 0;
         });
     </script>
+    <script>
+        document.querySelectorAll('.destination-info-tabs a').forEach(tab => {
+            tab.addEventListener('click', function (e) {
+                e.preventDefault();
 
+                // Remove active state from all tabs
+                document.querySelectorAll('.destination-info-tabs li').forEach(li => li.classList.remove('current'));
+
+                // Hide all tab contents
+                document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+                // Add active to clicked tab
+                this.parentElement.classList.add('current');
+
+                // Show the target content
+                const target = this.getAttribute('href');
+                document.querySelector(target).classList.add('active');
+            });
+        });
+    </script>
 </body>
 
 <!-- Mirrored from html.vecurosoft.com/tripix/tripix-demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Aug 2025 22:56:57 GMT -->

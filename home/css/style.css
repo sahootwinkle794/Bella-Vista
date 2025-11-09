@@ -8097,8 +8097,8 @@ a.text-theme:hover,
 }
 
 .sidebar-area.tours-sidebar {
-  position: sticky;
-  top: 140px;
+  position: absolute;
+  top: 125px;
 }
 
 .trip-info-box .header img {
@@ -12488,8 +12488,11 @@ span.info-title {
   background-color: #00310d;
   padding: 10px 20px;
   color: white;
+  border-radius: 4px;
   margin-bottom: 10px;
-  
+}
+.room-span:hover{
+  background-color: #311a00;
 }
 .room-span img{
   width: 20px;
@@ -12605,4 +12608,6 @@ button.super-button.mt-3 {
 .btn-close-white {
   filter: invert(1);
 }
-
+.room-row{
+  position: relative;
+}
