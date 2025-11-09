@@ -134,7 +134,7 @@ Version: 1.0.0
   --icon-font: "Font Awesome 6 Pro";
   --main-container: 1300px;
   --container-gutters: 30px;
-  --section-space: 120px;
+  --section-space: 79px;
   --section-space-mobile: 80px;
   --section-title-space: 80px;
   --ripple-ani-duration: 5s;
@@ -12597,9 +12597,12 @@ button.super-button.mt-3 {
     bottom: 30px;
     right: 30px;
 }
-.modal-backdrop {
-  z-index: 1040 !important;
+.modal-content {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 10px;
 }
-.modal {
-  z-index: 1050 !important;
+
+.btn-close-white {
+  filter: invert(1);
 }
+
