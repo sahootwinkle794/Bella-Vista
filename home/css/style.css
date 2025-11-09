@@ -10439,7 +10439,7 @@ span.info-title {
   border: 1px solid rgba(var(--bg-color-4-rgb), 0.1);
   background-color: var(--white-color);
   border-radius: 10px;
-  box-shadow: 0px 1px 4px 0px rgba(var(--black-color-rgb), 0.1);
+  /* box-shadow: 0px 1px 4px 0px rgba(var(--black-color-rgb), 0.1); */
   overflow: hidden;
 }
 
@@ -12482,3 +12482,124 @@ span.info-title {
 
 
 /* banner background video end  */
+/* destination page details */
+
+.room-span{
+  background-color: #00310d;
+  padding: 10px 20px;
+  color: white;
+  margin-bottom: 10px;
+  
+}
+.room-span img{
+  width: 20px;
+}
+.room-span span{
+  margin-left: 10px;
+  font-size: 13px;
+}
+.owl-item {
+    width: 128.906px;
+    margin-right: 10px;
+    background: powderblue;
+}
+
+.owl-carousel {
+  position: relative;
+  width: 100%;
+}
+
+.owl-carousel .item {
+  position: relative;
+}
+
+.owl-carousel .item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* ROOM NAV BUTTONS */
+.room-btn {
+  background: #ff9800;
+  color: #fff;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+.room-btn:hover {
+  background: #c49208;
+}
+
+/* Position inside .owl-nav */
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  padding: 0 15px;
+  pointer-events: none; /* allow clicks to pass except buttons */
+}
+
+.owl-nav button {
+  pointer-events: all;
+}
+.room-btn img{
+  width: 20px;
+  height: 20px;
+}
+
+.super-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 50%;
+  background: #1f1f00;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.super-button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 3px dashed #ff7700;
+  animation: rotateBorder 6s linear infinite;
+}
+.super-button:hover{
+  background-color: rgb(190, 111, 1);
+   border: 3px dashed #003203;
+}
+
+.super-button img {
+  width: 22px;
+  position: relative;
+  z-index: 1; /* keeps icon fixed above rotating border */
+}
+
+@keyframes rotateBorder {
+  to {
+    transform: rotate(360deg);
+  }
+}
+button.super-button.mt-3 {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+.modal-backdrop {
+  z-index: 1040 !important;
+}
+.modal {
+  z-index: 1050 !important;
+}

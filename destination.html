@@ -23,8 +23,8 @@
     <!--=================
 	  Google Fonts
 	================= -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
@@ -35,11 +35,16 @@
 	================= -->
     <!-- plugins -->
     <link rel="stylesheet" href="home/css/plugins.css" />
-    <link rel='stylesheet'
+    <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css"
+        rel="stylesheet">
+    <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css"
+        rel="stylesheet">
+    <!-- <link rel='stylesheet'
         href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/home/owl.carousel.min.css'>
     <link rel='stylesheet'
-        href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/home/owl.theme.default.min.css'>
+        href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/home/owl.theme.default.min.css'> -->
     <!-- Theme Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="home/css/style.css" />
     <link rel="stylesheet" href="home/css/owl.css" />
     <style>
@@ -491,6 +496,17 @@
             </div>
         </div>
     </div>
+    <!-- Body Lines -->
+    <div class="body-lines">
+        <div class="auto-container">
+            <span class="line"><span class="dot"></span></span>
+            <span class="line"><span class="dot"></span></span>
+            <span class="line"><span class="dot"></span></span>
+            <span class="line"><span class="dot"></span></span>
+            <span class="line"><span class="dot"></span></span>
+        </div>
+    </div>
+    <!-- End Body Lines -->
     <!-- =================
     	Main Section Wrapper
   	================= -->
@@ -760,7 +776,58 @@
                                 </div>
                             </div>
                             <div class="destination-single-info">
-                                <img src="home/img/destination/destination-1-2.png" alt="">
+                                <div class="owl-carousel owl-theme owl-loaded owl-drag">
+
+                                    <div class="owl-stage-outer">
+                                        <div class="owl-stage"
+                                            style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                            <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                                <div class="item">
+                                                    <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                                        alt="">
+                                                </div>
+                                            </div>
+
+                                            <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                                <div class="item">
+                                                    <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                                        alt="">
+                                                </div>
+                                            </div>
+
+                                            <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                                <div class="item">
+                                                    <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                                        alt="">
+                                                </div>
+                                            </div>
+
+                                            <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                                <div class="item">
+                                                    <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                                        alt="">
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!-- Replace nav with room buttons -->
+                                    <div class="owl-nav">
+                                        <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                                alt="icon"></button>
+                                        <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                                alt="icon"></button>
+                                    </div>
+                                    <button class="super-button mt-3" data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal">
+                                        <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
+                                    </button>
+
+                                </div>
+
+
                                 <div class="destination-single-px">
 
                                     <div class="destination-info-tabs">
@@ -943,15 +1010,18 @@
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#collapseOneV2" aria-expanded="true"
                                                 aria-controls="collapseOneV2">
-                                                Tours & Adventures our awards ?
+                                                THE FOREST WING
                                             </button>
                                         </h6>
                                         <div id="collapseOneV2" class="accordion-collapse collapse show"
                                             data-bs-parent="#accordionRight">
                                             <div class="accordion-body">
-                                                Travel is the movement of people between relatively
-                                                distant geographical, and can involve travel by foot,
-                                                bicycle, automobile.
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Forest Deluxe
+                                                            (Ground Floor)</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Forest Duplex
+                                                            (1st Floor)</a></span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -960,15 +1030,21 @@
                                             <button class="accordion-button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseTwoV2"
                                                 aria-expanded="false" aria-controls="collapseTwoV2">
-                                                Maldives with our Fantastic Tour Package ?
+                                                RED STONE WING
                                             </button>
                                         </h6>
                                         <div id="collapseTwoV2" class="accordion-collapse collapse"
                                             data-bs-parent="#accordionRight">
                                             <div class="accordion-body">
-                                                Travel is the movement of people between relatively
-                                                distant geographical, and can involve travel by foot,
-                                                bicycle, automobile.
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Deluxe
+                                                            Room</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Valley Deluxe
+                                                            Room</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Premium
+                                                            Room</a></span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -977,15 +1053,27 @@
                                             <button class="accordion-button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseThreeV2"
                                                 aria-expanded="false" aria-controls="collapseThreeV2">
-                                                Maldives, Male, Srilanka Discover ?
+                                                THE ORCHID WING
                                             </button>
                                         </h6>
                                         <div id="collapseThreeV2" class="accordion-collapse collapse"
                                             data-bs-parent="#accordionRight">
                                             <div class="accordion-body">
-                                                Travel is the movement of people between relatively
-                                                distant geographical, and can involve travel by foot,
-                                                bicycle, automobile.
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Orchid Deluxe
+                                                            (1st & 2nd floor)</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Orchid Executive
+                                                            1st floor</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Orchid Executive
+                                                            2nd floor</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Tierra suite (1st
+                                                            floor)</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Stella suite (2nd
+                                                            floor)</a></span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -994,15 +1082,35 @@
                                             <button class="accordion-button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseFourV2"
                                                 aria-expanded="false" aria-controls="collapseFourV2">
-                                                Adventures our awards ?
+                                                FOREST CENTRAL WING
                                             </button>
                                         </h6>
                                         <div id="collapseFourV2" class="accordion-collapse collapse"
                                             data-bs-parent="#accordionRight">
                                             <div class="accordion-body">
-                                                Travel is the movement of people between relatively
-                                                distant geographical, and can involve travel by foot,
-                                                bicycle, automobile.
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Forest Executive
+                                                            Room</a></span></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h6 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseFiveV2"
+                                                aria-expanded="false" aria-controls="collapseFiveV2">
+                                                APARTMENT WING
+                                            </button>
+                                        </h6>
+                                        <div id="collapseFiveV2" class="accordion-collapse collapse"
+                                            data-bs-parent="#accordionRight">
+                                            <div class="accordion-body">
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">Ground
+                                                            Floor</a></span></div>
+                                                <div class="room-span"><img src="home/img/icons/bed(2).png"
+                                                        alt="icon"><span><a href="javascript:void(0);">1st
+                                                            Floor</a></span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -1216,7 +1324,27 @@
                     </div>
                 </div>
             </div>
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            ...
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
+
         <!--================= Destination Details end =================-->
 
         <!--================= Exclusive-gallery Area start =================-->
@@ -1498,9 +1626,11 @@
     <!-- ================= Main Section Wrapper End ================= -->
     <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
     <!-- ***************** Code End  Here ***************** -->
-    <!--================= All Js File ================= -->
     <!-- Jquery -->
     <script src="home/js/vendor/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
     <!-- Jquery UI -->
     <script src="home/js/jquery-ui.min.js"></script>
     <!-- Jquery UI -->
@@ -1510,16 +1640,13 @@
     <!-- Swiper Slider -->
     <script src="home/js/swiper-bundle.min.js"></script>
     <!-- Bootstrap -->
-    <script src="home/js/bootstrap.min.js"></script>
+    <!-- <script src="home/js/bootstrap.min.js"></script> -->
     <!-- WOW.js Animation -->
     <script src="home/js/wow.min.js"></script>
     <!-- Magnific Popup -->
     <script src="home/js/jquery.magnific-popup.min.js"></script>
     <!-- Image Loaded Jquery -->
     <script src="home/js/imagesloaded.pkgd.min.js"></script>
-    <!-- Odometer JS -->
-    <script src="home/js/odometer.min.js"></script>
-    <script src="home/js/viewport.jquery.js"></script>
     <!-- Gsap -->
     <script src="home/js/gsap.min.js"></script>
     <!-- ScrollTrigger -->
@@ -1528,12 +1655,28 @@
     <script src="home/js/ScrollToPlugin.min.js"></script>
     <!-- SplitText -->
     <script src="home/js/SplitText.min.js"></script>
-
     <!-- Main Js File -->
     <script src="home/js/main.js"></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- Main Js File -->
+    <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js'></script>
-    <script src="home/js/owl.js"></script>
+    <script src="home/js/owl.js"></script> -->
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js">
+    </script>
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
+    </script>
+    <script>
+        const videoModal = document.getElementById('videoModal');
+        const video = document.getElementById('resortVideo');
+
+        videoModal.addEventListener('hidden.bs.modal', () => {
+            video.pause();
+            video.currentTime = 0;
+        });
+    </script>
+
     <script>
         let slideIndex = 1;
         showSlides(slideIndex);
@@ -1583,6 +1726,27 @@
             const walk = (x - startX) * 2;
             thumbBar.scrollLeft = scrollLeft - walk;
         });
+    </script>
+    <script>
+        var owl = $('.owl-carousel');
+        owl.owlCarousel({
+            items: 1,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true
+        });
+
+        // Room button navigation
+        $('.next-room').click(function () {
+            owl.trigger('next.owl.carousel');
+        });
+
+        $('.prev-room').click(function () {
+            owl.trigger('prev.owl.carousel', [300]);
+        });
+
     </script>
 </body>
 
