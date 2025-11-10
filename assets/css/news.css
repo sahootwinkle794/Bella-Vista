@@ -233,6 +233,7 @@
 	position: relative;
 	margin-top:15px;
 	font-weight: 500;
+	font-size: 22px;
 	margin-bottom: 15px;
 	text-transform: capitalize;
 }
@@ -494,6 +495,9 @@
 	position: relative;
 	margin-top: 15px;
 	margin-bottom: 25px;
+	font-family: "Barlow Condensed", sans-serif;
+	font-weight: 700;
+	font-size: 23px;
 	color: var(--color-two);
 }
 
