@@ -39,6 +39,8 @@
   <link rel="stylesheet" href="home/css/plugins.css" />
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="home/css/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
 
 
 </head>
@@ -725,13 +727,16 @@
                     </select>
                   </div>
                   <!-- Date Field -->
-                  <div class="form-group">
+                  <div class="form-group date-form">
                     <label for="search-date" class="form-label d-flex align-items-center">
                       <i class="fa-regular fa-calendar-days me-2"></i>
                       Date
                     </label>
-                    <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
-                      readonly />
+                    <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
+                      readonly /> -->
+                    <input type="text" id="dateRange" class="form-select" placeholder="From – To">
+
+
                   </div>
                   <!-- Guest Field -->
                   <div class="form-group">
@@ -739,11 +744,9 @@
                       <i class="fa-regular fa-user-hoodie me-2"></i> Guest
                     </label>
                     <select id="guest-dropdown" name="guest" class="form-select">
-                      <option value="1">1 Guest</option>
-                      <option value="2">2 Guests</option>
-                      <option value="3">3 Guests</option>
-                      <option value="4">4 Guests</option>
-                      <option value="5">5 Guests</option>
+                      <option value="1">Child</option>
+                      <option value="2">Kinder</option>
+                      <option value="3">Adult</option>
                     </select>
                   </div>
                   <!-- Submit Button -->
@@ -1736,7 +1739,7 @@
     </div>
   </div>
 
-  
+
 
 
 
@@ -2057,6 +2060,17 @@
       track.appendChild(span);
     });
   </script>
+  
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+<script>
+flatpickr("#dateRange", {
+    mode: "range",       
+    dateFormat: "Y-m-d",   
+    allowInput: true
+});
+</script>
+
 </body>
 
 
