@@ -1170,8 +1170,8 @@
   }
 
   const tourPackageSlider = document.querySelector(".tour-package-slider");
-  const tourPackagePrev = document.querySelector(".tour-packages-prev");
-  const tourPackageNext = document.querySelector(".tour-packages-next");
+  const tourPackagePrev = document.querySelector(".tour-packages-next");
+  const tourPackageNext = document.querySelector(".tour-packages-prev");
 
   if (tourPackageSlider && tourPackagePrev && tourPackageNext) {
     const swiper = new Swiper(tourPackageSlider, {
