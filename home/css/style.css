@@ -7228,6 +7228,7 @@ input #dateRange{
 }
 
 /*------------------- 4.9 Destination  -------------------*/
+
 .vs-destination-style1 {
   position: relative;
 }
@@ -7315,31 +7316,39 @@ input #dateRange{
   .destination-box-wrapper:has(> :nth-child(4).active) {
     grid-template-columns: 1fr 1fr;
   }
+  .destination-box-wrapper:has(> :nth-child(5):hover),
+  .destination-box-wrapper:has(> :nth-child(5).active) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (min-width: 992px) {
   .destination-box-wrapper {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
 
   .destination-box-wrapper:has(> :nth-child(1):hover),
   .destination-box-wrapper:has(> :nth-child(1).active) {
-    grid-template-columns: 1fr 0.5fr 0.5fr 0.5fr;
+    grid-template-columns: 1fr 0.5fr 0.5fr 0.5fr 0.5fr;
   }
 
   .destination-box-wrapper:has(> :nth-child(2):hover),
   .destination-box-wrapper:has(> :nth-child(2).active) {
-    grid-template-columns: 0.5fr 1fr 0.5fr 0.5fr;
+    grid-template-columns: 0.5fr 1fr 0.5fr 0.5fr 0.5fr;
   }
 
   .destination-box-wrapper:has(> :nth-child(3):hover),
   .destination-box-wrapper:has(> :nth-child(2).active) {
-    grid-template-columns: 0.5fr 0.5fr 1fr 0.5fr;
+    grid-template-columns: 0.5fr 0.5fr 1fr 0.5fr 0.5fr;
   }
 
   .destination-box-wrapper:has(> :nth-child(4):hover),
   .destination-box-wrapper:has(> :nth-child(4).active) {
-    grid-template-columns: 0.5fr 0.5fr 0.5fr 1fr;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 1fr 0.5fr;
+  }
+  .destination-box-wrapper:has(> :nth-child(5):hover),
+  .destination-box-wrapper:has(> :nth-child(5).active) {
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 1fr;
   }
 }
 
