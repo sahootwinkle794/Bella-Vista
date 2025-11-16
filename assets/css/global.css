@@ -90,7 +90,12 @@
 	--black-color-rgb: 0, 0, 0;
 
 }
-
+body{
+	font-family: "Rubik", serif !important;
+}
+h2,.about-three_bold{
+	font-family: "Abril Fatface", serif !important;
+}
 /*** 
 
 ====================================================================
