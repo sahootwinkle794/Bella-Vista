@@ -1207,7 +1207,44 @@
       },
     });
   }
+  const roomTypeSlider = document.querySelector(".room-type-slider");
+  const roomTypePrev = document.querySelector(".room-type-next");
+  const roomTypeNext = document.querySelector(".room-type-prev");
 
+if (roomTypeSlider && roomTypePrev && roomTypeNext) {
+    const swiper = new Swiper(roomTypeSlider, {
+      slidesPerView: 1,
+      spaceBetween: 30,
+      slidesPerGroup: 1,
+      loop: true,
+      speed: 1000,
+      navigation: {
+        prevEl: roomTypePrev,
+        nextEl: roomTypeNext,
+      },
+      breakpoints: {
+        1200: {
+          slidesPerView: 3,
+        },
+        768: {
+          slidesPerView: 2,
+        },
+      },
+      on: {
+        init() {
+          roomTypePrev.classList.add("active");
+        },
+        slideNextTransitionStart() {
+          roomTypeNext.classList.add("active");
+          roomTypePrev.classList.remove("active");
+        },
+        slidePrevTransitionStart() {
+          roomTypePrev.classList.add("active");
+          roomTypeNext.classList.remove("active");
+        },
+      },
+    });
+  }
 
   const testimonialThumbnailSlider = document.querySelector(
     ".testimonial-thumbnail-slider"

@@ -7236,7 +7236,7 @@ input #dateRange{
 .vs-destination-style1 .des-icon-1,
 .vs-destination-style1 .des-icon-2 {
   position: absolute;
-  z-index: 1;
+  z-index: -1;
 }
 
 @media (max-width: 991px) {
@@ -12346,7 +12346,7 @@ span.info-title {
   height: 100%;
 }
 
-.swiper-slide {
+.offer-slider {
   display: flex;
   align-items: stretch;
   height: 100%;
