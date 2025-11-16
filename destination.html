@@ -48,6 +48,28 @@
     <link rel="stylesheet" href="home/css/style.css" />
     <link rel="stylesheet" href="home/css/owl.css" />
     <style>
+        /* Dark glass modal background */
+.video-frame {
+    background: #ffffff;
+    backdrop-filter: blur(12px);
+    border-radius: 18px;
+    overflow: hidden;
+    padding: 12px;
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+}
+button.btn-close.ms-auto {
+    background-color: #ffc107;
+}
+/* Clean rounded video styling */
+.framed-video {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    box-shadow: 0 12px 25px rgba(0,0,0,0.35);
+}
+
         .tab-content {
             display: none;
         }
@@ -534,22 +556,24 @@
 
     <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered modal-lg">
-            <div class="modal-content bg-transparent border-0">
-                <div class="modal-header border-0">
-                    <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal"
-                        aria-label="Close"></button>
-                </div>
-                <div class="modal-body p-0">
-                    <!-- ⛔ No autoplay here -->
-                    <video id="modalVideo" controls playsinline style="width:100%; height:auto; display:block;">
-                        <source src="home/img/hero/vdo.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                </div>
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+            <div class="modal-header border-0">
+                <h5 class="modal-title">Bella Vista Resort</h5>
+                <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal"
+                    aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body p-0">
+                <video id="modalVideo" controls playsinline class="framed-video">
+                    <source src="home/img/hero/vdo.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
             </div>
         </div>
     </div>
+</div>
+
     <!-- =================
     	Main Section Wrapper
   	================= -->
