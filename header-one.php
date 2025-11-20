@@ -226,7 +226,7 @@
                     <ul>
                       <li><a href="faq.html">Faq's</a></li>
                       <li><a href="activities.html">Activities</a></li>
-                      <li><a href="blog.html">Blog</a></li>
+                      <li><a href="blog.php">Blog</a></li>
                       <li><a href="blog-details.html">Blog Details</a></li>
                     </ul>
                   </li>
@@ -244,7 +244,7 @@
                   <li>
                     <a href="#">Page List 4</a>
                     <ul>
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="contact_us.php">Contact Us</a></li>
                     </ul>
                   </li>
                 </ul> -->
@@ -252,18 +252,18 @@
           <li class="menu-item-has-children">
             <a href="javascript:void(0)">Virtual Tour</a>
             <!-- <ul class="sub-menu">
-                  <li><a href="blog.html">blog</a></li>
+                  <li><a href="blog.php">blog</a></li>
                   <li><a href="blog-details.html">Blog Details</a></li>
                 </ul> -->
           </li>
           <li class="menu-item-has-children">
-            <a href="gallery.html">Gallery</a>
+            <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="awards.html">Awards</a>
+            <a href="awards.php">Awards</a>
           </li>
           <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact_us.php">Contact</a>
           </li>
         </ul>
       </div>
@@ -393,7 +393,7 @@
                     <ul>
                       <li><a href="faq.html">Faq's</a></li>
                       <li><a href="activities.html">Activities</a></li>
-                      <li><a href="blog.html">Blog</a></li>
+                      <li><a href="blog.php">Blog</a></li>
                       <li><a href="blog-details.html">Blog Details</a></li>
                     </ul>
                   </li>
@@ -411,7 +411,7 @@
                   <li>
                     <a href="#">Page List 4</a>
                     <ul>
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="contact_us.php">Contact Us</a></li>
                     </ul>
                   </li>
                 </ul> -->
@@ -419,15 +419,15 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Virtual Tour</a>
                 <!-- <ul class="sub-menu">
-                  <li><a href="blog.html">blog</a></li>
+                  <li><a href="blog.php">blog</a></li>
                   <li><a href="blog-details.html">Blog Details</a></li>
                 </ul> -->
               </li>
               <li class="menu-item-has-children">
-                <a href="gallery.html">Gallery</a>
+                <a href="gallery.php">Gallery</a>
               </li>
               <li>
-                <a href="awards.html">Awards</a>
+                <a href="awards.php">Awards</a>
               </li>
             </ul>
           </nav>
@@ -655,7 +655,7 @@
                         <ul>
                           <li><a href="faq.html">Faq's</a></li>
                           <li><a href="activities.html">Activities</a></li>
-                          <li><a href="blog.html">Blog</a></li>
+                          <li><a href="blog.php">Blog</a></li>
                           <li>
                             <a href="blog-details.html">Blog Details</a>
                           </li>
@@ -677,7 +677,7 @@
                       <li>
                         <a href="#">Page List 4</a>
                         <ul>
-                          <li><a href="contact.html">Contact Us</a></li>
+                          <li><a href="contact_us.php">Contact Us</a></li>
                         </ul>
                       </li>
                     </ul> -->
@@ -685,15 +685,15 @@
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">Virtual Tour</a>
                     <!-- <ul class="sub-menu">
-                      <li><a href="blog.html">blog</a></li>
+                      <li><a href="blog.php">blog</a></li>
                       <li><a href="blog-details.html">blog details</a></li>
                     </ul> -->
                   </li>
                   <li>
-                    <a href="gallery.html">Gallery</a>
+                    <a href="gallery.php">Gallery</a>
                   </li>
                   <li>
-                    <a href="awards.html">Awards</a>
+                    <a href="awards.php">Awards</a>
                   </li>
                 </ul>
               </nav>

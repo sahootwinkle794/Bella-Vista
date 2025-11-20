@@ -164,13 +164,13 @@
                   <div class="footer-links">
                     <ul class="custom-ul">
                       <li>
-                        <a href="career.html">
+                        <a href="career.php">
                           <i class="fa-solid fa-angles-right"></i>
                           Career
                         </a>
                       </li>
                       <li>
-                        <a href="services.html">
+                        <a href="services.php">
                           <i class="fa-solid fa-angles-right"></i>
                           Services
                         </a>
@@ -182,19 +182,19 @@
                         </a>
                       </li>
                       <li>
-                        <a href="contact.html">
+                        <a href="contact_us.php">
                           <i class="fa-solid fa-angles-right"></i>
                           Contact Us
                         </a>
                       </li>
                       <li>
-                        <a href="attraction.html">
+                        <a href="attraction.php">
                           <i class="fa-solid fa-angles-right"></i>
                           Places to visit
                         </a>
                       </li>
                       <li>
-                        <a href="blog.html">
+                        <a href="blog.php">
                           <i class="fa-solid fa-angles-right"></i>
                           Blog
                         </a>

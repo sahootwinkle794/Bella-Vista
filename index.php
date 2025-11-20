@@ -1081,7 +1081,7 @@
                   <img src="home/img/awards/award-box-right-wings.png" alt="award-box-right-wings" />
                 </div>
                 <div class="award-box-body text-center">
-                  <a href="awards.html"> <span class="text-third-theme-color bg-white-color">View More</span></a>
+                  <a href="awards.php"> <span class="text-third-theme-color bg-white-color">View More</span></a>
                 </div>
                 <div class="award-box-footer text-capitalize text-center">
                   <p class="line1">
@@ -1105,7 +1105,7 @@
                   <img src="home/img/awards/award-box-right-wings.png" alt="award-box-right-wings" />
                 </div>
                 <div class="award-box-body text-center">
-                  <a href="awards.html"> <span class="text-third-theme-color bg-white-color">View More</span></a>
+                  <a href="awards.php"> <span class="text-third-theme-color bg-white-color">View More</span></a>
                 </div>
                 <div class="award-box-footer text-capitalize text-center">
                   <p class="line1">
@@ -1129,7 +1129,7 @@
                   <img src="home/img/awards/award-box-right-wings.png" alt="award-box-right-wings" />
                 </div>
                 <div class="award-box-body text-center">
-                  <a href="awards.html"> <span class="text-third-theme-color bg-white-color">View More</span></a>
+                  <a href="awards.php"> <span class="text-third-theme-color bg-white-color">View More</span></a>
                 </div>
                 <div class="award-box-footer text-capitalize text-center">
                   <p class="line1">
@@ -1140,7 +1140,7 @@
             </div>
           </div>
           <div class="text-center mt-50 btn-trigger btn-bounce">
-            <a href="awards.html" class="vs-btn style4">
+            <a href="awards.php" class="vs-btn style4">
               <span>view more</span>
             </a>
           </div>
