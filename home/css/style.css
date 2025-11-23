@@ -12651,3 +12651,170 @@ button.super-button.mt-3 {
 .accordion-button span{
   margin-left: 10px;
 }
+
+
+      /* Dark glass modal background */
+.video-frame {
+    background: #ffffff;
+    backdrop-filter: blur(12px);
+    border-radius: 18px;
+    overflow: hidden;
+    padding: 12px;
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+}
+button.btn-close.ms-auto {
+    background-color: #ffc107;
+}
+/* Clean rounded video styling */
+.framed-video {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    box-shadow: 0 12px 25px rgba(0,0,0,0.35);
+}
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .custom-ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            gap: 15px;
+        }
+
+        .custom-ul li {
+            cursor: pointer;
+        }
+
+        .custom-ul li.current a {
+            font-weight: bold;
+            color: #d9534f;
+            border-bottom: 2px solid #d9534f;
+            padding-bottom: 4px;
+        }
+
+        .custom-ul a {
+            text-decoration: none;
+            color: #333;
+        }
+
+
+        .gallery-container {
+            position: relative;
+            max-width: 100%;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .slide-item {
+            display: none;
+        }
+
+        .slide-item.active {
+            display: block;
+        }
+
+        .main-photo {
+            width: 100%;
+            height: 60vh;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+        }
+
+        /* Control buttons (modern design) */
+        .nav-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(6px);
+            color: #fff;
+            border: none;
+            font-size: 1.8rem;
+            padding: 10px 16px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            z-index: 10;
+        }
+
+        .nav-btn:hover {
+            background: rgba(255, 255, 255, 0.4);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .nav-left {
+            left: 15px;
+        }
+
+        .nav-right {
+            right: 15px;
+        }
+
+        /* Caption styling */
+        .caption-box {
+            text-align: center;
+            background-color: var(--bg-color-12);
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 15px;
+            font-size: 1rem;
+            letter-spacing: 0.3px;
+        }
+
+        .caption-box p {
+            color: yellow;
+        }
+
+        /* Thumbnail section */
+        .thumb-bar {
+            display: flex;
+            overflow-x: auto;
+            gap: 10px;
+            padding: 15px 10px;
+            margin-top: 20px;
+            cursor: grab;
+            scrollbar-width: none;
+        }
+
+        .thumb-bar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .thumb-item {
+            flex: 0 0 auto;
+            width: 130px;
+            height: 85px;
+            border-radius: 8px;
+            object-fit: cover;
+            opacity: 0.5;
+            transition: 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .thumb-item.active,
+        .thumb-item:hover {
+            opacity: 1;
+            transform: scale(1.05);
+            border: 2px solid #0d6efd;
+        }
+
+        @media (max-width: 768px) {
+            .main-photo {
+                height: 40vh;
+            }
+
+            .thumb-item {
+                width: 100px;
+                height: 65px;
+            }
+        }

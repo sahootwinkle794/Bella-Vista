@@ -116,15 +116,15 @@
   <div class="vs-menu-wrapper">
     <div class="vs-menu-area text-center">
       <div class="mobile-logo">
-        <a href="index.html"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
+        <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
         <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
       </div>
       <div class="vs-mobile-menu">
         <ul>
           <li class="menu-item-has-children">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
             <!-- <ul class="sub-menu">
-              <li><a href="index.html">Home 1</a></li>
+              <li><a href="index.php">Home 1</a></li>
               <li><a href="index-2.html">Home 2</a></li>
               <li><a href="index-3.html">Home 3</a></li>
             </ul> -->
@@ -150,11 +150,10 @@
           <li class="menu-item-has-children">
             <a href="javascript:void(0)">Select Room Type</a>
             <ul class="sub-menu">
-              <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a>
+              <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a></li>
                   <li>
-                    <a href="destination.html">Forest Deluxe (Ground Floor)</a>
+                    <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                   </li>
                   <li>
                     <a href="destination.html">Forest Duplex (1st Floor)</a>
@@ -215,7 +214,7 @@
                   <li>
                     <a href="#">Page List 1</a>
                     <ul>
-                      <li><a href="index.html">Home 1</a></li>
+                      <li><a href="index.php">Home 1</a></li>
                       <li><a href="index-2.html">Home 2</a></li>
                       <li><a href="index-3.html">Home 3</a></li>
                       <li><a href="about.php">About</a></li>
@@ -291,16 +290,16 @@
             <i class="fal fa-bars"></i>
           </button>
           <div class="logo d-none d-lg-block">
-            <a href="index.html"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
+            <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
           </div>
         </div>
         <div class="col-xl-auto col-lg-auto col-sm-3 d-none d-sm-block">
           <nav class="main-menu d-none d-lg-block">
             <ul>
               <li class="menu-item-has-children">
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
                 <!-- <ul class="sub-menu">
-                  <li><a href="index.html">Home 1</a></li>
+                  <li><a href="index.php">Home 1</a></li>
                   <li><a href="index-2.html">Home 2</a></li>
                   <li><a href="index-3.html">Home 3</a></li>
                 </ul> -->
@@ -317,11 +316,10 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Select Room Type</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a>
+                  <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a></li>
                       <li>
-                        <a href="destination.html">Forest Deluxe (Ground Floor)</a>
+                        <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                       </li>
                       <li>
                         <a href="destination.html">Forest Duplex (1st Floor)</a>
@@ -382,7 +380,7 @@
                   <li>
                     <a href="#">Page List 1</a>
                     <ul>
-                      <li><a href="index.html">Home 1</a></li>
+                      <li><a href="index.php">Home 1</a></li>
                       <li><a href="index-2.html">Home 2</a></li>
                       <li><a href="index-3.html">Home 3</a></li>
                       <li><a href="about.php">About</a></li>
@@ -432,7 +430,7 @@
             </ul>
           </nav>
           <div class="logo d-lg-none">
-            <a href="index.html"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
+            <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
           </div>
         </div>
         <div class="col-xl-3 col-md-auto col-auto">
@@ -455,7 +453,7 @@
               </a>
             </div>
             <div class="logo d-sm-none">
-              <a href="index.html"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
+              <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
             </div>
           </div>
         </div>
@@ -541,7 +539,7 @@
           <div class="row justify-content-between align-items-center">
             <div class="col-xl-3 col-lg-auto">
               <div class="header-logo d-flex justify-content-between align-items-center">
-                <a href="index.html"><img src="home/img/logo.svg" alt="Luxrio" class="logo" /></a>
+                <a href="index.php"><img src="home/img/logo.svg" alt="Luxrio" class="logo" /></a>
                 <div class="d-flex align-items-center gap-3">
                   <button class="wc-link2 searchBoxTggler d-lg-none">
                     <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
@@ -560,9 +558,9 @@
               <nav class="main-menu menu-style1 d-none d-lg-block">
                 <ul class="d-flex justify-content-center align-items-center">
                   <li class="menu-item-has-children">
-                    <a href="index.html">Home</a>
+                    <a href="index.php">Home</a>
                     <!-- <ul class="sub-menu">
-                      <li><a href="index.html">Home 1</a></li>
+                      <li><a href="index.php">Home 1</a></li>
                       <li><a href="index-2.html">Home 2</a></li>
                       <li><a href="index-3.html">Home 3</a></li>
                     </ul> -->
@@ -579,11 +577,10 @@
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">Select Room Type</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a>
+                      <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="destination.html">THE FOREST WING</a></li>
                           <li>
-                            <a href="destination.html">Forest Deluxe (Ground Floor)</a>
+                            <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                           </li>
                           <li>
                             <a href="destination.html">Forest Duplex (1st Floor)</a>
@@ -644,7 +641,7 @@
                       <li>
                         <a href="#">Page List 1</a>
                         <ul>
-                          <li><a href="index.html">Home 1</a></li>
+                          <li><a href="index.php">Home 1</a></li>
                           <li><a href="index-2.html">Home 2</a></li>
                           <li><a href="index-3.html">Home 3</a></li>
                           <li><a href="about.php">About</a></li>

@@ -15,7 +15,7 @@
                             <div class="breadcrumb-menu">
                                 <ul class="custom-ul">
                                     <li>
-                                        <a href="index.html">Home</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li>Blog</li>
                                 </ul>

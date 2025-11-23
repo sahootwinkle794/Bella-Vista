@@ -53,7 +53,7 @@
         <div class="row gx-4 gy-4 gx-xl-2 justify-content-between">
           <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="footer-widgets">
-              <a href="index.html" class="logo">
+              <a href="index.php" class="logo">
                 <img src="home/img/logo.svg" alt="logo" />
               </a>
               <div class="social-media">
@@ -262,6 +262,133 @@
 
   <!-- Main Js File -->
   <script src="home/js/main.js"></script>
+
+   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- Main Js File -->
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js">
+    </script>
+    <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
+    </script>
+    <script>
+        const videoModal = document.getElementById('videoModal');
+        const video = document.getElementById('resortVideo');
+
+        videoModal.addEventListener('hidden.bs.modal', () => {
+            video.pause();
+            video.currentTime = 0;
+        });
+    </script>
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides((slideIndex += n));
+        }
+
+        function currentSlide(n) {
+            showSlides((slideIndex = n));
+        }
+
+        function showSlides(n) {
+            const slides = document.getElementsByClassName("slide-item");
+            const thumbs = document.getElementsByClassName("thumb-item");
+            const caption = document.getElementById("captionText");
+
+            if (n > slides.length) slideIndex = 1;
+            if (n < 1) slideIndex = slides.length;
+
+            for (let i = 0; i < slides.length; i++) slides[i].classList.remove("active");
+            for (let i = 0; i < thumbs.length; i++) thumbs[i].classList.remove("active");
+
+            slides[slideIndex - 1].classList.add("active");
+            thumbs[slideIndex - 1].classList.add("active");
+            caption.innerText = thumbs[slideIndex - 1].alt;
+        }
+
+        // Drag-to-scroll for thumbnails
+        const thumbBar = document.getElementById("thumbnailBar");
+        let isDown = false;
+        let startX, scrollLeft;
+
+        thumbBar.addEventListener("mousedown", (e) => {
+            isDown = true;
+            thumbBar.classList.add("active");
+            startX = e.pageX - thumbBar.offsetLeft;
+            scrollLeft = thumbBar.scrollLeft;
+        });
+
+        thumbBar.addEventListener("mouseleave", () => (isDown = false));
+        thumbBar.addEventListener("mouseup", () => (isDown = false));
+        thumbBar.addEventListener("mousemove", (e) => {
+            if (!isDown) return;
+            e.preventDefault();
+            const x = e.pageX - thumbBar.offsetLeft;
+            const walk = (x - startX) * 2;
+            thumbBar.scrollLeft = scrollLeft - walk;
+        });
+    </script>
+    <script>
+        var owl = $('.owl-carousel');
+        owl.owlCarousel({
+            items: 1,
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: true
+        });
+
+        // Room button navigation
+        $('.next-room').click(function () {
+            owl.trigger('next.owl.carousel');
+        });
+
+        $('.prev-room').click(function () {
+            owl.trigger('prev.owl.carousel', [300]);
+        });
+
+    </script>
+    <script>
+        const vdoModal = document.getElementById('exampleModal');
+        const modalVideo = document.getElementById('modalVideo');
+
+        // Play video only when modal opens
+        vdoModal.addEventListener('shown.bs.modal', () => {
+            modalVideo.play();
+        });
+
+        // Pause video immediately when modal closes
+        vdoModal.addEventListener('hide.bs.modal', () => {
+            modalVideo.pause();
+        });
+
+        // Reset video time after modal fully closed
+        vdoModal.addEventListener('hidden.bs.modal', () => {
+            modalVideo.currentTime = 0;
+        });
+    </script>
+    <script>
+        document.querySelectorAll('.destination-info-tabs a').forEach(tab => {
+            tab.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                // Remove active state from all tabs
+                document.querySelectorAll('.destination-info-tabs li').forEach(li => li.classList.remove('current'));
+
+                // Hide all tab contents
+                document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+                // Add active to clicked tab
+                this.parentElement.classList.add('current');
+
+                // Show the target content
+                const target = this.getAttribute('href');
+                document.querySelector(target).classList.add('active');
+            });
+        });
+    </script>
 </body>
 
 <!-- Mirrored from expert-themes.com/html/roisk/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Nov 2025 02:10:28 GMT -->

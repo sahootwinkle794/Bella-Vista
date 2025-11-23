@@ -30,7 +30,7 @@
                 </h1>
               </div> -->
               <div class="search-box fade-anim" data-delay="0.77" data-direction="top">
-                <form action="https://html.vecurosoft.com/tripix/tripix-demo/index.html" class="align-items-center">
+                <form action="https://html.vecurosoft.com/tripix/tripix-demo/index.php" class="align-items-center">
                   <!-- Destination Field -->
                   <div class="form-group ps-0">
                     <label for="select-division" class="form-label d-flex align-items-center">

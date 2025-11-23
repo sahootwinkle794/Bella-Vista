@@ -122,7 +122,7 @@
         <div class="row gx-4 gy-4 gx-xl-2 justify-content-between">
           <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="footer-widgets">
-              <a href="index.html" class="logo">
+              <a href="index.php" class="logo">
                 <img src="home/img/logo.svg" alt="logo" />
               </a>
               <div class="social-media">
