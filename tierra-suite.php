@@ -48,55 +48,55 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-1.png" alt="">
+                                            <img src="home/img/destination/orchid/img-1.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-2.png" alt="">
+                                            <img src="home/img/destination/orchid/img-2.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-3.png" alt="">
+                                            <img src="home/img/destination/orchid/img-3.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-4.png" alt="">
+                                            <img src="home/img/destination/orchid/img-4.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-5.png" alt="">
+                                            <img src="home/img/destination/orchid/img-5.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-6.png" alt="">
+                                            <img src="home/img/destination/orchid/img-6.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-7.png" alt="">
+                                            <img src="home/img/destination/orchid/img-7.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-8.png" alt="">
+                                            <img src="home/img/destination/orchid/img-8.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-9.png" alt="">
+                                            <img src="home/img/destination/orchid/img-9.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-10.png" alt="">
+                                            <img src="home/img/destination/orchid/img-10.jpeg" alt="">
                                         </div>
                                     </div>
 
