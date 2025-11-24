@@ -11,14 +11,14 @@
         <div class="row text-center">
             <div class="col-12">
                 <div class="breadcrumb-content">
-                    <h1 class="breadcrumb-title">PREMIUM ROOM</h1>
+                    <h1 class="breadcrumb-title">FOREST DELUXE (GROUND FLOOR)</h1>
                 </div>
                 <div class="breadcrumb-menu">
                     <ul class="custom-ul">
                         <li>
                             <a href="index.php">Home</a>
                         </li>
-                        <li>PREMIUM ROOM</li>
+                        <li>FOREST DELUXE</li>
                     </ul>
                 </div>
             </div>
@@ -33,9 +33,9 @@
             <div class="col-lg-8">
                 <div class="vs-destination-single">
                     <div class="row align-items-center gy-3 mb-4">
-                        <div class="col-8 col-sm-10">
+                        <div class="col-8 col-sm-12">
                             <h2 class="destination-single-title">
-                                Premium Room
+                                FOREST DELUXE (GROUND FLOOR)
                             </h2>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
 
                         <div class="destination-single-px">
                             <div class="destination-info-tabs">
-                                <ul class="custom-ul">
+                                <ul class="custom-ul tab-ul">
                                     <li class="current"><a href="#current">Overview</a></li>
                                     <li><a href="#room">Room Services</a></li>
                                     <li><a href="#hotel">Hotel Services</a></li>
@@ -104,11 +104,10 @@
                             <!-- Tab Contents -->
                             <div id="current" class="tab-content active">
                                 <h4 class="title">Overview</h4>
-                                <p> Corner room in the new 'Red Stone' wing equipped with a King Size Bed and a
-                                    makeshift sofa bed. In addition
-                                    to sliding doors leading to the balcony, a vast expanse of glass window from
-                                    ceiling to bed level provides
-                                    180 degree views of the Lingmala valley. </p>
+                                <p> Elegantly furnished rooms fitted with modern amenities and an open balcony with a
+                                    property view. They are situated on the ground floor of the drive-in zone for easy
+                                    accessibility for the elderly and guests with disabilities. Forest Deluxe rooms are
+                                    perfect for a couple. </p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -117,12 +116,14 @@
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-1.png" alt="service">
                                             <span class="info-title">Satellite
-                                                channels</span> </div>
+                                                channels</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-2.png" alt="service">
                                             <span class="info-title">Split Air
-                                                Conditioning</span> </div>
+                                                Conditioning</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-3.png" alt="service">
@@ -132,11 +133,13 @@
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-4.png" alt="service">
                                             <span class="info-title">Laundry
-                                                Facilities</span> </div>
+                                                Facilities</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-5.png" alt="service">
-                                            <span class="info-title">Double Bed</span> </div>
+                                            <span class="info-title">Double Bed</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-6.png" alt="service">
@@ -146,7 +149,8 @@
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-7.png" alt="service">
                                             <span class="info-title">Wi
-                                                Fi</span> </div>
+                                                Fi</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-8.png" alt="service">
@@ -182,7 +186,8 @@
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-13.png" alt="service">
                                             <span class="info-title">Complimentary
-                                                Breakfast</span> </div>
+                                                Breakfast</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-14.png" alt="service">
@@ -202,11 +207,13 @@
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-17.png" alt="service">
                                             <span class="info-title">24
-                                                hour Front Desk</span> </div>
+                                                hour Front Desk</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-18.png" alt="service">
-                                            <span class="info-title">Shoe Shine</span> </div>
+                                            <span class="info-title">Shoe Shine</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-19.png" alt="service">
@@ -221,13 +228,15 @@
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                            <span class="info-title">Room size: 225 sq
-                                                feet</span> </div>
+                                            <span class="info-title">Room size: 175 sq
+                                                feet</span>
+                                        </div>
                                     </div>
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
-                                            <span class="info-title">Bathroom: 45 sq
-                                                feet</span> </div>
+                                            <span class="info-title">Bathroom: 40 sq
+                                                feet</span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -257,10 +266,10 @@
                                     data-bs-parent="#accordionRight">
                                     <div class="accordion-body">
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Forest Deluxe
+                                                    href="forestdeluxe.php">Forest Deluxe
                                                     (Ground Floor)</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Forest Duplex
+                                                    href="forestduplex.php">Forest Duplex
                                                     (1st Floor)</a></span></div>
                                     </div>
                                 </div>
@@ -277,13 +286,13 @@
                                     data-bs-parent="#accordionRight">
                                     <div class="accordion-body">
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Deluxe
+                                                    href="deluxeroom.php">Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Valley Deluxe
+                                                    href="valleydeluxe.php">Valley Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Premium
+                                                    href="premiumroom.php">Premium
                                                     Room</a></span></div>
                                     </div>
                                 </div>
@@ -300,20 +309,19 @@
                                     data-bs-parent="#accordionRight">
                                     <div class="accordion-body">
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Orchid Deluxe
+                                                    href="orchid-deluxe.php">Orchid Deluxe
                                                     (1st & 2nd floor)</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Orchid Executive
+                                                    href="orchid-executive1st.php">Orchid Executive
                                                     1st floor</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Orchid Executive
+                                                    href="orchid-executive2nd.php">Orchid Executive
                                                     2nd floor</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Tierra suite (1st
+                                                    href="tierra-suite.php">Tierra suite (1st
                                                     floor)</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Stella suite (2nd
-                                                    floor)</a></span></div>
+                                                    href="javascript:void(0);">stella-suit.php</a></span></div>
                                     </div>
                                 </div>
                             </div>
@@ -329,7 +337,7 @@
                                     data-bs-parent="#accordionRight">
                                     <div class="accordion-body">
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Forest Executive
+                                                    href="forest-executive-room.php">Forest Executive
                                                     Room</a></span></div>
                                     </div>
                                 </div>
@@ -346,220 +354,18 @@
                                     data-bs-parent="#accordionRight">
                                     <div class="accordion-body">
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">Ground
+                                                    href="ground-floor.php">Ground
                                                     Floor</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">1st
+                                                    href="1st-floor.php">1st
                                                     Floor</a></span></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- <h5 class="widget_title title-shep">THE FOREST WING</h5>
-                                <div class="recent-post-wrap">
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-                                                    Ground Floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Forest Deluxe</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                        
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-                                                    1st Floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Forest Duplex</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div> -->
+
                     </div>
-                    <!-- <div class="widget widget_recent-posts">
-                                <h5 class="widget_title title-shep">RED STONE WING</h5>
-                                <div class="recent-post-wrap">
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
 
-                                                    Red stone Wing
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Deluxe Room</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    Red stone Wing
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Premium Room</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    Red stone Wing
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Valley Deluxe Room</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="widget widget_recent-posts">
-                                <h5 class="widget_title title-shep">THE ORCHID WING</h5>
-                                <div class="recent-post-wrap">
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    1st and 2nd floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Orchid Deluxe Room</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                        
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    1st floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Orchid Executive</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                        
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    2nd floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Orchid Executive</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    1st floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Tierra Suite</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    2nd floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Stella Suite</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="widget widget_recent-posts">
-                                <h5 class="widget_title title-shep">FOREST CENTRAL WING</h5>
-                                <div class="recent-post-wrap">
-                                    <div class="recent-post">
-                                       
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    FOREST CENTRAL WING
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Forest Executive
-                                                    Room</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="widget widget_recent-posts">
-                                <h5 class="widget_title title-shep">APARTMENT WING</h5>
-                                <div class="recent-post-wrap">
-                                    <div class="recent-post">
-                                        
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    Ground Floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Apartment Wing</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post">
-                                        
-                                        <div class="media-body">
-                                            <div class="recent-post-meta">
-                                                <a href="destination.html">
-
-                                                    1st Floor
-                                                </a>
-                                            </div>
-                                            <h6 class="post-title">
-                                                <a class="text-inherit" href="destination.html">Apartment Wing</a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
                 </div>
             </div>
         </div>

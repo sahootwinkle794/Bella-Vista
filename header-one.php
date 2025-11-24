@@ -156,7 +156,7 @@
                     <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                   </li>
                   <li>
-                    <a href="destination.html">Forest Duplex (1st Floor)</a>
+                    <a href="forestduplex.php">Forest Duplex (1st Floor)</a>
                   </li>
                 </ul>
               </li>
@@ -164,46 +164,46 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">RED STONE WING</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html">Deluxe</a></li>
+                  <li class="menu-item-has-children"><a href="deluxeroom.php">Deluxe</a></li>
                   <li>
-                    <a href="destination.html">Valley Deluxe</a>
+                    <a href="valleydeluxe.php">Valley Deluxe</a>
                   </li>
                   <li>
-                    <a href="destination.html">Premium</a>
+                    <a href="premiumroom.php">Premium</a>
                   </li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">THE ORCHID WING</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html">Orchid Deluxe (1st and 2nd
+                  <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                       floor)</a></li>
                   <li>
-                    <a href="destination.html">Orchid Executive 1st floor</a>
+                    <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
                   </li>
                   <li>
-                    <a href="destination.html">Orchid Executive 2nd floor </a>
+                    <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
                   </li>
                   <li>
-                    <a href="destination.html">Tierra suite (1st floor)</a>
+                    <a href="tierra-suite.php">Tierra suite (1st floor)</a>
                   </li>
                   <li>
-                    <a href="destination.html">Stella suite (2nd floor)</a>
+                    <a href="stella-suit.php">Stella suite (2nd floor)</a>
                   </li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html"> Forest Executive Room</a>
+                  <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive Room</a>
                   </li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">APARTMENT WING</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="destination.html"> Ground Floor</a></li>
-                  <li class="menu-item-has-children"><a href="destination.html"> 1st Floor</a></li>
+                  <li class="menu-item-has-children"><a href="ground-floor.php"> Ground Floor</a></li>
+                  <li class="menu-item-has-children"><a href="1st-floor.php"> 1st Floor</a></li>
                 </ul>
               </li>
             </ul>
@@ -322,7 +322,7 @@
                         <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                       </li>
                       <li>
-                        <a href="destination.html">Forest Duplex (1st Floor)</a>
+                        <a href="forestduplex.php">Forest Duplex (1st Floor)</a>
                       </li>
                     </ul>
                   </li>
@@ -330,46 +330,46 @@
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">RED STONE WING</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html">Deluxe</a></li>
+                      <li class="menu-item-has-children"><a href="deluxeroom.php">Deluxe</a></li>
                       <li>
-                        <a href="destination.html">Valley Deluxe</a>
+                        <a href="valleydeluxe.php">Valley Deluxe</a>
                       </li>
                       <li>
-                        <a href="destination.html">Premium</a>
+                        <a href="premiumroom.php">Premium</a>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">THE ORCHID WING</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html">Orchid Deluxe (1st and 2nd
+                      <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                           floor)</a></li>
                       <li>
-                        <a href="destination.html">Orchid Executive 1st floor</a>
+                        <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
                       </li>
                       <li>
-                        <a href="destination.html">Orchid Executive 2nd floor </a>
+                        <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
                       </li>
                       <li>
-                        <a href="destination.html">Tierra suite (1st floor)</a>
+                        <a href="tierra-suite.php">Tierra suite (1st floor)</a>
                       </li>
                       <li>
-                        <a href="destination.html">Stella suite (2nd floor)</a>
+                        <a href="stella-suit.php">Stella suite (2nd floor)</a>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html"> Forest Executive Room</a>
+                      <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive Room</a>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="javascript:void(0)">APARTMENT WING</a>
                     <ul class="sub-menu">
-                      <li class="menu-item-has-children"><a href="destination.html"> Ground Floor</a></li>
-                      <li class="menu-item-has-children"><a href="destination.html"> 1st Floor</a></li>
+                      <li class="menu-item-has-children"><a href="ground-floor.php"> Ground Floor</a></li>
+                      <li class="menu-item-has-children"><a href="1st-floor.php"> 1st Floor</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -583,7 +583,7 @@
                             <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
                           </li>
                           <li>
-                            <a href="destination.html">Forest Duplex (1st Floor)</a>
+                            <a href="forestduplex.php">Forest Duplex (1st Floor)</a>
                           </li>
                         </ul>
                       </li>
@@ -591,46 +591,46 @@
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">RED STONE WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)">Deluxe</a></li>
+                          <li class="menu-item-has-children"><a href="deluxeroom.php">Deluxe</a></li>
                           <li>
-                            <a href="javascript:void(0)">Valley Deluxe</a>
+                            <a href="valleydeluxe.php">Valley Deluxe</a>
                           </li>
                           <li>
-                            <a href="javascript:void(0)">Premium</a>
+                            <a href="premiumroom.php">Premium</a>
                           </li>
                         </ul>
                       </li>
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">THE ORCHID WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)">Orchid Deluxe (1st and 2nd
+                          <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                               floor)</a></li>
                           <li>
-                            <a href="javascript:void(0)">Orchid Executive 1st floor</a>
+                            <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
                           </li>
                           <li>
-                            <a href="javascript:void(0)">Orchid Executive 2nd floor </a>
+                            <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
                           </li>
                           <li>
-                            <a href="javascript:void(0)">Tierra suite (1st floor)</a>
+                            <a href="tierra-suite.php">Tierra suite (1st floor)</a>
                           </li>
                           <li>
-                            <a href="javascript:void(0)">Stella suite (2nd floor)</a>
+                            <a href="stella-suit.php">Stella suite (2nd floor)</a>
                           </li>
                         </ul>
                       </li>
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Forest Executive Room</a>
+                          <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive Room</a>
                           </li>
                         </ul>
                       </li>
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">APARTMENT WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0)"> Ground Floor</a></li>
-                          <li class="menu-item-has-children"><a href="javascript:void(0)"> 1st Floor</a></li>
+                          <li class="menu-item-has-children"><a href="ground-floor.php"> Ground Floor</a></li>
+                          <li class="menu-item-has-children"><a href="1st-floor.php"> 1st Floor</a></li>
                         </ul>
                       </li>
                     </ul>

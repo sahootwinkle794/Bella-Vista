@@ -12625,7 +12625,7 @@ span.info-title {
 }
 button.super-button.mt-3 {
     position: absolute;
-    bottom: 30px;
+    bottom: 66px;
     right: 30px;
 }
 .modal-content {
@@ -12683,25 +12683,25 @@ button.btn-close.ms-auto {
             display: block;
         }
 
-        .custom-ul {
+        .tab-ul {
             list-style: none;
             padding: 0;
             display: flex;
             gap: 15px;
         }
 
-        .custom-ul li {
+        .tab-ul li {
             cursor: pointer;
         }
 
-        .custom-ul li.current a {
+         .tab-ul li.current a {
             font-weight: bold;
-            color: #d9534f;
+            color: #d9534f !important;
             border-bottom: 2px solid #d9534f;
             padding-bottom: 4px;
         }
 
-        .custom-ul a {
+        .tab-ul a {
             text-decoration: none;
             color: #333;
         }
@@ -12818,3 +12818,7 @@ button.btn-close.ms-auto {
                 height: 65px;
             }
         }
+
+/* .custom-ul li{
+  color: white !important;
+} */
