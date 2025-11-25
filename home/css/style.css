@@ -12866,9 +12866,185 @@ h3.room-block_two-title {
   --c1: #fce39f71;
   --c2: #ffbc7d;
 }
+
 .room-block_two-inner.card {
-    max-height: 454px;
+  height: 469px;
 }
-.room-block_two-title a:hover{
+
+.room-block_two-title a:hover {
   color: black;
+}
+
+h4.accom-head {
+  font-size: 30px;
+  font-weight: 100 !important;
+  padding: 50px;
+  padding-left: 180px;
+  padding-right: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.room-block_two-tag a {
+  color: rgb(155, 104, 1);
+  font-weight: 700;
+}
+
+.room-block_two-tag a:hover {
+  color: var(--third-theme-color);
+
+}
+
+.menu-text {
+  color: red;
+}
+
+
+thead{
+  background: var(--bg-color-1) !important;
+  color: white;
+}
+.menu-row {
+  display: flex;
+  gap: 35px;
+  /* max-width:1000px; */
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* Menu Card */
+.menu-box {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  border-radius: 20px;
+  padding: 30px 35px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Golden top border */
+.menu-box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background: linear-gradient(to right, #b8860b, #e8c77c, #b8860b);
+  border-radius: 20px 20px 0 0;
+}
+
+/* Title */
+.menu-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #2b2b2b;
+  margin-bottom: 20px;
+  padding-bottom: 14px;
+  border-bottom: 2px dashed #d0d0d0;
+  letter-spacing: 0.5px;
+}
+
+/* Menu Items */
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 18px 0;
+  border-bottom: 1px dashed #dfdfdf;
+  transition: 0.25s ease;
+}
+
+.menu-item:last-child {
+  border-bottom: none;
+}
+
+/* Hover */
+.menu-item:hover {
+  background: #fff7e6;
+  padding: 20px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+/* Dish Text Container */
+.dish-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Dish Name */
+.dish-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Subline */
+.subline {
+  font-size: 14px;
+  color: #666;
+  margin-left: 30px;
+  line-height: 1.3;
+}
+
+/* Veg / Non-Veg Icons */
+.icon-veg,
+.icon-nonveg {
+  width: 20px;
+  height: 20px;
+  border: 2px solid;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-veg {
+  border-color: #0f9d58;
+}
+
+.icon-veg::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #0f9d58;
+  border-radius: 50%;
+}
+
+.icon-nonveg {
+  border-color: #c62828;
+}
+
+.icon-nonveg::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #c62828;
+  border-radius: 50%;
+}
+
+/* Price */
+.price {
+  font-size: 18px;
+  font-weight: 700;
+  color: #444;
+  white-space: nowrap;
+}
+
+/* Responsive */
+@media (max-width:768px) {
+  .menu-row {
+    flex-direction: column;
+  }
+
+  .menu-box {
+    padding: 25px;
+  }
 }

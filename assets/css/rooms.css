@@ -374,7 +374,9 @@
 
 .room-block_two-content{
 	position:relative;
-	padding: 30px 10px 0px;
+	/* padding: 30px 10px 0px; */
+	padding-top: 10px;
+
 }
 
 .room-block_two-price{

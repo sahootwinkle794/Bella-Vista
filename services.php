@@ -42,8 +42,8 @@
                   <div class="service-block_one-icon trans-500 flaticon-parking">
                     <i class="fa-solid fa-bowl-food"></i>
                   </div>
-                  <h6 class="service-block_one-title"><a href="javascript:void(0);">In-room Dining</a></h6>
-                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="javascript:void(0);">
+                  <h6 class="service-block_one-title"><a href="roomdianing.php">In-room Dining</a></h6>
+                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="roomdianing.php">
                     <i class="fa-solid fa-arrow-right"></i>
                   </a>
                 </div>
@@ -55,8 +55,8 @@
                   <div class="service-block_one-icon trans-500 flaticon-router">
                     <i class="fa-solid fa-shirt"></i>
                   </div>
-                  <h6 class="service-block_one-title"><a href="javascript:void(0);">Laundry</a></h6>
-                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="javascript:void(0);">
+                  <h6 class="service-block_one-title"><a href="laundry.php">Laundry</a></h6>
+                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="laundry.php">
                     <i class="fa-solid fa-arrow-right"></i>
                   </a>
                 </div>
@@ -68,9 +68,9 @@
                   <div class="service-block_one-icon trans-500 flaticon-pool trans-500">
                     <i class="fa-solid fa-spa"></i>
                   </div>
-                  <h6 class="service-block_one-title"><a class="trans-500" href="javascript:void(0);">SPA</a>
+                  <h6 class="service-block_one-title"><a class="trans-500" href="spa.php">SPA</a>
                   </h6>
-                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="javascript:void(0);">
+                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="spa.php">
                     <i class="fa-solid fa-arrow-right"></i>
                   </a>
                 </div>
@@ -82,8 +82,8 @@
                   <div class="service-block_one-icon trans-500 flaticon-outside">
                     <i class="fa-solid fa-phone-volume"></i>
                   </div>
-                  <h6 class="service-block_one-title"><a href="javascript:void(0);">24x7 Available</a></h6>
-                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="javascript:void(0);">
+                  <h6 class="service-block_one-title"><a href="night-and-day.php">24x7 Available</a></h6>
+                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="night-and-day.php">
                     <i class="fa-solid fa-arrow-right"></i>
                   </a>
                 </div>
@@ -95,9 +95,9 @@
                   <div class="service-block_one-icon trans-500 flaticon-parking">
                     <i class="fa-solid fa-map-location"></i>
                   </div>
-                  <h6 class="service-block_one-title"><a href="javascript:void(0);">Property Map</a></h6>
+                  <h6 class="service-block_one-title"><a href="propertymap.php">Property Map</a></h6>
 
-                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="javascript:void(0);">
+                  <a class="service-block_one-arrow trans-500 flaticon-arrow-up" href="propertymap.php">
                     <i class="fa-solid fa-arrow-right"></i>
                   </a>
                 </div>
