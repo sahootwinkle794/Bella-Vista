@@ -267,14 +267,26 @@ span.ajax-loader:empty,
 p:empty {
   display: none;
 }
-
 p {
+    margin: 0 0 0 0;
+    color: #000000;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.sec-title_text{
+  margin: 0 0 0 0;
+    color: #000000;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 16px;
+}
+/* p {
   margin: 0 0 0 0;
   color: var(--body-color);
   line-height: 1.63;
   letter-spacing: 0.5px;
-  /* Small devices */
-}
+} */
 
 @media (max-width: 767px) {
   p {

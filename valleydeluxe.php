@@ -385,58 +385,112 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-5.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-6.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-7.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-8.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-9.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/orchid/img-10.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
                                         </div>
                                     </div>
-
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
 
@@ -744,65 +798,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -865,65 +973,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -947,65 +1109,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -1068,65 +1284,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -1150,65 +1420,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -1271,65 +1595,119 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-1.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-2.jpeg" alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-3.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-4.jpeg" alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-14.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-15.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-16.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-17.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-18.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-19.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-20.jpeg" alt="">
+                                        </div>
+                                    </div>
+                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/red-stone/red-21.jpeg" alt="">
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-5.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-6.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-7.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-8.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-9.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/orchid/img-10.jpeg" alt="">
-                                    </div>
-                                </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">

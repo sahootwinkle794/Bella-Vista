@@ -149,7 +149,13 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 }
-
+p {
+    margin: 0 0 0 0;
+    color: #000000;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 16px;
+}
 .text-left {
 	text-align: left;
 }
