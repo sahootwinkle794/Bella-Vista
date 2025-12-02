@@ -7680,6 +7680,47 @@ input #dateRange {
   gap: 33px;
 }
 
+.trip-info {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0px;
+}
+
+.room-con {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  flex: 1;
+  align-items: unset;
+
+}
+
+.room-card {
+  margin:0 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+   border: 60px solid transparent;
+  border-image-source: url("../img/about/frame.jpg");
+  border-image-slice: 200 fill;
+  border-image-repeat: stretch;
+  transition: 0.4s ease;
+}
+.room-card:hover{
+  background: rgba(255,255,255,0.9);
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+}
+.owl-dots {
+  display: none !important;
+}
+
+.room-owl.owl-carousel.owl-theme.owl-loaded.owl-drag {
+  width: 100% !important;
+  flex-shrink: 0 !important;
+  max-width: 57% !important;
+}
+
 @media (max-width: 767px) {
   .vs-destination-single .destination-single-info .trip-info {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -12900,10 +12941,11 @@ h4.accom-head {
 }
 
 
-thead{
+thead {
   background: var(--bg-color-1) !important;
   color: white;
 }
+
 .menu-row {
   display: flex;
   gap: 35px;

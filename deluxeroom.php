@@ -89,9 +89,15 @@
                             </button>
 
                         </div>
+                        <div id="current" class="tab-content active p-4">
+                            <h4 class="title">Overview</h4>
+                            <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
+                                offering a great view of the town side bungalows. If you are planning for weekend
+                                getaways in Mahabaleshwar get connect with us to find best mahabaleshwar hotels
+                                package. Book Rooms in Mahabaleshwar and make your stay memorable.</p>
+                        </div>
 
-
-                        <div class="destination-single-px">
+                        <!-- <div class="destination-single-px">
                             <div class="destination-info-tabs">
                                 <ul class="custom-ul tab-ul">
                                     <li class="current"><a href="#current">Overview</a></li>
@@ -101,7 +107,6 @@
                                 </ul>
                             </div>
 
-                            <!-- Tab Contents -->
                             <div id="current" class="tab-content active">
                                 <h4 class="title">Overview</h4>
                                 <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
@@ -240,7 +245,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -370,88 +375,463 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
-</section>
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-<!--================= Destination Details end =================-->
-
-<!--================= Exclusive-gallery Area start =================-->
-<section class="vs-exclusive-gallery bg-title-color overflow-hidden" data-bg-src="home/img/bg/exclusive-gallery-bg.png">
-    <div class="vs-exclusive-gallery-wrapper space">
-        <div class="has-shape"></div>
-        <div class="container-fluid p-0 overflow-hidden">
-            <div class="row">
-                <div class="col-lg-auto mx-auto">
-                    <div class="title-area text-center">
-                        <span class="sec-subtitle text-capitalize fade-anim" data-direction="top">Best Value for
-                            you </span>
-                        <h2 class="sec-title text-white fade-anim" data-direction="bottom">
-                            Our Room Category
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="swiper exclusive-gallery-slider">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
                                         <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
-                                            alt="gallery" class="w-100" />
+                                            alt="">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
-                                        <img src="https://www.bellavistaresort.com/images/valley-deluxe/valley-deluxe-01.jpg"
-                                            alt="gallery" class="w-100" />
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
-                                        <img src="https://www.bellavistaresort.com/images/deluxe/deluxe-04.jpg"
-                                            alt="gallery" class="w-100" />
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
                                     </div>
                                 </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
-                                        <img src="https://www.bellavistaresort.com/images/forest-deluxe/forest-deluxe-02.jpg"
-                                            alt="gallery" class="w-100" />
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
                                     </div>
                                 </div>
+
                             </div>
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
-                                        <img src="https://www.bellavistaresort.com/images/forest-duplex/forest-duplex-04.jpg"
-                                            alt="gallery" class="w-100" />
-                                    </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+                    <div class="room-card card p-5">
+                        <h4>Garden View Room</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="exclusive-gallery-box">
-                                    <div class="gallery-thumb">
-                                        <img src="https://www.bellavistaresort.com/images/orchid-deluxe/orchide-deluxe-02.jpg"
-                                            alt="gallery" class="w-100" />
-                                    </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
                         </div>
-                        <div class="exclusive-gallery-slider-pagination"></div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
                     </div>
                 </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-card card p-5">
+                        <h4>Lake View Room</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+                    <div class="room-card card p-5">
+                        <h4>Lakeview Suite</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-card card p-5">
+                        <h4>Water Villa</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+                    <div class="room-card card p-5">
+                        <h4>Sky Villa</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid mt-5 pt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="room-con">
+                    <div class="room-card card p-5">
+                        <h4>4 Bedroom Villa</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage"
+                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-02.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-01.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-07.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="https://www.bellavistaresort.com/images/premium/premium-09.jpg"
+                                            alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Replace nav with room buttons -->
+                        <div class="owl-nav">
+                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
+                                    alt="icon"></button>
+                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
+                                    alt="icon"></button>
+                        </div>
+
+                    </div>
+
+                </div>
+
             </div>
         </div>
     </div>
 </section>
-<!--================= Exclusive-gallery Area end ================-->
+
+<!--================= Destination Details end =================-->
+
 
 
 
