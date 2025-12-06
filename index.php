@@ -123,7 +123,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="destination.html">Safety<br> Protocol</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safety<br> Protocol</a>
                   </h5>
                 </div>
               </div>
@@ -138,7 +138,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="destination.html">Contactless Technology</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Contactless Technology</a>
                   </h5>
                 </div>
               </div>
@@ -157,7 +157,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="destination.html">Trained On<br> Hygiene</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Trained On<br> Hygiene</a>
                   </h5>
                 </div>
               </div>
@@ -172,7 +172,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="destination.html">Safer<br> Rooms</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safer<br> Rooms</a>
                   </h5>
                 </div>
               </div>
@@ -181,7 +181,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="destination.html" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
           <span>view more</span>
         </a>
       </div>
@@ -232,10 +232,10 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Private Spaces</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Private Spaces</a>
                     </h4>
                   </div>
-                  <a href="destination.html" class="icon bg-theme-color text-white-color">
+                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="icon bg-theme-color text-white-color">
                     <i class="fa-solid fa-location-dot"></i>
                   </a>
                 </div>
@@ -249,7 +249,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Rustic ambience</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Rustic ambience</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -266,7 +266,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Resort and Spa</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Resort and Spa</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -283,7 +283,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">High-speed internet</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">High-speed internet</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -300,7 +300,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Convenient location</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Convenient location</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -317,7 +317,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Beautiful views</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Beautiful views</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -334,7 +334,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Homely food</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Homely food</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -351,7 +351,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Ample parking</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Ample parking</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -368,7 +368,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Family-oriented</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Family-oriented</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -385,7 +385,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Play area</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Play area</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -402,7 +402,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Kid friendly</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Kid friendly</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -419,7 +419,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Short city break</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Short city break</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -436,7 +436,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="destination.html">Eclectic experiences</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Eclectic experiences</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -698,7 +698,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="destination.html" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
           <span>view more</span>
         </a>
       </div>
@@ -800,7 +800,7 @@
 
             </div>
             <div class="text-center mt-50 btn-trigger btn-bounce">
-              <a href="destination.html" class="vs-btn style4">
+              <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
                 <span>view more</span>
               </a>
             </div>
