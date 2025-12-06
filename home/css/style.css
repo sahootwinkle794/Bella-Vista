@@ -126,7 +126,7 @@ Version: 1.0.0
   --bg-color-12-rgb: 67, 163, 45;
   --bg-color-13: #d80808;
   --bg-color-13-rgb: 217, 8, 8;
-  --vs-border-color: #e0e0e0;
+  --vs-border-color: #868484;
   --title-font: "Abril Fatface", serif;
   --body-font: "Rubik", serif;
   --bricolage-font: "Bricolage Grotesque", serif;
@@ -1307,7 +1307,10 @@ input[type=checkbox]~label {
   cursor: pointer;
   display: block;
 }
-
+.flexible-dt{
+  font-size: 12px;
+  padding-left: 0px !important;
+}
 input[type=checkbox]~label:before {
   content: "";
   font-family: var(--icon-font);
@@ -3713,7 +3716,9 @@ input #dateRange {
   font-size: 20px;
   z-index: -1;
 }
-
+.search-box form .form-group:nth-child(2)::after {
+  bottom:35px !important;
+}
 .search-box form .form-group .date-form:not(:last-child)::after {
   right: 0px !important;
 }

@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Flexible Booking Date</title>
+  <!-- <style>
+    body { font-family: system-ui, -apple-system, Roboto, "Segoe UI", sans-serif; padding: 1rem; }
+    .row { display:flex; gap:.5rem; align-items:center; margin:.5rem 0; flex-wrap:wrap; }
+    label { font-size:.95rem; }
+    input[type="date"], select { padding:.4rem .5rem; border:1px solid #ccc; border-radius:6px; }
+    .muted { color:#666; font-size:.9rem; }
+    .card { border:1px solid #eee; padding:1rem; border-radius:8px; max-width:480px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    .hidden { display:none; }
+    button { padding:.5rem .9rem; border: none; background:#2563eb; color:white; border-radius:6px; cursor:pointer; }
+    button:active { transform: translateY(1px); }
+  </style> -->
+</head>
+<body>
+  <div class="card" role="region" aria-labelledby="booking-heading">
+    <h2 id="booking-heading">Book — Flexible Date</h2>
+
+   <form>
+
+  <label>Start Date</label>
+  <input type="date" id="startDate">
+
+  <label>To Date</label>
+  <input type="date" id="toDate">
+
+  <div style="margin-top:10px;">
+    <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
+    <label for="flexibleDate">Flexible Date</label>
+  </div>
+
+</form>
+
+  </div>
+<script>
+  function toggleFlexible() {
+    const isFlexible = document.getElementById("flexibleDate").checked;
+
+    document.getElementById("startDate").disabled = isFlexible;
+    document.getElementById("toDate").disabled = isFlexible;
+  }
+</script>
+
+</body>
+</html>

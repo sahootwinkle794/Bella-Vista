@@ -383,134 +383,113 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-1.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-1.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-3.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-4.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-4.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-5.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-5.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-6.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-6.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-7.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-7.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-8.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-8.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-9.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-9.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-10.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-10.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-11.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-11.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-12.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-12.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-13.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-13.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-14.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-14.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-15.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-16.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-16.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-17.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-17.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-18.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-18.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-19.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-19.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-20.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-20.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-21.jpeg"
-                                                alt="">
+                                            <img src="home/img/destination/forest-deluxe/img-21.jpeg" alt="">
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
 
@@ -824,29 +803,110 @@
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-1.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-2.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-4.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-5.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-6.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-7.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-8.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-9.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-10.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-11.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-12.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-13.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-14.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-16.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-17.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-18.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-19.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-20.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-21.jpeg" alt="">
                                     </div>
                                 </div>
 
@@ -919,29 +979,110 @@
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-1.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-2.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-4.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-5.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-6.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-7.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-8.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-9.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-10.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-11.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-12.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-13.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-14.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-16.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-17.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-18.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-19.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-20.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-21.jpeg" alt="">
                                     </div>
                                 </div>
 
@@ -975,35 +1116,115 @@
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-1.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-2.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="">
                                     </div>
                                 </div>
 
                                 <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                     <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                        <img src="home/img/destination/forest-deluxe/img-4.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-5.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-6.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-7.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-8.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-9.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-10.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-11.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-12.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-13.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-14.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-16.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-17.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-18.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-19.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-20.jpeg" alt="">
+                                    </div>
+                                </div>
+                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                    <div class="item">
+                                        <img src="home/img/destination/forest-deluxe/img-21.jpeg" alt="">
                                     </div>
                                 </div>
 
                             </div>
                         </div>
-
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
                             <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
@@ -1064,40 +1285,142 @@
                     </div>
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
-                        <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                       <div class="owl-stage-outer">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-1.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-3.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-4.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-5.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-6.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-7.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-8.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-9.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-10.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-11.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-12.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-13.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-14.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-15.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-16.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-17.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-18.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-19.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-20.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-21.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    
                                 </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -1120,40 +1443,142 @@
                 <div class="room-con">
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
-                        <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                       <div class="owl-stage-outer">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-1.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-3.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-4.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-5.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-6.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-7.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-8.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-9.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-10.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-11.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-12.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-13.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-14.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-15.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-16.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-17.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-18.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-19.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-20.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-21.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    
                                 </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">
@@ -1216,39 +1641,141 @@
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
+                                <div class="owl-stage"
+                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-02.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-1.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-01.jpg"
-                                            alt="">
+                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-07.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-3.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                    <div class="item">
-                                        <img src="home/img/destination/premium/premium-09.jpg"
-                                            alt="">
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-4.jpeg"
+                                                alt="">
+                                        </div>
                                     </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-5.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-6.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-7.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-8.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-9.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-10.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-11.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-12.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-13.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-14.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-15.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-16.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-17.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-18.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-19.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-20.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
+                                        <div class="item">
+                                            <img src="home/img/destination/forest-deluxe/img-21.jpeg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    
                                 </div>
-
                             </div>
-                        </div>
 
                         <!-- Replace nav with room buttons -->
                         <div class="owl-nav">

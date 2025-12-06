@@ -395,13 +395,43 @@
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<!-- <script>
+  function toggleFlexible() {
+    const isFlexible = document.getElementById("flexibleDate").checked;
 
+    document.getElementById("startDate").disabled = isFlexible;
+    document.getElementById("toDate").disabled = isFlexible;
+  }
+</script>
 <script>
   flatpickr("#dateRange", {
     mode: "range",
     dateFormat: "Y-m-d",
     allowInput: true
   });
+</script> -->
+<script>
+  // initialize flatpickr
+  const datePicker = flatpickr("#dateRange", {
+    mode: "range",
+    dateFormat: "Y-m-d",
+    allowInput: true
+  });
+
+  function toggleFlexible() {
+    const flexible = document.getElementById("flexibleDate").checked;
+
+    if (flexible) {
+      // disable date picker input
+      document.getElementById("dateRange").disabled = true;
+
+      // clear selected date range
+      datePicker.clear();
+    } else {
+      // enable date picker input again
+      document.getElementById("dateRange").disabled = false;
+    }
+  }
 </script>
 
 </body>
