@@ -41,6 +41,9 @@
   <link rel="stylesheet" href="home/css/style.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
   <style>
+ 
+
+
     .destination-box {
       position: relative;
       overflow: hidden;

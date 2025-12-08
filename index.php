@@ -72,11 +72,34 @@
                 <label for="guest-dropdown" class="form-label d-flex align-items-center">
                   <i class="fa-regular fa-user-hoodie me-2"></i> Guest
                 </label>
-                <select id="guest-dropdown" name="guest" class="form-select">
+                <!-- <select id="guest-dropdown" name="guest" class="form-select">
                   <option value="1">Child</option>
-                  <option value="2">Kinder</option>
-                  <option value="3">Adult</option>
-                </select>
+                  <option value="2">Adult</option>
+                </select> -->
+                <div class="custom-select">
+  <div class="select-display">Guests: <span id="total-guests">1</span></div>
+
+  <div class="select-dropdown">
+    <div class="counter-item">
+      <span>Adults</span>
+      <div class="counter-controls">
+        <button class="minus" data-type="adult">-</button>
+        <span id="adult-count">1</span>
+        <button class="plus" data-type="adult">+</button>
+      </div>
+    </div>
+
+    <div class="counter-item">
+      <span>Children</span>
+      <div class="counter-controls">
+        <button class="minus" data-type="child">-</button>
+        <span id="child-count">0</span>
+        <button class="plus" data-type="child">+</button>
+      </div>
+    </div>
+  </div>
+</div>
+
               </div>
               <!-- Submit Button -->
               <div class="form-group pe-0">
