@@ -255,7 +255,7 @@
                                         </div>
                                     </div>
                                     <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                        <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                             <span class="info-title">Bathroom: 35 sq
                                                 feet</span>
                                         </div>
@@ -639,7 +639,7 @@
                                         </div>
                                     </div>
                                     <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                        <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                             <span class="info-title">Bathroom: 45 sq
                                                 feet</span>
                                         </div>
@@ -876,7 +876,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
@@ -905,7 +905,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
@@ -1109,7 +1109,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
@@ -1138,7 +1138,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
@@ -1342,7 +1342,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
@@ -1371,7 +1371,7 @@
                                 </div>
                             </div>
                             <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
