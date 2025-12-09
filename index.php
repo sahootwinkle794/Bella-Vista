@@ -29,86 +29,7 @@
                   with us
                 </h1>
               </div> -->
-          <div class="search-box fade-anim" data-delay="0.77" data-direction="top">
-            <form action="https://html.vecurosoft.com/tripix/tripix-demo/index.php" class="align-items-center">
-              <!-- Destination Field -->
-              <div class="form-group ps-0">
-                <label for="select-division" class="form-label d-flex align-items-center">
-                  <i class="fa-sharp fa-light fa-location-dot me-2"></i>
-                  Select Room Type
-                </label>
-                <select id="select-division" name="division" class="form-select" required>
-                  <option value="" disabled selected hidden>
-                    Select Division
-                  </option>
-                  <option value="Barishal">Barishal</option>
-                  <option value="Chattogram">Chattogram</option>
-                  <option value="Dhaka">Dhaka</option>
-                  <option value="Khulna">Khulna</option>
-                  <option value="Mymensingh">Mymensingh</option>
-                  <option value="Rajshahi">Rajshahi</option>
-                  <option value="Rangpur">Rangpur</option>
-                  <option value="Sylhet">Sylhet</option>
-                </select>
-              </div>
-              <!-- Date Field -->
-              <div class="form-group date-form">
-                <label for="search-date" class="form-label d-flex align-items-center">
-                  <i class="fa-regular fa-calendar-days me-2"></i>
-                  Date
-                </label>
-                <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
-                      readonly /> -->
-                <input type="text" id="dateRange" class="form-select" placeholder="From – To">
 
-                <div style="margin-top:10px;">
-                  <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
-                  <label for="flexibleDate" class="flexible-dt">Flexible Date</label>
-                </div>
-              </div>
-              
-              <!-- Guest Field -->
-              <div class="form-group">
-                <label for="guest-dropdown" class="form-label d-flex align-items-center">
-                  <i class="fa-regular fa-user-hoodie me-2"></i> Guest
-                </label>
-                <!-- <select id="guest-dropdown" name="guest" class="form-select">
-                  <option value="1">Child</option>
-                  <option value="2">Adult</option>
-                </select> -->
-                <div class="custom-select">
-  <div class="select-display">Guests: <span id="total-guests">1</span></div>
-
-  <div class="select-dropdown">
-    <div class="counter-item">
-      <span>Adults</span>
-      <div class="counter-controls">
-        <button class="minus" data-type="adult">-</button>
-        <span id="adult-count">1</span>
-        <button class="plus" data-type="adult">+</button>
-      </div>
-    </div>
-
-    <div class="counter-item">
-      <span>Children</span>
-      <div class="counter-controls">
-        <button class="minus" data-type="child">-</button>
-        <span id="child-count">0</span>
-        <button class="plus" data-type="child">+</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-              </div>
-              <!-- Submit Button -->
-              <div class="form-group pe-0">
-                <button type="submit" class="vs-btn style4 w-100">
-                  Search
-                </button>
-              </div>
-            </form>
-          </div>
         </div>
       </div>
     </div>
@@ -118,9 +39,71 @@
 <!--================= Hero Area end =================-->
 <!--================= Commitment Area end =================-->
 <div class="vs-services-style1 space bg-second-theme-color" data-bg-src="home/img/services/vs-services-style1-bg.png">
+  <div class="search-box fade-anim" data-delay="0.77" data-direction="top">
+    <form action="javascript:void(0);" class="align-items-center">
+      <!-- Destination Field -->
+     
+      <!-- Date Field -->
+      <div class="form-group date-form">
+        <label for="search-date" class="form-label d-flex align-items-center">
+          <i class="fa-regular fa-calendar-days me-2"></i>
+          Date
+        </label>
+        <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
+                      readonly /> -->
+        <input type="text" id="dateRange" class="form-select" placeholder="From – To">
+
+        <div style="margin-top:10px;">
+          <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
+          <label for="flexibleDate" class="flexible-dt">Flexible Date</label>
+        </div>
+      </div>
+
+      <!-- Guest Field -->
+      <div class="form-group">
+        <label for="guest-dropdown" class="form-label d-flex align-items-center">
+          <i class="fa-regular fa-user-hoodie me-2"></i> Guest
+        </label>
+        <!-- <select id="guest-dropdown" name="guest" class="form-select">
+                  <option value="1">Child</option>
+                  <option value="2">Adult</option>
+                </select> -->
+        <div class="custom-select">
+          <div class="select-display">Guests: <span id="total-guests">1</span></div>
+
+          <div class="select-dropdown">
+            <div class="counter-item">
+              <span>Adults</span>
+              <div class="counter-controls">
+                <button class="minus" data-type="adult">-</button>
+                <span id="adult-count">1</span>
+                <button class="plus" data-type="adult">+</button>
+              </div>
+            </div>
+
+            <div class="counter-item">
+              <span>Children</span>
+              <div class="counter-controls">
+                <button class="minus" data-type="child">-</button>
+                <span id="child-count">0</span>
+                <button class="plus" data-type="child">+</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- Submit Button -->
+      <div class="form-group pe-0">
+        <button type="submit" class="vs-btn style4 w-100">
+          Search
+        </button>
+      </div>
+    </form>
+  </div>
   <img src="home/img/icons/cloud.png" alt="icon" class="vs-services-style1-icon-1 animate-parachute" />
   <img src="home/img/icons/ballon.png" alt="icon" class="vs-services-style1-icon-2 animate-parachute" />
-  <div class="container">
+  <div class="container mt-5">
     <div class="title-area text-center text-md-center">
       <span class="sec-subtitle fade-anim" data-direction="bottom">Commitment Restrengthened</span>
       <h2 class="sec-title text-white-color fade-anim" data-direction="top">
@@ -146,7 +129,8 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safety<br> Protocol</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safety<br>
+                      Protocol</a>
                   </h5>
                 </div>
               </div>
@@ -161,7 +145,8 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Contactless Technology</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Contactless
+                      Technology</a>
                   </h5>
                 </div>
               </div>
@@ -180,7 +165,8 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Trained On<br> Hygiene</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Trained On<br>
+                      Hygiene</a>
                   </h5>
                 </div>
               </div>
@@ -255,10 +241,12 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Private Spaces</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Private
+                        Spaces</a>
                     </h4>
                   </div>
-                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="icon bg-theme-color text-white-color">
+                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
+                    class="icon bg-theme-color text-white-color">
                     <i class="fa-solid fa-location-dot"></i>
                   </a>
                 </div>
@@ -272,7 +260,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Rustic ambience</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Rustic
+                        ambience</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -289,7 +278,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Resort and Spa</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Resort and
+                        Spa</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -306,7 +296,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">High-speed internet</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">High-speed
+                        internet</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -323,7 +314,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Convenient location</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Convenient
+                        location</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -340,7 +332,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Beautiful views</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Beautiful
+                        views</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -391,7 +384,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Family-oriented</a>
+                      <a
+                        href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Family-oriented</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -442,7 +436,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Short city break</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Short city
+                        break</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -459,7 +454,8 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Eclectic experiences</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Eclectic
+                        experiences</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
