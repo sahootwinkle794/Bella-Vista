@@ -781,90 +781,10 @@
             <div class="col-md-12">
                 <div class="room-con">
                     <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                       <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
+                        <div class="item">
                                             <img src="home/img/destination/orchid/img-14.jpeg" alt="">
                                         </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
+                     
 
                     </div>
                     <div class="room-card card p-5">

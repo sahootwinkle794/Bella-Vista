@@ -7713,21 +7713,19 @@ input #dateRange {
 }
 
 .room-card {
-  margin: 0 25px;
+  margin:0 25px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-
-  border: 60px solid transparent;
+   border: 60px solid transparent;
   border-image-source: url("../img/about/frame.png");
-  
-  /* Key fixes */
-  border-image-slice: 200;
-  border-image-repeat: round;   /* NOT stretch, NOT repeat */
-
+  border-image-slice: 200 fill;
+  border-image-repeat: stretch;
   background-color: #00310d;
   transition: 0.4s ease;
 }
+
+
 
 .room-card:hover{
   transform: translateY(-8px);
