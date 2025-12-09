@@ -776,17 +776,14 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid mt-5 pt-5">
+    <!-- <div class="container-fluid mt-5 pt-5">
         <div class="row">
             <div class="col-md-12">
                 <div class="room-con">
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                     
-
+                     <div class="room-item">
+                        <img src="home/img/destination/orchid/img-14.jpeg" alt="">
                     </div>
+                     
                     <div class="room-card card p-5">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
@@ -811,591 +808,98 @@
 
             </div>
         </div>
-    </div>
-    <div class="container-fluid mt-5 pt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="room-con">
-                    <div class="room-card card p-5">
-                        <h4>Lake View Room</h4>
-                        <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
-                    </div>
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                        <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid mt-5 pt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="room-con">
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                       <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
-
-                    </div>
-                    <div class="room-card card p-5">
-                        <h4>Lakeview Suite</h4>
-                        <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid mt-5 pt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="room-con">
-                    <div class="room-card card p-5">
-                        <h4>Water Villa</h4>
-                        <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
-                    </div>
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                       <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid mt-5 pt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="room-con">
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                       <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
-
-                    </div>
-                    <div class="room-card card p-5">
-                        <h4>Sky Villa</h4>
-                        <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid mt-5 pt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="room-con">
-                    <div class="room-card card p-5">
-                        <h4>4 Bedroom Villa</h4>
-                        <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
-                    </div>
-                    <div class="room-owl owl-carousel owl-theme owl-loaded owl-drag">
-
-                       <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-11.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-12.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-13.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-22.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/orchid/img-23.jpeg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        <!-- Replace nav with room buttons -->
-                        <div class="owl-nav">
-                            <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                    alt="icon"></button>
-                            <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                    alt="icon"></button>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-    </div>
+    </div> -->
+    
 </section>
+
+<section class="about-three">
+        <div class="pattern-one" style="background-image:url(assets/images/background/pattern-7.png)"></div>
+        <div class="auto-container">
+          <div class="inner-container">
+            <div class="row clearfix">
+              <!-- Column -->
+              <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+                <div class="about-three_image img-reveal overlay-anim room-img">
+                  <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                </div>
+               
+                
+                <div class="room-dott about-three_dotted" style="background-image:url(assets/images/main-slider/dotted.png)">
+                </div>
+              </div>
+              <!-- Column -->
+              <div class="column col-lg-7 col-md-12 col-sm-12">
+                <div class="room-card card p-5 mt-5">
+                        <h4>Garden View Room</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="auto-container mt-3">
+          <div class="inner-container">
+            <div class="row clearfix">
+              <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                <div class="room-card card p-5 mt-5">
+                        <h4>Garden View Room</h4>
+                        <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+              </div>
+              <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+                <div class="about-three_image img-reveal overlay-anim room-img room-img-right">
+                  <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                </div>
+               
+                
+                <div class="room-dott about-three_dotted" style="background-image:url(assets/images/main-slider/dotted.png)">
+                </div>
+              </div>
+              <!-- Column -->
+             
+            </div>
+          </div>
+        </div>
+      </section>
 <!--================= Destination Details end =================-->
 
 

@@ -7721,11 +7721,9 @@ input #dateRange {
   border-image-source: url("../img/about/frame.png");
   border-image-slice: 200 fill;
   border-image-repeat: stretch;
-  background-color: #00310d;
+  background-color: #102311;
   transition: 0.4s ease;
 }
-
-
 
 .room-card:hover{
   transform: translateY(-8px);
@@ -7734,7 +7732,22 @@ input #dateRange {
 .room-card h4,.room-card p{
   color: var(--bg-color-1);
 }
-
+.about-three_image.img-reveal.overlay-anim.room-img {
+    width: 600px;
+}
+.about-three_image.img-reveal.overlay-anim.room-img.room-img-right {
+    width: 600px;
+}
+.room-dott {
+    position: absolute;
+    right: 0;
+    left: 70%;
+    bottom: 8% !important;
+    width: 246px;
+    height: 246px;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
 .owl-dots {
   display: none !important;
 }
