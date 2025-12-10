@@ -7732,17 +7732,18 @@ input #dateRange {
 .room-card h4,.room-card p{
   color: var(--bg-color-1);
 }
-.about-three_image.img-reveal.overlay-anim.room-img {
-    width: 600px;
+.room-img {
+    width: 700px;
 }
-.about-three_image.img-reveal.overlay-anim.room-img.room-img-right {
+.room-img-right {
     width: 600px;
+    z-index: 1;
 }
 .room-dott {
     position: absolute;
     right: 0;
-    left: 70%;
-    bottom: 8% !important;
+    left: 89%;
+    bottom: -47px;
     width: 246px;
     height: 246px;
     z-index: -1;
