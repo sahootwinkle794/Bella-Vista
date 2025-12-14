@@ -814,7 +814,7 @@
 
 <section class="about-three">
     <div class="pattern-one" style="background-image:url(assets/images/background/pattern-7.png)"></div>
-    <div class="auto-container">
+    <div class="container">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->
@@ -855,7 +855,7 @@
             </div>
         </div>
     </div>
-    <div class="auto-container mt-5 pt-5">
+    <div class="container mt-5 pt-5">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->
@@ -897,7 +897,7 @@
             </div>
         </div>
     </div>
-    <div class="auto-container mt-5 pt-5">
+    <div class="container mt-5 pt-5">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->
@@ -938,7 +938,7 @@
             </div>
         </div>
     </div>
-    <div class="auto-container mt-5 pt-5">
+    <div class="container mt-5 pt-5">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->

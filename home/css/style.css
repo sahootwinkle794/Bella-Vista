@@ -267,20 +267,23 @@ span.ajax-loader:empty,
 p:empty {
   display: none;
 }
+
 p {
-    margin: 0 0 0 0;
-    color: #000000;
-    line-height: 26px;
-    font-weight: 400;
-    font-size: 16px;
-}
-.sec-title_text{
   margin: 0 0 0 0;
-    color: #000000;
-    line-height: 26px;
-    font-weight: 400;
-    font-size: 16px;
+  color: #000000;
+  line-height: 26px;
+  font-weight: 400;
+  font-size: 16px;
 }
+
+.sec-title_text {
+  margin: 0 0 0 0;
+  color: #000000;
+  line-height: 26px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
 /* p {
   margin: 0 0 0 0;
   color: var(--body-color);
@@ -1307,9 +1310,11 @@ input[type=checkbox]~label {
   cursor: pointer;
   display: block;
 }
-.flexible-dt{
+
+.flexible-dt {
   font-size: 12px;
 }
+
 input[type=checkbox]~label:before {
   content: "";
   font-family: var(--icon-font);
@@ -3716,9 +3721,11 @@ input #dateRange {
   font-size: 20px;
   z-index: -1;
 }
+
 .search-box form .form-group:nth-child(2)::after {
   display: none;
 }
+
 .search-box form .form-group .date-form:not(:last-child)::after {
   right: 0px !important;
 }
@@ -7713,42 +7720,53 @@ input #dateRange {
 }
 
 .room-card {
-  margin:0 25px;
+  margin: 0 25px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-   border: 60px solid transparent;
+  border: 60px solid transparent;
   border-image-source: url("../img/about/frame.png");
   border-image-slice: 200 fill;
   border-image-repeat: stretch;
   background-color: #102311;
   transition: 0.4s ease;
+  border-radius: 15px;
+  margin-left: 97px;
 }
 
-.room-card:hover{
+.room-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
 }
-.room-card h4,.room-card p{
+.room-img img{
+  border-radius: 15px;
+}
+.room-card h4,
+.room-card p {
   color: var(--bg-color-1);
 }
+
 .room-img {
-    width: 700px;
+  width: 700px;
 }
+
 .room-img-right {
-    width: 600px;
-    z-index: 1;
+  width: 600px;
+  z-index: 1;
+  margin-left: 0px;
 }
+
 .room-dott {
-    position: absolute;
-    right: 0;
-    left: 89%;
-    bottom: -47px;
-    width: 246px;
-    height: 246px;
-    z-index: -1;
-    background-repeat: no-repeat;
+  position: absolute;
+  right: 0;
+  left: 89%;
+  bottom: -47px;
+  width: 246px;
+  height: 246px;
+  z-index: -1;
+  background-repeat: no-repeat;
 }
+
 .owl-dots {
   display: none !important;
 }
@@ -11574,7 +11592,7 @@ span.info-title {
 }
 
 /*------------------- 4.30 Popup Search  -------------------*/
-  .custom-select {
+.custom-select {
   width: 195px;
   position: relative;
   font-family: Arial;
@@ -11621,6 +11639,7 @@ span.info-title {
   cursor: pointer;
   font-size: 16px;
 }
+
 .searchBoxTggler {
   background-color: transparent;
   padding: 0;
