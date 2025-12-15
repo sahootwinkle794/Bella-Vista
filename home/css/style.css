@@ -7613,8 +7613,192 @@ input #dateRange {
   text-transform: capitalize;
 }
 
+.destination-content ul {
+  color: var(--theme-color);
+  font-size: 16px;
+  padding-left: 0;
+}
+
 .destination-box-2:hover .destination-thumb img {
   transform: scale(1.1);
+}
+
+.destination-box {
+  position: relative;
+  border-radius: 60px;
+  overflow: hidden;
+}
+
+/* Image zoom */
+.destination-box img {
+  transition: transform 0.6s ease;
+}
+
+.destination-box:hover img {
+  transform: scale(1.1);
+}
+
+/* Overlay */
+.destination-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: 0.4s ease;
+  z-index: 1;
+}
+
+.destination-box:hover::before {
+  opacity: 1;
+}
+
+/* Content wrapper */
+.destination-content {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 40px;
+  z-index: 2;
+}
+
+/* Heading always visible */
+.destination-content h4 {
+  margin-bottom: 0;
+}
+
+/* Hover content hidden */
+.destination-content ul {
+  margin-top: 15px;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transform: translateY(15px);
+  transition: all 0.4s ease;
+}
+
+/* Show only list on hover */
+.destination-box:hover .destination-content ul {
+  opacity: 1;
+  max-height: 166px;
+  transform: translateY(0);
+}
+
+.destination-content ul li {
+  transition: 0.3s ease;
+}
+
+.destination-box:hover .destination-content ul li {
+  padding-left: 5px;
+}
+
+.destination-box {
+  position: relative;
+  border-radius: 60px;
+  overflow: hidden;
+}
+
+/* Image */
+.destination-thumb img {
+  display: block;
+  width: 100%;
+  transition: transform 0.6s ease;
+}
+
+/* Always-on black overlay */
+.destination-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(20, 20, 20, 0) 10.2%, rgba(17, 21, 11, 0.7) 88.41%) !important;
+  z-index: 1;
+}
+
+/* Diagonal color sweep (hidden initially) */
+.destination-box::after {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(135deg,
+      transparent 40%,
+      rgba(236, 200, 174, 0.39) 50%,
+      transparent 60%);
+  top: -120%;
+  left: -120%;
+  transition: all 0.7s ease;
+  z-index: 2;
+}
+
+/* Animate color across card */
+.destination-box:hover::after {
+  top: 0;
+  left: 0;
+}
+
+/* Image zoom (optional) */
+.destination-box:hover img {
+  transform: scale(1.08);
+}
+
+/* Content */
+.destination-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px;
+  z-index: 3;
+}
+
+/* Heading always visible */
+.destination-content h4 a {
+  color: #fff;
+}
+
+/* Extra content reveal */
+.destination-content ul {
+  opacity: 0;
+  transform: translateY(15px);
+  transition: 0.4s ease;
+}
+
+.buttun-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 100%;
+  justify-items: stretch;
+}
+
+.destination-content ul a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 28px;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  backdrop-filter: blur(6px);
+  transition: all 0.4s ease;
+  border: 2px solid var(--theme-color);
+  padding: 10px;
+}
+
+.destination-content ul a:hover {
+  color: var(--yellow-color);
+}
+
+.destination-box:hover .destination-content ul {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 /*------------------- 4.10 Destination Details  -------------------*/
@@ -7738,9 +7922,11 @@ input #dateRange {
   transform: translateY(-8px);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
 }
-.room-img img{
+
+.room-img img {
   border-radius: 15px;
 }
+
 .room-card h4,
 .room-card p {
   color: var(--bg-color-1);
@@ -8233,8 +8419,8 @@ input #dateRange {
 }
 
 .trip-info-box .header img {
-  width: 25px;
-  height: 25px;
+  width: 41px;
+  height: 41px;
 }
 
 .trip-info-box .info-title {
@@ -13192,5 +13378,130 @@ thead {
 
   .menu-box {
     padding: 25px;
+  }
+
+  .room-img {
+    width: 100%;
+  }
+
+  .room-card {
+    margin: 0px;
+  }
+
+  .trip-info-box .header img {
+    width: 25px;
+    height: 25px;
+  }
+
+  span.info-title {
+    font-size: 13px;
+  }
+
+  .room-img-right {
+    width: 100%;
+  }
+
+  .container.mt-5.pt-5 {
+    margin-top: 10px !important;
+    padding-top: 10px !important;
+  }
+
+  .room-card.card.p-3.mt-5 {
+    margin-top: 0px !important;
+  }
+
+  .destination-content ul {
+    font-size: 12px;
+    gap: 8px;
+  }
+
+  button.super-button.mt-3 {
+    position: absolute;
+    bottom: 17px;
+    right: 11px;
+  }
+
+  .col-8.col-sm-12 {
+    width: 100% !important;
+  }
+
+  .breadcrumb-title {
+    font-size: 20px;
+  }
+
+  .destination-single-title {
+    font-size: 20px;
+  }
+  .search-box {
+    bottom: 94%;
+  }
+}
+
+
+/* Responsive */
+@media (max-width:968px) {
+  .menu-row {
+    flex-direction: column;
+  }
+
+  .menu-box {
+    padding: 25px;
+  }
+
+  .room-img {
+    width: 100%;
+  }
+
+  .room-card {
+    margin: 0px;
+  }
+
+  .trip-info-box .header img {
+    width: 25px;
+    height: 25px;
+  }
+
+  span.info-title {
+    font-size: 13px;
+  }
+
+  .room-img-right {
+    width: 100%;
+  }
+
+  .container.mt-5.pt-5 {
+    margin-top: 10px !important;
+    padding-top: 10px !important;
+  }
+
+  .room-card.card.p-3.mt-5 {
+    margin-top: 0px !important;
+  }
+
+  .destination-content ul {
+    font-size: 12px;
+    gap: 8px;
+  }
+
+  button.super-button.mt-3 {
+    position: absolute;
+    bottom: 17px;
+    right: 11px;
+  }
+
+  .col-8.col-sm-12 {
+    width: 100% !important;
+  }
+
+  .breadcrumb-title {
+    font-size: 35px;
+  }
+
+  .destination-single-title {
+    font-size: 35px;
+  }
+
+  .search-box {
+    bottom: 94%;
   }
 }

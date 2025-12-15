@@ -812,6 +812,8 @@
 
 </section>
 
+
+
 <section class="about-three">
     <div class="pattern-one" style="background-image:url(assets/images/background/pattern-7.png)"></div>
     <div class="container">
@@ -831,7 +833,7 @@
                 </div>
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class="room-card card p-5 mt-5">
+                    <div class="room-card card p-3 mt-5">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
@@ -864,7 +866,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     
-                    <div class="room-card card p-5 mt-5 room-img-right">
+                    <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
@@ -891,7 +893,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                        <img src="home/img/destination/orchid/img-3.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -906,7 +908,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                        <img src="home/img/destination/orchid/img-20.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -914,7 +916,7 @@
                 </div>
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class="room-card card p-5 mt-5">
+                    <div class="room-card card p-3 mt-5">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
@@ -947,7 +949,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     
-                    <div class="room-card card p-5 mt-5 room-img-right">
+                    <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
@@ -974,7 +976,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -997,7 +999,7 @@
         <div class="title-area text-center text-md-start">
           <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
           <h2 class="sec-title fade-anim" data-direction="top">
-            Explore The Room Type
+            Our Room Category
           </h2>
         </div>
       </div>
@@ -1033,10 +1035,12 @@
                       <a href="javascript:void(0)">The Forest Wing</a>
                     </h4>
                     <p class="hover-description">
-                      The Forest Wing has the distinguished advantage of being a ‘drive-in’ zone, which practically
-                      enables you to drive your car to your door-step.
-                    </p>
-                    <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
+                    <ul class="buttun-list">
+                        <li><a href="forestdeluxe.php">Forest Deluxe</a></li>
+                        <li><a href="forestduplex.php">Forest Duplex</a></li>
+                    </ul>   
+                    </p>                 
+                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
 
                   </div>
 
@@ -1053,11 +1057,12 @@
                     <h4 class="text-white text-capitalize">
                       <a href="javascript:void(0)">Red Stone Wing</a>
                     </h4>
-                    <p class="hover-description">
-                      The Red stone Wing offers panoramic views of the valley or the town side. There are stairs to
-                      negotiate and the building does not have an elevator service.
-                    </p>
-                    <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
+                    <ul class="buttun-list">
+                        <li><a href="deluxeroom.php">Deluxe</a></li>
+                        <li><a href="valleydeluxe.php">Valley Deluxe</a></li>
+                        <li><a href="premiumroom.php">Premium</a></li>
+                    </ul>  
+                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                   </div>
 
                 </div>
@@ -1073,13 +1078,14 @@
                     <h4 class="text-white text-capitalize">
                       <a href="javascript:void(0)">The Orchid Wing</a>
                     </h4>
-                    <p class="hover-description">
-                      The freshly renovated Orchid Wing has modernized rooms offering scenic views of the valley or
-                      the
-                      backyard. Home of the suites, it boasts proximity to the parking area, children’s park, and
-                      swimming pool.
-                    </p>
-                    <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
+                    <ul class="buttun-list">
+                        <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
+                        <li><a href="orchid-deluxe.php">Executive 1st floor</a></li>
+                        <li><a href="orchid-executive2nd.php">Executive 2nd floor</a></li>
+                        <li><a href="tierra-suite.php">Tierra suite</a></li>
+                        <li><a href="stella-suit.php">Stella suite</a></li>
+                    </ul>  
+                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                   </div>
 
                 </div>
@@ -1093,15 +1099,12 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">Forest Central Wing</a>
+                      <a href="javascript:void(0);">Forest Central Wing</a>
                     </h4>
-                    <p class="hover-description">
-                      Well appointed rooms overlooking the Forest Cafe with an option to choose from 'One Queen bed'
-                      layout for a couple or 'Two Queen beds' room suitable for a family. Situated in the drive-in
-                      zone
-                      of the Forest Wing for easy accessibility.
-                    </p>
-                    <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
+                   <ul class="buttun-list">
+                        <li><a href="forest-executive-room.php">Forest Executive Room</a></li>
+                    </ul>  
+                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                   </div>
 
                 </div>
@@ -1118,12 +1121,11 @@
                     <h4 class="text-white text-capitalize">
                       <a href="javascript:void(0)">Apartment Wing</a>
                     </h4>
-                    <p class="hover-description">
-                      Enjoy the privacy of your own private space with a layout of 2 private bedrooms with balconies
-                      and
-                      a living room apartment. The apartment on the first floor has an additional vestibule area.
-                    </p>
-                    <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
+                    <ul class="buttun-list">
+                        <li><a href="ground-floor.php">Ground Floor</a></li>
+                        <li><a href="1st-floor.php  ">1st Floor</a></li>
+                    </ul>  
+                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                   </div>
 
                 </div>
