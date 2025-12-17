@@ -7929,7 +7929,7 @@ input #dateRange {
 
 .room-card h4,
 .room-card p {
-  color: var(--bg-color-1);
+  color: #FFF;
 }
 
 .room-img {
@@ -7966,7 +7966,7 @@ input #dateRange {
 @media (max-width: 767px) {
   .vs-destination-single .destination-single-info .trip-info {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 25px;
+    gap: 10px 30px;
   }
 }
 
@@ -7980,8 +7980,9 @@ input #dateRange {
 .vs-destination-single .destination-info-tabs {
   border-top: 1px solid rgba(var(--title-color-rgb), 0.2);
   border-bottom: 1px solid rgba(var(--title-color-rgb), 0.2);
-  padding-block: 33px;
+  padding-block: 10px;
   /* margin-top: 65px; */
+    margin-bottom: 20px;
 }
 
 @media (max-width: 991px) {
@@ -8419,19 +8420,21 @@ input #dateRange {
 }
 
 .trip-info-box .header img {
-  width: 41px;
-  height: 41px;
+    width: 41px;
+    height: 41px;
+    background: #FFF;
+    border-radius: 10px 0;
+    padding: 5px;
+    border: 1px dashed #a07706;
 }
 
 .trip-info-box .info-title {
-  margin-top: 3px;
-  font-family: var(--body-font);
-  font-weight: 500;
-  line-height: 137.5%;
-  letter-spacing: 0px;
-  text-transform: capitalize;
+    font-weight: normal;
+    line-height: 137.5%;
+    text-transform: capitalize;
+    color: #333333;
 }
-
+.room-card span.info-title{ color: var(--bg-color-1);}
 span.info-title {
   color: var(--bg-color-1);
   font-size: 16px;
@@ -13051,16 +13054,17 @@ button.btn-close.ms-auto {
   cursor: pointer;
 }
 
-.tab-ul li.current a {
-  font-weight: bold;
-  color: #d9534f !important;
-  border-bottom: 2px solid #d9534f;
-  padding-bottom: 4px;
+.tab-ul li.current a  {
+    font-weight: bold;
+    color: #FFF !important;
+    padding-bottom: 4px;
+    background: #a07706;
 }
 
 .tab-ul a {
   text-decoration: none;
   color: #333;
+  padding:5px 15px;
 }
 
 

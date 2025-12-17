@@ -132,7 +132,7 @@
           <li class="menu-item-has-children">
             <a href="javascript:void(0)">Select Room Type</a>
             <ul class="sub-menu">
-              <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
+              <li class="menu-item-has-children"><a href="javascript:void(0);">FOREST WING</a>
                 <ul class="sub-menu">
                   <li>
                     <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
@@ -156,7 +156,7 @@
                 </ul>
               </li>
               <li class="menu-item-has-children">
-                <a href="javascript:void(0)">THE ORCHID WING</a>
+                <a href="javascript:void(0)">ORCHID WING</a>
                 <ul class="sub-menu">
                   <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                       floor)</a></li>
@@ -298,7 +298,7 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Select Room Type</a>
                 <ul class="sub-menu">
-                  <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
+                  <li class="menu-item-has-children"><a href="javascript:void(0);">FOREST WING</a>
                     <ul class="sub-menu">
                       <li>
                         <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
@@ -322,7 +322,7 @@
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
-                    <a href="javascript:void(0)">THE ORCHID WING</a>
+                    <a href="javascript:void(0)">ORCHID WING</a>
                     <ul class="sub-menu">
                       <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                           floor)</a></li>
@@ -590,7 +590,7 @@
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">Select Room Type</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="javascript:void(0);">THE FOREST WING</a>
+                          <li class="menu-item-has-children"><a href="javascript:void(0);">FOREST WING</a>
                             <ul class="sub-menu">
                               <li>
                                 <a href="forestdeluxe.php">Forest Deluxe (Ground Floor)</a>
@@ -614,7 +614,7 @@
                             </ul>
                           </li>
                           <li class="menu-item-has-children">
-                            <a href="javascript:void(0)">THE ORCHID WING</a>
+                            <a href="javascript:void(0)">ORCHID WING</a>
                             <ul class="sub-menu">
                               <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                                   floor)</a></li>

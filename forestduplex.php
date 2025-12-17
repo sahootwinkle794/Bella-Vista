@@ -372,14 +372,7 @@
     <div class="container">
         <div class="row gx-3 gx-xl-5 gy-5 room-row">
             <div class="col-lg-8">
-                <div class="vs-destination-single">
-                    <div class="row align-items-center gy-3 mb-4">
-                        <div class="col-8 col-sm-12">
-                            <h2 class="destination-single-title">
-                                FOREST DUPLEX (1ST FLOOR)
-                            </h2>
-                        </div>
-                    </div>
+                <div class="vs-destination-single"> 
                     <div class="destination-single-info">
                         <div class="owl-carousel owl-theme owl-loaded owl-drag">
 
@@ -524,16 +517,9 @@
                                 <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
                             </button>
 
-                        </div>
-                        <div id="current" class="tab-content active p-4">
-                            <h4 class="title">Overview</h4>
-                            <p> Located on the first floor, these stunningly designed hotel rooms are spacious and
-                                elegantly furnished. The duplex setup provides two double beds at different levels
-                                and one bathroom on the lower level. There are large windows that offer a property
-                                view and make up for the absence of balconies.</p>
-                        </div>
+                        </div> 
 
-                        <!-- <div class="destination-single-px">
+                         <div class="destination-single-px">
                             <div class="destination-info-tabs">
                                 <ul class="custom-ul tab-ul">
                                     <li class="current"><a href="#current">Overview</a></li>
@@ -543,16 +529,14 @@
                                 </ul>
                             </div>
 
-                            <div id="current" class="tab-content active">
-                                <h4 class="title">Overview</h4>
+                            <div id="current" class="tab-content active"> 
                                 <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
                                     offering a great view of the town side bungalows. If you are planning for weekend
                                     getaways in Mahabaleshwar get connect with us to find best mahabaleshwar hotels
                                     package. Book Rooms in Mahabaleshwar and make your stay memorable.</p>
                             </div>
 
-                            <div id="room" class="tab-content">
-                                <h4 class="title">Room Services</h4>
+                            <div id="room" class="tab-content"> 
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-1.png" alt="service">
@@ -616,8 +600,7 @@
                                 </div>
                             </div>
 
-                            <div id="hotel" class="tab-content">
-                                <h4 class="title">Hotel Services</h4>
+                            <div id="hotel" class="tab-content"> 
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
@@ -664,8 +647,7 @@
                                 </div>
                             </div>
 
-                            <div id="dimensions" class="tab-content">
-                                <h4 class="title">Dimensions</h4>
+                            <div id="dimensions" class="tab-content"> 
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -681,7 +663,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
