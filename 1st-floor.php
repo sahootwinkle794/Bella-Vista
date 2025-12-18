@@ -375,13 +375,6 @@
         <div class="row gx-3 gx-xl-5 gy-5 room-row">
             <div class="col-lg-8">
                 <div class="vs-destination-single">
-                    <div class="row align-items-center gy-3 mb-4">
-                        <div class="col-8 col-sm-12">
-                            <h2 class="destination-single-title">
-                               APARTMENT WING 1ST FLOOR
-                            </h2>
-                        </div>
-                    </div>
                     <div class="destination-single-info">
                         <div class="owl-carousel owl-theme owl-loaded owl-drag">
 
@@ -558,14 +551,8 @@
                             </button>
 
                         </div>
-                        <div id="current" class="tab-content active p-4">
-                            <h4 class="title">Overview</h4>
-                            <p> Enjoy the privacy of your own private space with a layout of 2 private bedrooms with
-                                    balconies and a living room apartment. The apartment on the first floor has an
-                                    additional vestibule area.</p>
-                        </div>
 
-                        <!-- <div class="destination-single-px">
+                        <div class="destination-single-px">
                             <div class="destination-info-tabs">
                                 <ul class="custom-ul tab-ul">
                                     <li class="current"><a href="#current">Overview</a></li>
@@ -576,15 +563,12 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <h4 class="title">Overview</h4>
-                                <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
-                                    offering a great view of the town side bungalows. If you are planning for weekend
-                                    getaways in Mahabaleshwar get connect with us to find best mahabaleshwar hotels
-                                    package. Book Rooms in Mahabaleshwar and make your stay memorable.</p>
+                                <p> Enjoy the privacy of your own private space with a layout of 2 private bedrooms with
+                                    balconies and a living room apartment. The apartment on the first floor has an
+                                    additional vestibule area.</p>
                             </div>
 
                             <div id="room" class="tab-content">
-                                <h4 class="title">Room Services</h4>
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-1.png" alt="service">
@@ -649,7 +633,6 @@
                             </div>
 
                             <div id="hotel" class="tab-content">
-                                <h4 class="title">Hotel Services</h4>
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
@@ -697,7 +680,6 @@
                             </div>
 
                             <div id="dimensions" class="tab-content">
-                                <h4 class="title">Dimensions</h4>
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -713,7 +695,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
