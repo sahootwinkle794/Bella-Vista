@@ -275,6 +275,66 @@
 </script>
 <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
 </script>
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script>
+  // initialize flatpickr
+  const datePicker = flatpickr("#dateRange", {
+    mode: "range",
+    dateFormat: "Y-m-d",
+    allowInput: true
+  });
+
+  function toggleFlexible() {
+    const flexible = document.getElementById("flexibleDate").checked;
+
+    if (flexible) {
+      // disable date picker input
+      document.getElementById("dateRange").disabled = true;
+
+      // clear selected date range
+      datePicker.clear();
+    } else {
+      // enable date picker input again
+      document.getElementById("dateRange").disabled = false;
+    }
+  }
+</script>
+<script>
+const dropdown = document.querySelector(".select-dropdown");
+const display = document.querySelector(".select-display");
+
+display.addEventListener("click", () => {
+  dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
+});
+
+document.querySelectorAll(".plus").forEach(btn => {
+  btn.addEventListener("click", () => {
+    let type = btn.dataset.type;
+    let count = document.getElementById(type + "-count");
+    count.textContent = parseInt(count.textContent) + 1;
+    updateTotal();
+  });
+});
+
+document.querySelectorAll(".minus").forEach(btn => {
+  btn.addEventListener("click", () => {
+    let type = btn.dataset.type;
+    let count = document.getElementById(type + "-count");
+    if (parseInt(count.textContent) > 0) {
+      count.textContent = parseInt(count.textContent) - 1;
+      updateTotal();
+    }
+  });
+});
+
+function updateTotal() {
+  const adults = parseInt(document.getElementById("adult-count").textContent);
+  const children = parseInt(document.getElementById("child-count").textContent);
+  document.getElementById("total-guests").textContent = adults + children;
+}
+
+
+</script>
 <script>
   const videoModal = document.getElementById('videoModal');
   const video = document.getElementById('resortVideo');
@@ -395,6 +455,7 @@
     });
   });
 </script>
+
 </body>
 
 <!-- Mirrored from expert-themes.com/html/roisk/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Nov 2025 02:10:28 GMT -->

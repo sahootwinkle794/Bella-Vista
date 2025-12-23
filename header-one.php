@@ -451,9 +451,7 @@
             </svg>
             <div class="logo d-none d-sm-block">
               <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style10"
-                target="_blank">
-                <span>Book Now</span>
-              </a>
+                target="_blank">Book Now  </a>
             </div>
             <div class="logo d-sm-none">
               <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
@@ -709,8 +707,7 @@
                   <rect x="5" width="1" height="39" fill="#D9D9D9" fill-opacity="0.7" />
                   <rect y="9" width="1" height="20" fill="#D9D9D9" fill-opacity="0.7" />
                 </svg>
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8"
-                  data-bs-toggle="modal" data-bs-target="#exampleModal" target="_blank">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8"  target="_blank">
                   <span>Book Now</span>
                 </a>
               </div>

@@ -366,7 +366,7 @@
     <div class="container">
         <div class="row gx-3 gx-xl-5 gy-5 room-row">
             <div class="col-lg-8">
-                <div class="vs-destination-single"> 
+                <div class="vs-destination-single">
                     <div class="destination-single-info">
                         <div class="owl-carousel owl-theme owl-loaded owl-drag">
 
@@ -499,7 +499,7 @@
 
                         </div>
 
-                         <div class="destination-single-px">
+                        <div class="destination-single-px">
                             <div class="destination-info-tabs">
                                 <ul class="custom-ul tab-ul">
                                     <li class="current"><a href="#current">Overview</a></li>
@@ -509,14 +509,14 @@
                                 </ul>
                             </div>
 
-                            <div id="current" class="tab-content active"> 
-                                <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
-                                    offering a great view of the town side bungalows. If you are planning for weekend
-                                    getaways in Mahabaleshwar get connect with us to find best mahabaleshwar hotels
-                                    package. Book Rooms in Mahabaleshwar and make your stay memorable.</p>
+                            <div id="current" class="tab-content active">
+                                <p> Elegantly furnished rooms fitted with modern amenities and an open balcony with a
+                                    property view. They are situated on the ground floor of the drive-in zone for easy
+                                    accessibility for the elderly and guests with disabilities. Forest Deluxe rooms are
+                                    perfect for a couple. </p>
                             </div>
 
-                            <div id="room" class="tab-content"> 
+                            <div id="room" class="tab-content">
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-1.png" alt="service">
@@ -580,7 +580,7 @@
                                 </div>
                             </div>
 
-                            <div id="hotel" class="tab-content"> 
+                            <div id="hotel" class="tab-content">
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
@@ -627,7 +627,7 @@
                                 </div>
                             </div>
 
-                            <div id="dimensions" class="tab-content"> 
+                            <div id="dimensions" class="tab-content">
                                 <div class="trip-info">
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -768,7 +768,68 @@
                         </div>
 
                     </div>
+                    <div class="search-box-inner" data-delay="0.77" data-direction="top">
+                        <div class="search-box fade-anim inner-search-box">
+                            <form action="javascript:void(0);" class="align-items-center">
+                                <!-- Destination Field -->
 
+                                <!-- Date Field -->
+                                <div class="form-group date-form">
+                                    <label for="search-date" class="form-label d-flex align-items-center">
+                                        <i class="fa-regular fa-calendar-days me-2"></i>
+                                        Date
+                                    </label>
+                                    <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
+                                      readonly /> -->
+                                    <input type="text" id="dateRange" class="form-select" placeholder="From – To">
+
+                                    <div style="margin-top:10px;">
+                                        <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
+                                        <label for="flexibleDate" class="flexible-dt">Flexible Date</label>
+                                    </div>
+                                </div>
+
+                                <!-- Guest Field -->
+                                <div class="form-group">
+                                    <label for="guest-dropdown" class="form-label d-flex align-items-center">
+                                        <i class="fa-regular fa-user-hoodie me-2"></i> Guest
+                                    </label>
+                                    <!-- <select id="guest-dropdown" name="guest" class="form-select">
+                                  <option value="1">Child</option>
+                                  <option value="2">Adult</option>
+                                </select> -->
+                                    <div class="custom-select">
+                                        <div class="select-display">Guests: <span id="total-guests">1</span></div>
+
+                                        <div class="select-dropdown">
+                                            <div class="counter-item">
+                                                <span>Adults</span>
+                                                <div class="counter-controls">
+                                                    <button class="minus" data-type="adult">-</button>
+                                                    <span id="adult-count">1</span>
+                                                    <button class="plus" data-type="adult">+</button>
+                                                </div>
+                                            </div>
+
+                                            <div class="counter-item">
+                                                <span>Children</span>
+                                                <div class="counter-controls">
+                                                    <button class="minus" data-type="child">-</button>
+                                                    <span id="child-count">0</span>
+                                                    <button class="plus" data-type="child">+</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- Submit Button -->
+                                <div class="form-group pe-0"> <button type="submit" class="vs-btn style4 w-100"> Book
+                                        Now </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -828,7 +889,7 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-                    
+
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
@@ -911,7 +972,7 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-                    
+
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
                         <div class="trip-info mt-4 mb-4">
@@ -950,160 +1011,163 @@
 
 <!--================= Destination Area start =================-->
 <section class="vs-destination-style1 bg-third-theme-12 overflow-hidden space"
-  data-bg-src="home/img/bg/destination.png">
-  <img class="des-icon-1 animate-parachute" src="home/img/icons/destination-icon-1.png" alt="icon" />
-  <img class="des-icon-2 animate-tree" src="home/img/icons/destination-icon-2.png" alt="icon" />
-  <div class="container">
-    <div class="row">
+    data-bg-src="home/img/bg/destination.png">
+    <img class="des-icon-1 animate-parachute" src="home/img/icons/destination-icon-1.png" alt="icon" />
+    <img class="des-icon-2 animate-tree" src="home/img/icons/destination-icon-2.png" alt="icon" />
+    <div class="container">
+        <div class="row">
 
+        </div>
+        <div class="row justify-content-between align-items-center">
+            <div class="col-md-6 col-lg-6 col-xxl-5">
+                <div class="title-area text-center text-md-start">
+                    <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
+                    <h2 class="sec-title fade-anim" data-direction="top">
+                        Our Room Category
+                    </h2>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xxl-5">
+                <div class="swiper-arrow2 tour-packages-navigation justify-content-center justify-content-md-end">
+                    <button class="room-type-next">
+                        <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M8.08984 16.92L1.56984 10.4C0.799843 9.62996 0.799843 8.36996 1.56984 7.59996L8.08984 1.07996"
+                                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                stroke-linejoin="round"></path>
+                        </svg>
+                    </button>
+                    <button class="room-type-prev btn-right">
+                        <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M0.910156 16.92L7.43016 10.4C8.20016 9.62996 8.20016 8.36996 7.43016 7.59996L0.910156 1.07996"
+                                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                                stroke-linejoin="round"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="col-12 mt-30 mt-md-0 fade-anim" data-direction="right">
+                <div class="swiper room-type-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="destination-box">
+                                <div class="destination-thumb">
+                                    <img src="home/img/destination/forest-wing.jpg" alt="destination" class="w-100" />
+                                </div>
+                                <div class="destination-content">
+                                    <div class="info">
+                                        <h4 class="text-white text-capitalize">
+                                            <a href="javascript:void(0)">The Forest Wing</a>
+                                        </h4>
+                                        <p class="hover-description">
+                                        <ul class="buttun-list">
+                                            <li><a href="forestdeluxe.php">Forest Deluxe</a></li>
+                                            <li><a href="forestduplex.php">Forest Duplex</a></li>
+                                        </ul>
+                                        </p>
+                                        <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-box">
+                                <div class="destination-thumb">
+                                    <img src="home/img/destination/redstone-wing.jpg" alt="destination" class="w-100" />
+                                </div>
+                                <div class="destination-content">
+                                    <div class="info">
+                                        <h4 class="text-white text-capitalize">
+                                            <a href="javascript:void(0)">Red Stone Wing</a>
+                                        </h4>
+                                        <ul class="buttun-list">
+                                            <li><a href="deluxeroom.php">Deluxe</a></li>
+                                            <li><a href="valleydeluxe.php">Valley Deluxe</a></li>
+                                            <li><a href="premiumroom.php">Premium</a></li>
+                                        </ul>
+                                        <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-box">
+                                <div class="destination-thumb">
+                                    <img src="home/img/destination/orchard-wing.jpg" alt="destination" class="w-100" />
+                                </div>
+                                <div class="destination-content">
+                                    <div class="info">
+                                        <h4 class="text-white text-capitalize">
+                                            <a href="javascript:void(0)">The Orchid Wing</a>
+                                        </h4>
+                                        <ul class="buttun-list">
+                                            <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
+                                            <li><a href="orchid-deluxe.php">Executive 1st floor</a></li>
+                                            <li><a href="orchid-executive2nd.php">Executive 2nd floor</a></li>
+                                            <li><a href="tierra-suite.php">Tierra suite</a></li>
+                                            <li><a href="stella-suit.php">Stella suite</a></li>
+                                        </ul>
+                                        <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-box">
+                                <div class="destination-thumb">
+                                    <img src="home/img/destination/forest-central-wing.png" alt="destination"
+                                        class="w-100" />
+                                </div>
+                                <div class="destination-content">
+                                    <div class="info">
+                                        <h4 class="text-white text-capitalize">
+                                            <a href="javascript:void(0);">Forest Central Wing</a>
+                                        </h4>
+                                        <ul class="buttun-list">
+                                            <li><a href="forest-executive-room.php">Forest Executive Room</a></li>
+                                        </ul>
+                                        <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-box">
+                                <div class="destination-thumb">
+                                    <img src="https://www.bellavistaresort.com/images/forest-executive-room/forest-executive-room-05.jpg"
+                                        alt="destination" class="w-100" />
+                                </div>
+                                <div class="destination-content">
+                                    <div class="info">
+                                        <h4 class="text-white text-capitalize">
+                                            <a href="javascript:void(0)">Apartment Wing</a>
+                                        </h4>
+                                        <ul class="buttun-list">
+                                            <li><a href="ground-floor.php">Ground Floor</a></li>
+                                            <li><a href="1st-floor.php  ">1st Floor</a></li>
+                                        </ul>
+                                        <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-50 btn-trigger btn-bounce">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
+                    <span>view more</span>
+                </a>
+            </div>
+        </div>
     </div>
-    <div class="row justify-content-between align-items-center">
-      <div class="col-md-6 col-lg-6 col-xxl-5">
-        <div class="title-area text-center text-md-start">
-          <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
-          <h2 class="sec-title fade-anim" data-direction="top">
-            Our Room Category
-          </h2>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-6 col-xxl-5">
-        <div class="swiper-arrow2 tour-packages-navigation justify-content-center justify-content-md-end">
-          <button class="room-type-next">
-            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M8.08984 16.92L1.56984 10.4C0.799843 9.62996 0.799843 8.36996 1.56984 7.59996L8.08984 1.07996"
-                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
-                stroke-linejoin="round"></path>
-            </svg>
-          </button>
-          <button class="room-type-prev btn-right">
-            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M0.910156 16.92L7.43016 10.4C8.20016 9.62996 8.20016 8.36996 7.43016 7.59996L0.910156 1.07996"
-                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
-                stroke-linejoin="round"></path>
-            </svg>
-          </button>
-        </div>
-      </div>
-      <div class="col-12 mt-30 mt-md-0 fade-anim" data-direction="right">
-        <div class="swiper room-type-slider">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="destination-box">
-                <div class="destination-thumb">
-                  <img src="home/img/destination/forest-wing.jpg" alt="destination" class="w-100" />
-                </div>
-                <div class="destination-content">
-                  <div class="info">
-                    <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Forest Wing</a>
-                    </h4>
-                    <p class="hover-description">
-                    <ul class="buttun-list">
-                        <li><a href="forestdeluxe.php">Forest Deluxe</a></li>
-                        <li><a href="forestduplex.php">Forest Duplex</a></li>
-                    </ul>   
-                    </p>                 
-                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
-
-                  </div>
-
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="destination-box">
-                <div class="destination-thumb">
-                  <img src="home/img/destination/redstone-wing.jpg" alt="destination" class="w-100" />
-                </div>
-                <div class="destination-content">
-                  <div class="info">
-                    <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">Red Stone Wing</a>
-                    </h4>
-                    <ul class="buttun-list">
-                        <li><a href="deluxeroom.php">Deluxe</a></li>
-                        <li><a href="valleydeluxe.php">Valley Deluxe</a></li>
-                        <li><a href="premiumroom.php">Premium</a></li>
-                    </ul>  
-                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
-                  </div>
-
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="destination-box">
-                <div class="destination-thumb">
-                  <img src="home/img/destination/orchard-wing.jpg" alt="destination" class="w-100" />
-                </div>
-                <div class="destination-content">
-                  <div class="info">
-                    <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Orchid Wing</a>
-                    </h4>
-                    <ul class="buttun-list">
-                        <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
-                        <li><a href="orchid-deluxe.php">Executive 1st floor</a></li>
-                        <li><a href="orchid-executive2nd.php">Executive 2nd floor</a></li>
-                        <li><a href="tierra-suite.php">Tierra suite</a></li>
-                        <li><a href="stella-suit.php">Stella suite</a></li>
-                    </ul>  
-                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
-                  </div>
-
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="destination-box">
-                <div class="destination-thumb">
-                  <img src="home/img/destination/forest-central-wing.png" alt="destination" class="w-100" />
-                </div>
-                <div class="destination-content">
-                  <div class="info">
-                    <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0);">Forest Central Wing</a>
-                    </h4>
-                   <ul class="buttun-list">
-                        <li><a href="forest-executive-room.php">Forest Executive Room</a></li>
-                    </ul>  
-                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
-                  </div>
-
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="destination-box">
-                <div class="destination-thumb">
-                  <img src="https://www.bellavistaresort.com/images/forest-executive-room/forest-executive-room-05.jpg"
-                    alt="destination" class="w-100" />
-                </div>
-                <div class="destination-content">
-                  <div class="info">
-                    <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">Apartment Wing</a>
-                    </h4>
-                    <ul class="buttun-list">
-                        <li><a href="ground-floor.php">Ground Floor</a></li>
-                        <li><a href="1st-floor.php  ">1st Floor</a></li>
-                    </ul>  
-                    <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
-          <span>view more</span>
-        </a>
-      </div>
-    </div>
-  </div>
 </section>
 <!--================= Destination Area end =================-->
 

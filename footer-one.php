@@ -434,38 +434,38 @@
   }
 </script>
 <script>
-const dropdown = document.querySelector(".select-dropdown");
-const display = document.querySelector(".select-display");
+  const dropdown = document.querySelector(".select-dropdown");
+  const display = document.querySelector(".select-display");
 
-display.addEventListener("click", () => {
-  dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
-});
-
-document.querySelectorAll(".plus").forEach(btn => {
-  btn.addEventListener("click", () => {
-    let type = btn.dataset.type;
-    let count = document.getElementById(type + "-count");
-    count.textContent = parseInt(count.textContent) + 1;
-    updateTotal();
+  display.addEventListener("click", () => {
+    dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
   });
-});
 
-document.querySelectorAll(".minus").forEach(btn => {
-  btn.addEventListener("click", () => {
-    let type = btn.dataset.type;
-    let count = document.getElementById(type + "-count");
-    if (parseInt(count.textContent) > 0) {
-      count.textContent = parseInt(count.textContent) - 1;
+  document.querySelectorAll(".plus").forEach(btn => {
+    btn.addEventListener("click", () => {
+      let type = btn.dataset.type;
+      let count = document.getElementById(type + "-count");
+      count.textContent = parseInt(count.textContent) + 1;
       updateTotal();
-    }
+    });
   });
-});
 
-function updateTotal() {
-  const adults = parseInt(document.getElementById("adult-count").textContent);
-  const children = parseInt(document.getElementById("child-count").textContent);
-  document.getElementById("total-guests").textContent = adults + children;
-}
+  document.querySelectorAll(".minus").forEach(btn => {
+    btn.addEventListener("click", () => {
+      let type = btn.dataset.type;
+      let count = document.getElementById(type + "-count");
+      if (parseInt(count.textContent) > 0) {
+        count.textContent = parseInt(count.textContent) - 1;
+        updateTotal();
+      }
+    });
+  });
+
+  function updateTotal() {
+    const adults = parseInt(document.getElementById("adult-count").textContent);
+    const children = parseInt(document.getElementById("child-count").textContent);
+    document.getElementById("total-guests").textContent = adults + children;
+  }
 
 
 </script>

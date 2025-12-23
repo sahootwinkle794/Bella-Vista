@@ -692,7 +692,68 @@
                         </div>
 
                     </div>
+                        <div class="search-box-inner" data-delay="0.77" data-direction="top">
+                        <div class="search-box fade-anim inner-search-box">
+                            <form action="javascript:void(0);" class="align-items-center">
+                                <!-- Destination Field -->
 
+                                <!-- Date Field -->
+                                <div class="form-group date-form">
+                                    <label for="search-date" class="form-label d-flex align-items-center">
+                                        <i class="fa-regular fa-calendar-days me-2"></i>
+                                        Date
+                                    </label>
+                                    <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
+                                      readonly /> -->
+                                    <input type="text" id="dateRange" class="form-select" placeholder="From – To">
+
+                                    <div style="margin-top:10px;">
+                                        <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
+                                        <label for="flexibleDate" class="flexible-dt">Flexible Date</label>
+                                    </div>
+                                </div>
+
+                                <!-- Guest Field -->
+                                <div class="form-group">
+                                    <label for="guest-dropdown" class="form-label d-flex align-items-center">
+                                        <i class="fa-regular fa-user-hoodie me-2"></i> Guest
+                                    </label>
+                                    <!-- <select id="guest-dropdown" name="guest" class="form-select">
+                                  <option value="1">Child</option>
+                                  <option value="2">Adult</option>
+                                </select> -->
+                                    <div class="custom-select">
+                                        <div class="select-display">Guests: <span id="total-guests">1</span></div>
+
+                                        <div class="select-dropdown">
+                                            <div class="counter-item">
+                                                <span>Adults</span>
+                                                <div class="counter-controls">
+                                                    <button class="minus" data-type="adult">-</button>
+                                                    <span id="adult-count">1</span>
+                                                    <button class="plus" data-type="adult">+</button>
+                                                </div>
+                                            </div>
+
+                                            <div class="counter-item">
+                                                <span>Children</span>
+                                                <div class="counter-controls">
+                                                    <button class="minus" data-type="child">-</button>
+                                                    <span id="child-count">0</span>
+                                                    <button class="plus" data-type="child">+</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- Submit Button -->
+                                <div class="form-group pe-0"> <button type="submit" class="vs-btn style4 w-100"> Book
+                                        Now </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

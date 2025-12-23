@@ -42,7 +42,7 @@
   <div class="search-box fade-anim" data-delay="0.77" data-direction="top">
     <form action="javascript:void(0);" class="align-items-center">
       <!-- Destination Field -->
-     
+
       <!-- Date Field -->
       <div class="form-group date-form">
         <label for="search-date" class="form-label d-flex align-items-center">
