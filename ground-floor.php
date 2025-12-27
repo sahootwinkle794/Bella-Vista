@@ -766,7 +766,7 @@
 
 <section class="about-three">
     <div class="pattern-one" style="background-image:url(assets/images/background/pattern-7.png)"></div>
-    <div class="container">
+     <div class="container">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->
@@ -784,7 +784,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Garden View Room</h4>
+                        <h4>Bedroom Interior View</h4>
                          <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -815,9 +815,9 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-                    
+
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Garden View Room</h4>
+                        <h4>Bedroom Interior View</h4>
                          <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -867,7 +867,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Garden View Room</h4>
+                        <h4>Entertainment & Amenities</h4>
                          <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -898,9 +898,93 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-                    
+
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Garden View Room</h4>
+                        <h4>Seating Area View</h4>
+                         <!-- <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class=" room-img">
+                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+
+                    <div class="room-card card p-3 mt-5 room-img-right">
+                        <h4>Balcony Garden View</h4>
+                         <!-- <div class="trip-info mt-4 mb-4">
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
+                                    <span class="info-title">Capacity:<br> 2 persons</span>
+                                </div>
+                            </div>
+                            <div class="trip-info-box">
+                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
+                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
+                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
+                            modern
+                            bathroom and its vegetation are for sure a highlight!</p>
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class=" room-img">
+                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+
+                    <div class="room-card card p-3 mt-5 room-img-right">
+                        <h4>Private Washroom View</h4>
                          <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">

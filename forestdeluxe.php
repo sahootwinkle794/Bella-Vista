@@ -380,12 +380,6 @@
                                         </div>
                                     </div>
 
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/forest-deluxe/img-2.jpeg" alt="">
-                                        </div>
-                                    </div>
-
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
                                             <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="">
@@ -510,7 +504,12 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <p>Forest Deluxe Rooms are elegantly furnished, blending comfort and style with a range of modern amenities. Each room features a private open balcony overlooking the serene property, offering the perfect spot to relax and take in the view. Conveniently located on the ground floor in the drive-in zone, these rooms ensure easy access for elderly guests and those with mobility needs. Thoughtfully designed for comfort and privacy, they make an ideal choice for couples.</p>
+                                <p>Forest Deluxe Rooms are elegantly furnished, blending comfort and style with a range
+                                    of modern amenities. Each room features a private open balcony overlooking the
+                                    serene property, offering the perfect spot to relax and take in the view.
+                                    Conveniently located on the ground floor in the drive-in zone, these rooms ensure
+                                    easy access for elderly guests and those with mobility needs. Thoughtfully designed
+                                    for comfort and privacy, they make an ideal choice for couples.</p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -846,7 +845,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                        <img src="home/img/destination/forest-deluxe/img-3.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -855,24 +854,11 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Garden View Room</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <h4>Bedroom View</h4>
+                        <p>A spacious hotel bedroom featuring a cozy king-size bed, elegant décor, and soft ambient
+                            lighting.
+                            Large windows offer a relaxing view, filling the room with natural light and calm vibes.
+                            Designed for comfort and luxury, it’s a perfect space to unwind after a long day.</p>
                     </div>
                 </div>
             </div>
@@ -888,24 +874,10 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Garden View Room</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <h4>Bedroom Interior View</h4>
+                        <p>A modern bedroom interior featuring a comfortable bed, stylish furniture, and warm lighting.
+                            Soft colors and elegant décor create a calm and inviting atmosphere.
+                            The space is designed for relaxation, blending comfort with a touch of luxury.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -914,7 +886,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-3.jpeg" alt="" />
+                        <img src="home/img/destination/forest-deluxe/img-5.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -929,7 +901,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-20.jpeg" alt="" />
+                        <img src="home/img/destination/forest-deluxe/img-10.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -938,24 +910,10 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Garden View Room</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <h4>Entertainment & Amenities</h4>
+                        <p>Modern facilities, comfortable seating, and stylish décor create a lively yet cozy
+                            atmosphere.
+                            Perfect for unwinding, socializing, and experiencing premium leisure comforts.</p>
                     </div>
                 </div>
             </div>
@@ -971,24 +929,10 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Garden View Room</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <h4>Seating Area View</h4>
+                        <p>An in-room seating area designed for comfort and relaxation.
+                            Warm lighting and tasteful decor create a calm and inviting atmosphere.
+                            Perfect for unwinding, reading, or enjoying a quiet moment in privacy.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -997,7 +941,63 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                        <img src="home/img/destination/forest-deluxe/img-14.jpeg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+
+                    <div class="room-card card p-3 mt-5 room-img-right">
+                        <h4>Balcony Garden View</h4>
+                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
+                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
+                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class=" room-img">
+                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+
+                    <div class="room-card card p-3 mt-5 room-img-right">
+                        <h4>Private Washroom View</h4>
+                        <p>A modern private washroom designed for comfort and convenience.
+                            Clean, elegant fixtures and subtle lighting create a fresh and relaxing atmosphere.
+                            Perfect for a refreshing start or unwinding after a long day.</p>
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class=" room-img">
+                        <img src="home/img/destination/forest-deluxe/img-19.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1159,7 +1159,8 @@
                 </div>
             </div>
             <div class="text-center mt-50 btn-trigger btn-bounce">
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="vs-btn style4">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank"
+                    class="vs-btn style4">
                     <span>view more</span>
                 </a>
             </div>
