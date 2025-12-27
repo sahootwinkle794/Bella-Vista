@@ -410,8 +410,7 @@
     allowInput: true
   });
 </script> -->
-<script>
-  // initialize flatpickr
+<!-- <script>
   const datePicker = flatpickr("#dateRange", {
     mode: "range",
     dateFormat: "Y-m-d",
@@ -432,7 +431,7 @@
       document.getElementById("dateRange").disabled = false;
     }
   }
-</script>
+</script> -->
 <script>
   const dropdown = document.querySelector(".select-dropdown");
   const display = document.querySelector(".select-display");
@@ -469,6 +468,11 @@
 
 
 </script>
+<script>
+  flatpickr("#checkIn", { dateFormat: "d M Y" });
+  flatpickr("#checkOut", { dateFormat: "d M Y" });
+</script>
+
 </body>
 
 

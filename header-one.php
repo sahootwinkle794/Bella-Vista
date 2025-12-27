@@ -21,8 +21,8 @@
   <meta name="msapplication-TileImage" content="home/img/favicons/ms-icon-144x144.png" />
   <meta name="theme-color" content="#fff" />
   <!--=================
-	  Google Fonts
-	================= -->
+    Google Fonts
+  ================= -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
@@ -33,17 +33,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/home/owl.carousel.min.css" />
 
   <!--=================
-	    All CSS File
-	================= -->
+      All CSS File
+  ================= -->
   <!-- plugins -->
   <link rel="stylesheet" href="home/css/plugins.css" />
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="home/css/style.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
   <style>
- 
-
-
     .destination-box {
       position: relative;
       overflow: hidden;
@@ -55,7 +52,7 @@
       word-wrap: break-word;
       overflow-wrap: break-word;
       white-space: normal;
-      
+
 
     }
 
@@ -88,6 +85,20 @@
       transform: translateY(-10px);
       /* slide down smoothly */
     }
+
+    .date-inputs {
+      display: flex;
+      gap: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      background: #fff;
+      border-radius: 6px;
+    }
+
+    .date-inputs .form-select {
+      width: 100%;
+    }
   </style>
 
 
@@ -102,11 +113,11 @@
       </p>
     <![endif]-->
   <!--********************************
-   		Code Start From Here 
-	******************************** -->
+       Code Start From Here 
+  ******************************** -->
   <!--=================
-		Preloader
-	=================-->
+    Preloader
+  =================-->
   <!-- <div class="preloader">
     <div class="preloader-inner">
       <img src="home/img/logo.svg" alt="logo" />
@@ -114,8 +125,8 @@
     </div>
   </div> -->
   <!--=================
-		Mobile Menu
-	================= -->
+    Mobile Menu
+  ================= -->
   <div class="vs-menu-wrapper">
     <div class="vs-menu-area text-center">
       <div class="mobile-logo">
@@ -251,13 +262,9 @@
                   </li>
                 </ul> -->
           </li>
-          <li class="menu-item-has-children">
+          <!-- <li class="menu-item-has-children">
             <a href="javascript:void(0)">Virtual Tour</a>
-            <!-- <ul class="sub-menu">
-                  <li><a href="blog.php">blog</a></li>
-                  <li><a href="blog-details.html">Blog Details</a></li>
-                </ul> -->
-          </li>
+          </li> -->
           <li class="menu-item-has-children">
             <a href="gallery.php">Gallery</a>
           </li>
@@ -273,7 +280,7 @@
   </div>
 
   <!-- =================
-    	Popup Search Box
+      Popup Search Box
     ================= -->
   <div class="popup-search-box">
     <button class="searchClose"><i class="fal fa-times"></i></button>
@@ -283,7 +290,7 @@
     </form>
   </div>
   <!-- =================
-    	Sticky Navbar
+      Sticky Navbar
     ================= -->
   <div id="navbars" class="header-sticky navbars">
     <div class="container custom-container">
@@ -417,13 +424,9 @@
                   </li>
                 </ul> -->
               </li>
-              <li class="menu-item-has-children">
+              <!-- <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Virtual Tour</a>
-                <!-- <ul class="sub-menu">
-                  <li><a href="blog.php">blog</a></li>
-                  <li><a href="blog-details.html">Blog Details</a></li>
-                </ul> -->
-              </li>
+              </li> -->
               <li class="menu-item-has-children">
                 <a href="gallery.php">Gallery</a>
               </li>
@@ -451,7 +454,7 @@
             </svg>
             <div class="logo d-none d-sm-block">
               <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style10"
-                target="_blank">Book Now  </a>
+                target="_blank">Book Now </a>
             </div>
             <div class="logo d-sm-none">
               <a href="index.php"><img src="home/img/logo.svg" alt="Carmax" class="logo" /></a>
@@ -465,8 +468,8 @@
     <div class="marquee-track" id="marqueeTrack"></div>
   </div>
   <!-- =================
-    	Main Section Wrapper
-  	================= -->
+      Main Section Wrapper
+    ================= -->
   <main class="main">
 
     <!--================= Header Area =================-->
@@ -623,7 +626,8 @@
                       <li class="menu-item-has-children">
                         <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                         <ul class="sub-menu">
-                          <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive Room</a>
+                          <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive
+                              Room</a>
                           </li>
                         </ul>
                       </li>
@@ -680,13 +684,9 @@
                       </li>
                     </ul> -->
                   </li>
-                  <li class="menu-item-has-children">
+                  <!-- <li class="menu-item-has-children">
                     <a href="javascript:void(0)">Virtual Tour</a>
-                    <!-- <ul class="sub-menu">
-                      <li><a href="blog.php">blog</a></li>
-                      <li><a href="blog-details.html">blog details</a></li>
-                    </ul> -->
-                  </li>
+                  </li> -->
                   <li>
                     <a href="gallery.php">Gallery</a>
                   </li>
@@ -707,7 +707,8 @@
                   <rect x="5" width="1" height="39" fill="#D9D9D9" fill-opacity="0.7" />
                   <rect y="9" width="1" height="20" fill="#D9D9D9" fill-opacity="0.7" />
                 </svg>
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8"  target="_blank">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style8"
+                  target="_blank">
                   <span>Book Now</span>
                 </a>
               </div>

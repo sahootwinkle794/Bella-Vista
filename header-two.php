@@ -231,13 +231,9 @@
                   </li>
                 </ul> -->
           </li>
-          <li class="menu-item-has-children">
+          <!-- <li class="menu-item-has-children">
             <a href="javascript:void(0)">Virtual Tour</a>
-            <!-- <ul class="sub-menu">
-                  <li><a href="blog.php">blog</a></li>
-                  <li><a href="blog-details.html">Blog Details</a></li>
-                </ul> -->
-          </li>
+          </li> -->
           <li class="menu-item-has-children">
             <a href="gallery.php">Gallery</a>
           </li>
@@ -397,13 +393,9 @@
                   </li>
                 </ul> -->
               </li>
-              <li class="menu-item-has-children">
+              <!-- <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Virtual Tour</a>
-                <!-- <ul class="sub-menu">
-                  <li><a href="blog.php">blog</a></li>
-                  <li><a href="blog-details.html">Blog Details</a></li>
-                </ul> -->
-              </li>
+              </li> -->
               <li class="menu-item-has-children">
                 <a href="gallery.php">Gallery</a>
               </li>
@@ -653,10 +645,10 @@
                         <a href="javascript:void(0)">Destination Wedding</a>
 
                       </li>
-                      <li class="menu-item-has-children">
+                      <!-- <li class="menu-item-has-children">
                         <a href="javascript:void(0)">Virtual Tour</a>
 
-                      </li>
+                      </li> -->
                       <li>
                         <a href="gallery.php">Gallery</a>
                       </li>
@@ -679,7 +671,7 @@
                       <rect y="9" width="1" height="20" fill="#9A9696" fill-opacity="0.7" />
                     </svg>
                     <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank" class="vs-btn style8">
-                      <span>let’s plan</span>
+                      <span>Book Now</span>
                     </a>
                   </div>
                 </div>
