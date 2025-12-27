@@ -243,7 +243,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Forest Wing</a>
+                      <a href="javascript:void(0)">Forest Wing</a>
                     </h4>
                     <p class="hover-description">
                     <ul class="buttun-list">
@@ -287,7 +287,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Orchid Wing</a>
+                      <a href="javascript:void(0)">Orchid Wing</a>
                     </h4>
                     <ul class="buttun-list">
                         <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
@@ -346,7 +346,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4" target="_Blank">
           <span>view more</span>
         </a>
       </div>

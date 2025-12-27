@@ -678,7 +678,7 @@
                       <rect x="5" width="1" height="39" fill="#9A9696" fill-opacity="0.7" />
                       <rect y="9" width="1" height="20" fill="#9A9696" fill-opacity="0.7" />
                     </svg>
-                    <a href="blog-details.html" class="vs-btn style8">
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank" class="vs-btn style8">
                       <span>let’s plan</span>
                     </a>
                   </div>

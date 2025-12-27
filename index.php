@@ -129,7 +129,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safety<br>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Safety<br>
                       Protocol</a>
                   </h5>
                 </div>
@@ -145,7 +145,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Contactless
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Contactless
                       Technology</a>
                   </h5>
                 </div>
@@ -165,7 +165,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Trained On<br>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Trained On<br>
                       Hygiene</a>
                   </h5>
                 </div>
@@ -181,7 +181,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Safer<br> Rooms</a>
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Safer<br> Rooms</a>
                   </h5>
                 </div>
               </div>
@@ -190,7 +190,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="vs-btn style4">
           <span>view more</span>
         </a>
       </div>
@@ -241,12 +241,12 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Private
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Private
                         Spaces</a>
                     </h4>
                   </div>
                   <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                    class="icon bg-theme-color text-white-color">
+                    class="icon bg-theme-color text-white-color" target="_Blank">
                     <i class="fa-solid fa-location-dot"></i>
                   </a>
                 </div>
@@ -260,7 +260,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Rustic
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Rustic
                         ambience</a>
                     </h4>
                   </div>
@@ -278,7 +278,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Resort and
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Resort and
                         Spa</a>
                     </h4>
                   </div>
@@ -296,7 +296,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">High-speed
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">High-speed
                         internet</a>
                     </h4>
                   </div>
@@ -314,7 +314,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Convenient
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Convenient
                         location</a>
                     </h4>
                   </div>
@@ -332,7 +332,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Beautiful
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Beautiful
                         views</a>
                     </h4>
                   </div>
@@ -350,7 +350,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Homely food</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Homely food</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -367,7 +367,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Ample parking</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Ample parking</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -385,7 +385,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a
-                        href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Family-oriented</a>
+                        href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Family-oriented</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -402,7 +402,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Play area</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Play area</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -419,7 +419,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Kid friendly</a>
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Kid friendly</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -436,7 +436,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Short city
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Short city
                         break</a>
                     </h4>
                   </div>
@@ -454,7 +454,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303">Eclectic
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank">Eclectic
                         experiences</a>
                     </h4>
                   </div>
@@ -614,10 +614,10 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Forest Wing</a>
+                      <a href="javascript:void(0)">Forest Wing</a>
                     </h4>
                     <p class="hover-description">
-                      The Forest Wing has the distinguished advantage of being a ‘drive-in’ zone, which practically
+                      Forest Wing has the distinguished advantage of being a ‘drive-in’ zone, which practically
                       enables you to drive your car to your door-step.
                     </p>
                     <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
@@ -655,7 +655,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Orchid Wing</a>
+                      <a href="javascript:void(0)">Orchid Wing</a>
                     </h4>
                     <p class="hover-description">
                       The freshly renovated Orchid Wing has modernized rooms offering scenic views of the valley or
@@ -683,7 +683,7 @@
                       Well appointed rooms overlooking the Forest Cafe with an option to choose from 'One Queen bed'
                       layout for a couple or 'Two Queen beds' room suitable for a family. Situated in the drive-in
                       zone
-                      of the Forest Wing for easy accessibility.
+                      of Forest Wing for easy accessibility.
                     </p>
                     <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
                   </div>
@@ -717,7 +717,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4" target="_Blank">
           <span>view more</span>
         </a>
       </div>
@@ -730,10 +730,10 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Forest Wing</a>
+                      <a href="javascript:void(0)">Forest Wing</a>
                     </h4>
                     <p class="hover-description">
-                      The Forest Wing has the distinguished advantage of being a ‘drive-in’ zone, which practically
+                      Forest Wing has the distinguished advantage of being a ‘drive-in’ zone, which practically
                       enables you to drive your car to your door-step.
                     </p>
                     <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
@@ -767,7 +767,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Orchid Wing</a>
+                      <a href="javascript:void(0)">Orchid Wing</a>
                     </h4>
                     <p class="hover-description">
                       The freshly renovated Orchid Wing has modernized rooms offering scenic views of the valley or the
@@ -791,7 +791,7 @@
                     <p class="hover-description">
                       Well appointed rooms overlooking the Forest Cafe with an option to choose from 'One Queen bed'
                       layout for a couple or 'Two Queen beds' room suitable for a family. Situated in the drive-in zone
-                      of the Forest Wing for easy accessibility.
+                      of Forest Wing for easy accessibility.
                     </p>
                     <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span>
                   </div>

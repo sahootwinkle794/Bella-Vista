@@ -102,7 +102,7 @@
                                 <h4 class="title">Overview</h4>
                                 <p> Well appointed rooms overlooking the Forest Cafe with an option to choose from 'One
                                     Queen bed' layout for a couple or 'Two Queen beds' room suitable for a family.
-                                    Situated in the drive-in zone of the Forest Wing for easy accessibility.</p>
+                                    Situated in the drive-in zone of Forest Wing for easy accessibility.</p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -255,7 +255,7 @@
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOneV2" aria-expanded="true"
                                         aria-controls="collapseOneV2">
-                                        THE FOREST WING
+                                        Forest Wing
                                     </button>
                                 </h6>
                                 <div id="collapseOneV2" class="accordion-collapse collapse show"
@@ -298,7 +298,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThreeV2" aria-expanded="false"
                                         aria-controls="collapseThreeV2">
-                                        THE ORCHID WING
+                                        Orchid Wing
                                     </button>
                                 </h6>
                                 <div id="collapseThreeV2" class="accordion-collapse collapse"
@@ -497,7 +497,7 @@
                             <div id="current" class="tab-content active">
                                 <p> Well appointed rooms overlooking the Forest Cafe with an option to choose from 'One
                                 Queen bed' layout for a couple or 'Two Queen beds' room suitable for a family.
-                                Situated in the drive-in zone of the Forest Wing for easy accessibility.</p>
+                                Situated in the drive-in zone of Forest Wing for easy accessibility.</p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -646,7 +646,7 @@
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOneV2" aria-expanded="true"
                                         aria-controls="collapseOneV2">
-                                        THE FOREST WING
+                                        Forest Wing
                                     </button>
                                 </h6>
                                 <div id="collapseOneV2" class="accordion-collapse collapse show"
@@ -689,7 +689,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThreeV2" aria-expanded="false"
                                         aria-controls="collapseThreeV2">
-                                        THE ORCHID WING
+                                        Orchid Wing
                                     </button>
                                 </h6>
                                 <div id="collapseThreeV2" class="accordion-collapse collapse"
@@ -1041,7 +1041,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Forest Wing</a>
+                      <a href="javascript:void(0)">Forest Wing</a>
                     </h4>
                     <p class="hover-description">
                     <ul class="buttun-list">
@@ -1085,7 +1085,7 @@
                 <div class="destination-content">
                   <div class="info">
                     <h4 class="text-white text-capitalize">
-                      <a href="javascript:void(0)">The Orchid Wing</a>
+                      <a href="javascript:void(0)">Orchid Wing</a>
                     </h4>
                     <ul class="buttun-list">
                         <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
@@ -1144,7 +1144,7 @@
         </div>
       </div>
       <div class="text-center mt-50 btn-trigger btn-bounce">
-        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4">
+        <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="vs-btn style4">
           <span>view more</span>
         </a>
       </div>

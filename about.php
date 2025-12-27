@@ -49,7 +49,7 @@
                   </div>
                 </div>
                 <div class="about-two_button">
-                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="theme-btn btn-style-one">
+                  <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="theme-btn btn-style-one">
                     <span class="btn-wrap">
                       <span class="text-one">Discover More<i class="fa-classic fa-solid fa-arrow-right"></i></span>
                       <span class="text-two">Discover More<i class="fa-classic fa-solid fa-arrow-right"></i></span>
@@ -100,7 +100,7 @@
                   <div class="about-three_options d-flex align-items-center flex-wrap">
                     <!-- Button Box -->
                     <div class="about-three_button">
-                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="theme-btn btn-style-one">
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="theme-btn btn-style-one">
                         <span class="btn-wrap">
                           <span class="text-one">More Info <i class="fa-classic fa-solid fa-arrow-right"></i></span>
                           <span class="text-two">More Info <i class="fa-classic fa-solid fa-arrow-right"></i></span>
