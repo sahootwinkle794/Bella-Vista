@@ -785,7 +785,7 @@
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
                         <h4>Garden View Room</h4>
-                        <div class="trip-info mt-4 mb-4">
+                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
                                     <span class="info-title">Capacity:<br> 2 persons</span>
@@ -796,7 +796,7 @@
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
                             beautifully decorated and benefits from a lot of natural light with its glass walls. The
@@ -818,7 +818,7 @@
                     
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
-                        <div class="trip-info mt-4 mb-4">
+                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
                                     <span class="info-title">Capacity:<br> 2 persons</span>
@@ -829,7 +829,7 @@
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
                             beautifully decorated and benefits from a lot of natural light with its glass walls. The
@@ -868,7 +868,7 @@
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
                         <h4>Garden View Room</h4>
-                        <div class="trip-info mt-4 mb-4">
+                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
                                     <span class="info-title">Capacity:<br> 2 persons</span>
@@ -879,7 +879,7 @@
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
                             beautifully decorated and benefits from a lot of natural light with its glass walls. The
@@ -901,7 +901,7 @@
                     
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Garden View Room</h4>
-                        <div class="trip-info mt-4 mb-4">
+                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
                                     <span class="info-title">Capacity:<br> 2 persons</span>
@@ -912,7 +912,7 @@
                                     <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
                             beautifully decorated and benefits from a lot of natural light with its glass walls. The
