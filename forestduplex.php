@@ -510,10 +510,7 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <p> Located on the first floor, these stunningly designed hotel rooms are spacious and
-                                    elegantly furnished. The duplex setup provides two double beds at different levels
-                                    and one bathroom on the lower level. There are large windows that offer a property
-                                    view and make up for the absence of balconies.</p>
+                                <p>Located on the first floor, these beautifully designed duplex rooms combine elegance and space in perfect harmony. The unique layout features two double beds arranged on different levels, along with a well-appointed bathroom on the lower floor. Large windows fill the room with natural light and offer a pleasant view of the property, providing a refreshing sense of openness in place of a balcony.</p>
                             </div>
 
                             <div id="room" class="tab-content">

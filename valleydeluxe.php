@@ -185,9 +185,7 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <p> Tastefully appointed rooms in the new 'Red Stone' wing with spacious balconies
-                                    offering a great view of the Lingmala valley and the lush lawn in front of the
-                                    rooms.</p>
+                                <p> Red Stone Wing features tastefully designed rooms that blend style with comfort. Each room opens to a spacious private balcony, offering captivating views of the picturesque Lingmala Valley and the lush green lawns just below. It’s the perfect setting to unwind and soak in the serene beauty of Mahabaleshwar.</p>
                             </div>
 
                             <div id="room" class="tab-content">

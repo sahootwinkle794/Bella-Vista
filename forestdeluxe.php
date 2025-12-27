@@ -510,10 +510,7 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <p> Elegantly furnished rooms fitted with modern amenities and an open balcony with a
-                                    property view. They are situated on the ground floor of the drive-in zone for easy
-                                    accessibility for the elderly and guests with disabilities. Forest Deluxe rooms are
-                                    perfect for a couple. </p>
+                                <p>Forest Deluxe Rooms are elegantly furnished, blending comfort and style with a range of modern amenities. Each room features a private open balcony overlooking the serene property, offering the perfect spot to relax and take in the view. Conveniently located on the ground floor in the drive-in zone, these rooms ensure easy access for elderly guests and those with mobility needs. Thoughtfully designed for comfort and privacy, they make an ideal choice for couples.</p>
                             </div>
 
                             <div id="room" class="tab-content">

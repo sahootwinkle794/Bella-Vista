@@ -43,11 +43,10 @@
                 <div class="sec-title">
                   <div class="sec-title_title">About Us</div>
                   <h2>Bella Vista</h2>
-                  <div class="sec-title_text">Welcome home to 4 star resort - Bella Vista Resort. Step into our garden
-                    estate and enjoy a sweeping view of the evergreen canopies of Wilson Point, panoramic Lingmala
-                    valley, and historical hills extending to Panchgani. Our blend of traditional and contemporary décor
-                    creates a spacious, exotic, and calming ambience. The tastefully appointed rooms are surrounded by
-                    sumptuous greens, most of them equipped with private balconies overlooking the tranquil vista.</div>
+                  <div class="sec-title_text">Welcome to Bella Vista Resort, your serene 4-star escape in the heart of nature. Nestled within a lush garden estate, the resort opens up to breathtaking views — the evergreen canopies of Wilson Point, the panoramic beauty of Lingmala Valley, and the timeless hills stretching toward Panchgani.</div>
+                  <div class="sec-title_text">
+                      Experience a perfect balance of charm and comfort as traditional elegance meets contemporary design. Each room is thoughtfully designed to offer space, style, and peace, surrounded by vibrant greenery. Most feature private balconies where you can unwind and take in the tranquil scenery — the perfect setting to relax, recharge, and reconnect with nature.
+                  </div>
                 </div>
                 <div class="about-two_button">
                   <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="theme-btn btn-style-one">
@@ -93,19 +92,10 @@
                   <div class="sec-title">
                     <h2 class="sec-title_title">BEST STAY IN THE TOWN</h2>
                     <div class="about-three_bold">Nature and Luxury, Together</div>
-                    <div class="sec-title_text">Our 4 star hotel and resort stands on the Panchgani-Mahabaleshwar
-                      highway, which makes for easy accessibility. The prime location and proximity to both charming
-                      towns are perfect for relishing the many attractions they offer. It gives you the best of both
-                      worlds. The resort has plenty of attractions of its own, designed with the singular intention of
-                      giving our guests the wholesome experience they deserve without needing to step out.</div>
+                    <div class="sec-title_text">Set along the scenic Panchgani–Mahabaleshwar highway, our 4-star resort offers the perfect blend of accessibility and tranquility. Its prime location allows you to explore the charm of both hill towns with ease, enjoying all the beauty and attractions they have to offer — truly the best of both worlds. Within the resort itself, you’ll find plenty to indulge in. Every space and experience has been crafted to offer our guests a wholesome, refreshing stay — one that fulfills every desire without ever needing to step outside.</div>
                   </div>
                   <!-- <div class="about-three_bold">Roisk Finest Hotel Make Your Golden Memories.</div> -->
-                  <p>Enjoying this beautiful and serene hill station with staying in the Family Resorts in Mahabaleshwar
-                    would be a great option. Top hotels mainly offer well-organized services suitable for a family trip.
-                    You can easily choose from various room facilities for staying peacefully. When you are looking to
-                    escape from your daily stress and away from the hustle-bustle city, Mahabaleshwar is the best
-                    tourist destination. If you are looking for 4 star and hotels for couples then you have great option
-                    in Mahabaleshwar- Bella Vista Resort.</p>
+                  <p>Planning a family getaway to the beautiful and serene hills of Mahabaleshwar? Staying at one of the family-friendly resorts here is the perfect way to unwind and enjoy nature at its best. Most top hotels in the region offer thoughtfully designed services and amenities to make your family trip comfortable and memorable. You can choose from a variety of room options to suit your preferences and relax in complete peace. If you’re looking to escape the noise of daily life or searching for a romantic retreat, Bella Vista Resort, a premium 4-star resort in Mahabaleshwar, offers the ideal blend of comfort, charm, and warm hospitality.</p>
 
                   <div class="about-three_options d-flex align-items-center flex-wrap">
                     <!-- Button Box -->
