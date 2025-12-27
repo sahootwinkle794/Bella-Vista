@@ -510,7 +510,11 @@
                             </div>
 
                             <div id="current" class="tab-content active">
-                                <p>Located on the first floor, these beautifully designed duplex rooms combine elegance and space in perfect harmony. The unique layout features two double beds arranged on different levels, along with a well-appointed bathroom on the lower floor. Large windows fill the room with natural light and offer a pleasant view of the property, providing a refreshing sense of openness in place of a balcony.</p>
+                                <p>Located on the first floor, these beautifully designed duplex rooms combine elegance
+                                    and space in perfect harmony. The unique layout features two double beds arranged on
+                                    different levels, along with a well-appointed bathroom on the lower floor. Large
+                                    windows fill the room with natural light and offer a pleasant view of the property,
+                                    providing a refreshing sense of openness in place of a balcony.</p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -847,7 +851,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-2.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-11.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -856,24 +860,10 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Bedroom Interior View</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <h4>Duplex Bedroom View</h4>
+                        <p>A spacious duplex bedroom featuring a stylish split-level design.
+                            Elegant décor and ample natural light create a luxurious and airy ambiance.
+                            Perfect for comfort, privacy, and a unique living experience.</p>
                     </div>
                 </div>
             </div>
@@ -890,23 +880,9 @@
 
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Bedroom Interior View</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <p>The duplex bedroom combines modern design with functional space across two levels.
+                            Natural light fills the room, highlighting the textures, colors, and elegant décor.
+                            It creates a serene and inviting atmosphere, ideal for both relaxation and comfort.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -915,7 +891,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-3.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-2.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -930,7 +906,35 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-20.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-20.jpeg" alt="" />
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class="room-card card p-3 mt-5">
+                        <h4>Duplex Exterior View</h4>
+                        <p>The duplex exterior showcases a modern architectural design with clean lines and stylish
+                            finishes.
+                            Balconies, large windows, and landscaped surroundings enhance its visual appeal.
+                            The overall look exudes elegance and a welcoming, contemporary vibe.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+                    <div class=" room-img">
+                        <img src="home/img/destination/forest-duplex/img-10.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -940,23 +944,9 @@
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
                         <h4>Entertainment & Amenities</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <p>Modern facilities, comfortable seating, and stylish décor create a lively yet cozy
+                            atmosphere.
+                            Perfect for unwinding, socializing, and experiencing premium leisure comforts.</p>
                     </div>
                 </div>
             </div>
@@ -973,23 +963,9 @@
 
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Seating Area View</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <p>An in-room seating area designed for comfort and relaxation.
+                            Warm lighting and tasteful decor create a calm and inviting atmosphere.
+                            Perfect for unwinding, reading, or enjoying a quiet moment in privacy.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -998,7 +974,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-9.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1015,23 +991,9 @@
 
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Balcony Garden View</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
+                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
+                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -1040,7 +1002,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-12.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1057,23 +1019,9 @@
 
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Private Washroom View</h4>
-                         <!-- <div class="trip-info mt-4 mb-4">
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                    <span class="info-title">Capacity:<br> 2 persons</span>
-                                </div>
-                            </div>
-                            <div class="trip-info-box">
-                                <div class="header"> <img src="home/img/icons/size.png" alt="service">
-                                    <span class="info-title">Size:<br> 389 sq./ft(27.8m2)</span>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <p>A stone’s throw away from the Gangapur Lake, this exclusive and spacious room is modern,
-                            beautifully decorated and benefits from a lot of natural light with its glass walls. The
-                            modern
-                            bathroom and its vegetation are for sure a highlight!</p>
+                        <p>A modern private washroom designed for comfort and convenience.
+                            Clean, elegant fixtures and subtle lighting create a fresh and relaxing atmosphere.
+                            Perfect for a refreshing start or unwinding after a long day.</p>
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -1082,7 +1030,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/orchid/img-16.jpeg" alt="" />
+                        <img src="home/img/destination/forest-duplex/img-15.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1244,7 +1192,8 @@
                 </div>
             </div>
             <div class="text-center mt-50 btn-trigger btn-bounce">
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank" class="vs-btn style4">
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank"
+                    class="vs-btn style4">
                     <span>view more</span>
                 </a>
             </div>
