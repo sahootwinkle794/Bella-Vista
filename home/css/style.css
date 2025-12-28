@@ -7716,7 +7716,7 @@ input #dateRange {
 /* Show only list on hover */
 .destination-box:hover .destination-content ul {
   opacity: 1;
-  max-height: 166px;
+  max-height: 206px;
   transform: translateY(0);
 }
 
@@ -7800,6 +7800,32 @@ input #dateRange {
 }
 
 .buttun-list {
+  display: flex;
+  flex-wrap: wrap;
+  /* ✅ wrapping enabled */
+  gap: 6px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.buttun-list li {
+  flex: 0 0 auto;
+  /* width based on text */
+}
+
+.buttun-list li button {
+  padding: 6px 12px;
+  white-space: nowrap;
+  /* text stays in one line */
+}
+
+.room-container {
+  max-width: 350px;
+}
+
+/* .buttun-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 4px;
@@ -7808,8 +7834,10 @@ input #dateRange {
   list-style: none;
   width: 100%;
   justify-items: stretch;
-}
-
+} */
+/* .orchid.buttun-list{
+  grid-template-columns: repeat(1, 1fr);
+} */
 .destination-content ul a {
   display: inline-flex;
   align-items: center;
@@ -13212,6 +13240,20 @@ button.btn-close.ms-auto {
 
 .inner-search-box form .form-group:not(:first-child) {
   border-left: none;
+}
+
+.date-inputs {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.date-inputs .form-select {
+  width: 100%;
 }
 
 .inner-search-box #dateRange {

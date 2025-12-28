@@ -162,10 +162,10 @@
                   <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                       floor)</a></li>
                   <li>
-                    <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
+                    <a href="orchid-executive1st.php">Orchid Orchid Executive 1st floor</a>
                   </li>
                   <li>
-                    <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
+                    <a href="orchid-executive2nd.php">Orchid Orchid Executive 2nd floor </a>
                   </li>
                   <li>
                     <a href="tierra-suite.php">Tierra suite (1st floor)</a>
@@ -324,10 +324,10 @@
                       <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                           floor)</a></li>
                       <li>
-                        <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
+                        <a href="orchid-executive1st.php">Orchid Orchid Executive 1st floor</a>
                       </li>
                       <li>
-                        <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
+                        <a href="orchid-executive2nd.php">Orchid Orchid Executive 2nd floor </a>
                       </li>
                       <li>
                         <a href="tierra-suite.php">Tierra suite (1st floor)</a>
@@ -612,10 +612,10 @@
                               <li class="menu-item-has-children"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd
                                   floor)</a></li>
                               <li>
-                                <a href="orchid-executive1st.php">Orchid Executive 1st floor</a>
+                                <a href="orchid-executive1st.php">Orchid Orchid Executive 1st floor</a>
                               </li>
                               <li>
-                                <a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a>
+                                <a href="orchid-executive2nd.php">Orchid Orchid Executive 2nd floor </a>
                               </li>
                               <li>
                                 <a href="tierra-suite.php">Tierra suite (1st floor)</a>

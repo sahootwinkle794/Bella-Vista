@@ -101,8 +101,8 @@
                   the backyard. Home of the suites, it boasts proximity to the parking area, children’s park, and
                   swimming pool.</p>
                 <!-- <div class="room-block_two-tag mt-2"><a href="orchid-deluxe.php">Orchid Deluxe (1st and 2nd floor)</a></div>
-                <div class="room-block_two-tag"><a href="orchid-deluxe.php">Orchid Executive 1st floor</a></div>
-                <div class="room-block_two-tag"><a href="orchid-executive2nd.php">Orchid Executive 2nd floor </a></div>
+                <div class="room-block_two-tag"><a href="orchid-deluxe.php">Orchid Orchid Executive 1st floor</a></div>
+                <div class="room-block_two-tag"><a href="orchid-executive2nd.php">Orchid Orchid Executive 2nd floor </a></div>
                 <div class="room-block_two-tag mt-2"><a href="tierra-suite.php">Tierra suite (1st floor)</a></div>
                 <div class="room-block_two-tag"><a href="stella-suit.php">Stella suite (2nd floor)</a></div> -->
 

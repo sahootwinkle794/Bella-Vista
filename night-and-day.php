@@ -375,8 +375,8 @@
                     </h4>
                     <ul class="buttun-list">
                         <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
-                        <li><a href="orchid-deluxe.php">Executive 1st floor</a></li>
-                        <li><a href="orchid-executive2nd.php">Executive 2nd floor</a></li>
+                        <li><a href="orchid-deluxe.php">Orchid Executive 1st floor</a></li>
+                        <li><a href="orchid-executive2nd.php">Orchid Executive 2nd floor</a></li>
                         <li><a href="tierra-suite.php">Tierra suite</a></li>
                         <li><a href="stella-suit.php">Stella suite</a></li>
                     </ul>  

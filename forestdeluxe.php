@@ -771,17 +771,21 @@
 
                                 <!-- Date Field -->
                                 <div class="form-group date-form">
-                                    <label for="search-date" class="form-label d-flex align-items-center">
+                                    <label class="form-label d-flex align-items-center">
                                         <i class="fa-regular fa-calendar-days me-2"></i>
                                         Date
                                     </label>
-                                    <!-- <input type="text" id="search-date" name="searchDate" class="form-select" placeholder="Date from"
-                                      readonly /> -->
-                                    <input type="text" id="dateRange" class="form-select" placeholder="From – To">
-
-                                    <div style="margin-top:10px;">
-                                        <input type="checkbox" id="flexibleDate" onchange="toggleFlexible()">
-                                        <label for="flexibleDate" class="flexible-dt">Flexible Date</label>
+                                    <div class="date-inputs">
+                                        <input type="text" id="checkIn" class="form-select" placeholder="Check-in">
+                                    </div>
+                                </div>
+                                <div class="form-group date-form">
+                                    <label class="form-label d-flex align-items-center">
+                                        <i class="fa-regular fa-calendar-days me-2"></i>
+                                        Date
+                                    </label>
+                                    <div class="date-inputs">
+                                        <input type="text" id="checkOut" class="form-select" placeholder="Check-out">
                                     </div>
                                 </div>
 
@@ -1058,10 +1062,13 @@
                                             <a href="javascript:void(0)">Forest Wing</a>
                                         </h4>
                                         <p class="hover-description">
-                                        <ul class="buttun-list">
-                                            <li><a href="forestdeluxe.php">Forest Deluxe</a></li>
-                                            <li><a href="forestduplex.php">Forest Duplex</a></li>
-                                        </ul>
+                                        <div class="room-container">
+                                            <ul class="buttun-list">
+                                                <li><a href="forestdeluxe.php">Forest Deluxe</a></li>
+                                                <li><a href="forestduplex.php">Forest Duplex</a></li>
+                                            </ul>
+                                        </div>
+
                                         </p>
                                         <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
 
@@ -1080,11 +1087,16 @@
                                         <h4 class="text-white text-capitalize">
                                             <a href="javascript:void(0)">Red Stone Wing</a>
                                         </h4>
-                                        <ul class="buttun-list">
-                                            <li><a href="deluxeroom.php">Deluxe</a></li>
-                                            <li><a href="valleydeluxe.php">Valley Deluxe</a></li>
-                                            <li><a href="premiumroom.php">Premium</a></li>
-                                        </ul>
+                                        <div class="room-container">
+                                            <ul class="buttun-list">
+                                                <li><a href="deluxeroom.php">Deluxe</a></li>
+                                                <li><a href="valleydeluxe.php">Valley Deluxe 1st Floor</a></li>
+                                                <li><a href="valleydeluxe.php">Valley Deluxe 2nd Floor</a></li>
+                                                <li><a href="premiumroom.php">Premium A</a></li>
+                                                <li><a href="premiumroom.php">Premium B</a></li>
+                                            </ul>
+                                        </div>
+
                                         <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                                     </div>
 
@@ -1101,13 +1113,17 @@
                                         <h4 class="text-white text-capitalize">
                                             <a href="javascript:void(0)">Orchid Wing</a>
                                         </h4>
-                                        <ul class="buttun-list">
-                                            <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
-                                            <li><a href="orchid-deluxe.php">Executive 1st floor</a></li>
-                                            <li><a href="orchid-executive2nd.php">Executive 2nd floor</a></li>
-                                            <li><a href="tierra-suite.php">Tierra suite</a></li>
-                                            <li><a href="stella-suit.php">Stella suite</a></li>
-                                        </ul>
+                                        <div class="room-container">
+                                            <ul class="buttun-list">
+                                                <li><a href="orchid-deluxe.php">Orchid Deluxe</a></li>
+                                                <li><a href="orchid-deluxe.php">Orchid Executive 1st floor</a></li>
+                                                <li><a href="orchid-executive2nd.php">Orchid Executive 2nd floor</a>
+                                                </li>
+                                                <li><a href="tierra-suite.php">Tierra suite</a></li>
+                                                <li><a href="stella-suit.php">Stella suite</a></li>
+                                            </ul>
+                                        </div>
+
                                         <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                                     </div>
 
@@ -1125,9 +1141,12 @@
                                         <h4 class="text-white text-capitalize">
                                             <a href="javascript:void(0);">Forest Central Wing</a>
                                         </h4>
-                                        <ul class="buttun-list">
-                                            <li><a href="forest-executive-room.php">Forest Executive Room</a></li>
-                                        </ul>
+                                        <div class="room-container">
+                                            <ul class="buttun-list">
+                                                <li><a href="forest-executive-room.php">Forest Executive Room</a></li>
+                                            </ul>
+                                        </div>
+
                                         <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                                     </div>
 
@@ -1145,10 +1164,13 @@
                                         <h4 class="text-white text-capitalize">
                                             <a href="javascript:void(0)">Apartment Wing</a>
                                         </h4>
-                                        <ul class="buttun-list">
-                                            <li><a href="ground-floor.php">Ground Floor</a></li>
-                                            <li><a href="1st-floor.php  ">1st Floor</a></li>
-                                        </ul>
+                                        <div class="room-container">
+                                            <ul class="buttun-list">
+                                                <li><a href="ground-floor.php">Ground Floor</a></li>
+                                                <li><a href="1st-floor.php  ">1st Floor</a></li>
+                                            </ul>
+                                        </div>
+
                                         <!-- <span class="text-theme-color d-block"><a href="javascript:void(0)">Explore Now</a></span> -->
                                     </div>
 
@@ -1159,7 +1181,7 @@
                 </div>
             </div>
             <div class="text-center mt-50 btn-trigger btn-bounce">
-                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank"
+                <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank"
                     class="vs-btn style4">
                     <span>view more</span>
                 </a>

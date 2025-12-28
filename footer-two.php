@@ -276,8 +276,7 @@
 <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
 </script>
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
-<script>
-  // initialize flatpickr
+<!-- <script>
   const datePicker = flatpickr("#dateRange", {
     mode: "range",
     dateFormat: "Y-m-d",
@@ -298,7 +297,7 @@
       document.getElementById("dateRange").disabled = false;
     }
   }
-</script>
+</script> -->
 <script>
 const dropdown = document.querySelector(".select-dropdown");
 const display = document.querySelector(".select-display");
@@ -455,7 +454,10 @@ function updateTotal() {
     });
   });
 </script>
-
+<script>
+  flatpickr("#checkIn", { dateFormat: "d M Y" });
+  flatpickr("#checkOut", { dateFormat: "d M Y" });
+</script>
 </body>
 
 <!-- Mirrored from expert-themes.com/html/roisk/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Nov 2025 02:10:28 GMT -->
