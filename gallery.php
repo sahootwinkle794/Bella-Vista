@@ -48,7 +48,7 @@
                                         <i class="fa-solid fa-eye"></i>
                                     </a>
                                 </div>
-                                <span class="content"> wedding </span>
+                                <span class="content"> Activity Area </span>
                             </div>
                             <div class="destination-gallery-box h-50">
                                 <img src="home/img/destination-galler/destination-gallery-1-3.png"
@@ -59,7 +59,7 @@
                                         <i class="fa-solid fa-eye"></i>
                                     </a>
                                 </div>
-                                <span class="content"> wedding </span>
+                                <span class="content"> Grounds & Views </span>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -74,12 +74,12 @@
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Grounds & Views </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-3.png"
+                                        <img src="https://www.bellavistaresort.com/images/gallery/restaurant/restaurnt-04.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
                                             <a href="home/img/destination-galler/destination-gallery-1-3.png"
@@ -87,7 +87,7 @@
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Restaurant </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
@@ -100,7 +100,7 @@
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Room </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
@@ -113,59 +113,59 @@
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Hotel Wings </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-1.png"
+                                        <img src="https://www.bellavistaresort.com/images/gallery/garden/garden-010.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-1.png"
+                                            <a href="https://www.bellavistaresort.com/images/gallery/garden/garden-010.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Grounds & Views </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-4.png"
+                                        <img src="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-06.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-4.png"
+                                            <a href="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-06.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Activity Area </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-5.png"
+                                        <img src="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-03.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-5.png"
+                                            <a href="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-03.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Activity Area </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-2.png"
+                                        <img src="https://www.bellavistaresort.com/images/gallery/hotelwings/hotelwings-08.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-2.png"
+                                            <a href="https://www.bellavistaresort.com/images/gallery/hotelwings/hotelwings-08.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> wedding </span>
+                                        <span class="content"> Hotel Wings </span>
                                     </div>
                                 </div>
 

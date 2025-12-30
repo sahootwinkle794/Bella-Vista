@@ -579,16 +579,17 @@
                             <div id="hotel" class="tab-content">
                                 <div class="trip-info">
                                     <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
-                                            <span class="info-title">Board Games</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-13.png" alt="service">
                                             <span class="info-title">Complimentary
                                                 Breakfast</span>
                                         </div>
                                     </div>
+                                    <div class="trip-info-box">
+                                        <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
+                                            <span class="info-title">Board Games</span>
+                                        </div>
+                                    </div>
+                                    
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-14.png" alt="service">
                                             <span class="info-title">Doctor on Call</span>
@@ -599,22 +600,22 @@
                                             <span class="info-title">Express Check In</span>
                                         </div>
                                     </div>
-                                    <div class="trip-info-box">
+                                    <!-- <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-16.png" alt="service">
                                             <span class="info-title">Security Guards</span>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-17.png" alt="service">
                                             <span class="info-title">24
                                                 hour Front Desk</span>
                                         </div>
                                     </div>
-                                    <div class="trip-info-box">
+                                    <!-- <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-18.png" alt="service">
                                             <span class="info-title">Shoe Shine</span>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="trip-info-box">
                                         <div class="header"> <img src="home/img/icons/service-19.png" alt="service">
                                             <span class="info-title">Smoking Zone</span>
