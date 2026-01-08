@@ -42,113 +42,73 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-1.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-1.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-2.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-2.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-3.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-3.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-4.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-4.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-5.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-5.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-6.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-6.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-7.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-7.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-8.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-8.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-9.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-9.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-10.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-10.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-11.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-11.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-12.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-12.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-13.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/red-13.jpeg" alt="">
                                         </div>
                                     </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-14.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-15.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-16.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-17.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-18.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-19.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-20.jpeg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-21.jpeg" alt="">
-                                        </div>
-                                    </div>
-
+                                   
 
                                 </div>
                             </div>
@@ -359,7 +319,7 @@
                                                     href="deluxeroom.php">Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="valleydeluxe.php">Valley Deluxe
+                                                    href="reddeluxe.php">red Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
                                                     href="premiumroom.php">Premium
@@ -522,7 +482,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-2.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/red-9.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -562,7 +522,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-1.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/red-10.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -577,7 +537,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-13.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/red-1.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -617,7 +577,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-7.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/red-11.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -631,12 +591,8 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-
-                    <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Balcony Garden View</h4>
-                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
-                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
-                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
+                    <div class=" room-img">
+                        <img src="home/img/destination/red-stone/red-7.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -644,8 +600,11 @@
                 </div>
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-17.jpeg" alt="" />
+                    <div class="room-card card p-3 mt-5">
+                        <h4>Balcony Garden View</h4>
+                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
+                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
+                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
                     </div>
                 </div>
             </div>
@@ -673,7 +632,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/valley-20.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/red-6.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -762,8 +721,8 @@
                                         <div class="room-container">
                                             <ul class="buttun-list">
                                                 <li><a href="deluxeroom.php">Deluxe</a></li>
-                                                <li><a href="valleydeluxe.php">Valley Deluxe 1st Floor</a></li>
-                                                <li><a href="valleydeluxe.php">Valley Deluxe 2nd Floor</a></li>
+                                                <li><a href="reddeluxe.php">red Deluxe 1st Floor</a></li>
+                                                <li><a href="reddeluxe.php">red Deluxe 2nd Floor</a></li>
                                                 <li><a href="premiumroom.php">Premium A</a></li>
                                                 <li><a href="premiumroom.php">Premium B</a></li>
                                             </ul>

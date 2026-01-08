@@ -104,7 +104,7 @@
                                     makeshift sofa bed. In addition
                                     to sliding doors leading to the balcony, a vast expanse of glass window from
                                     ceiling to bed level provides
-                                    180 degree views of the Lingmala valley. </p>
+                                    180 degree views of the Lingmala prem. </p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -280,7 +280,7 @@
                                                     href="deluxeroom.php">Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="valleydeluxe.php">Valley Deluxe
+                                                    href="premdeluxe.php">prem Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
                                                     href="premiumroom.php">Premium
@@ -378,112 +378,108 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-1.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-1.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-2.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-2.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-3.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-3.jpeg" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-4.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-4.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-5.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-5.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-6.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-6.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-7.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-7.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-8.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-8.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-9.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-9.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-10.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-10.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-11.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-11.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-12.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-12.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-13.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-13.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-14.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-14.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-15.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-15.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-16.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-16.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-17.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-17.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-18.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-18.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-19.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-19.jpeg" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-20.jpeg" alt="">
+                                            <img src="home/img/destination/red-stone/prem-20.jpeg" alt="">
                                         </div>
                                     </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/red-stone/valley-21.jpeg" alt="">
-                                        </div>
-                                    </div>
+                                    
 
 
                                 </div>
@@ -517,7 +513,7 @@
                                 <p> Corner room in the new 'Red Stone' wing equipped with a King Size Bed and a
                                     makeshift sofa bed. In addition to sliding doors leading to the balcony, a vast
                                     expanse of glass window from ceiling to bed level provides 180 degree views of the
-                                    Lingmala valley.</p>
+                                    Lingmala prem.</p>
                             </div>
 
                             <div id="room" class="tab-content">
@@ -696,7 +692,7 @@
                                                     href="deluxeroom.php">Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="valleydeluxe.php">Valley Deluxe
+                                                    href="premdeluxe.php">prem Deluxe
                                                     Room</a></span></div>
                                         <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
                                                     href="premiumroom.php">Premium
@@ -857,7 +853,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-3.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-8.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -897,7 +893,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-1.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-20.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -912,7 +908,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-9.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-9.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -952,7 +948,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-20.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-3.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -980,7 +976,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-17.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-5.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1008,7 +1004,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-21.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/prem-6.jpeg" alt="" />
                     </div>
                 </div>
             </div>
@@ -1097,8 +1093,8 @@
                                         <div class="room-container">
                                             <ul class="buttun-list">
                                                 <li><a href="deluxeroom.php">Deluxe</a></li>
-                                                <li><a href="valleydeluxe.php">Valley Deluxe 1st Floor</a></li>
-                                                <li><a href="valleydeluxe.php">Valley Deluxe 2nd Floor</a></li>
+                                                <li><a href="premdeluxe.php">prem Deluxe 1st Floor</a></li>
+                                                <li><a href="premdeluxe.php">prem Deluxe 2nd Floor</a></li>
                                                 <li><a href="premiumroom.php">Premium A</a></li>
                                                 <li><a href="premiumroom.php">Premium B</a></li>
                                             </ul>
