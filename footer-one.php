@@ -268,6 +268,7 @@
   </div>
 </footer>
 
+
 <a href="https://api.whatsapp.com/send?phone=917720062299&text=Helllo BellaVista Team I want to know about Your rooms and services."
   class="whatsapp-btn" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
@@ -279,6 +280,7 @@
 <!-- ***************** Code End  Here ***************** -->
 <!--================= All Js File ================= -->
 <!-- Jquery -->
+ 
 <script src="home/js/vendor/jquery-3.6.0.min.js"></script>
 <!-- Jquery UI -->
 <script src="home/js/jquery-ui.min.js"></script>
@@ -472,6 +474,8 @@
   flatpickr("#checkIn", { dateFormat: "d M Y" });
   flatpickr("#checkOut", { dateFormat: "d M Y" });
 </script>
+
+
 
 </body>
 

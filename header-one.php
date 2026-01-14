@@ -86,7 +86,7 @@
       /* slide down smoothly */
     }
 
-    .date-inputs {
+    /* .date-inputs {
       display: flex;
       gap: 10px;
       padding: 10px;
@@ -98,7 +98,7 @@
 
     .date-inputs .form-select {
       width: 100%;
-    }
+    } */
   </style>
 
 

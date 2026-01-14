@@ -27,7 +27,7 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/meanmenu.min.css" rel="stylesheet">
   <link href="assets/css/responsive.css" rel="stylesheet">
-<link
+  <link
     href="https://fonts.googleapis.com/css2?family=Abril+Fatface&amp;family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Rubik:ital,wght@0,300..900;1,300..900&amp;display=swap"
     rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&amp;display=swap" rel="stylesheet">
@@ -48,14 +48,14 @@
   <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
   <!--=================
-	    All CSS File
-	================= -->
+      All CSS File
+  ================= -->
   <!-- plugins -->
 
   <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css"
-        rel="stylesheet">
-    <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css"
-        rel="stylesheet">
+    rel="stylesheet">
+  <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css"
+    rel="stylesheet">
   <link rel="stylesheet" href="home/css/plugins.css" />
   <!-- Theme Custom CSS -->
   <link rel="stylesheet" href="home/css/style.css" />
@@ -67,7 +67,7 @@
 
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
   <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-  
+
 </head>
 
 
@@ -81,11 +81,11 @@
       </p>
     <![endif]-->
   <!--********************************
-   		Code Start From Here 
-	******************************** -->
+       Code Start From Here 
+  ******************************** -->
   <!--=================
-		Preloader
-	=================-->
+    Preloader
+  =================-->
   <!-- <div class="preloader">
       <button class="vs-btn preloaderCls">Cancel Preloader</button>
       <div class="preloader-inner">
@@ -94,8 +94,8 @@
       </div>
     </div> -->
   <!--=================
-		Mobile Menu
-	================= -->
+    Mobile Menu
+  ================= -->
   <div class="vs-menu-wrapper">
     <div class="vs-menu-area text-center">
       <div class="mobile-logo">
@@ -249,7 +249,7 @@
   </div>
 
   <!-- =================
-    	Popup Search Box
+      Popup Search Box
     ================= -->
   <div class="popup-search-box">
     <button class="searchClose"><i class="fal fa-times"></i></button>
@@ -259,7 +259,7 @@
     </form>
   </div>
   <!-- =================
-    	Sticky Navbar
+      Sticky Navbar
     ================= -->
   <div id="navbars" class="header-sticky navbars">
     <div class="container custom-container">
@@ -436,8 +436,8 @@
     </div>
   </div>
   <!-- =================
-    	Main Section Wrapper
-  	================= -->
+      Main Section Wrapper
+    ================= -->
   <div class="page-wrapper">
 
     <!-- Body Lines -->
@@ -453,25 +453,193 @@
 
     <!-- End Body Lines -->
 
-     <!-- Modal -->
+    <!-- Modal -->
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content video-frame">
-            <div class="modal-header border-0">
-                <h5 class="modal-title">Bella Vista Resort</h5>
-                <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal"
-                    aria-label="Close"></button>
-            </div>
+          <div class="modal-header border-0">
+            <h5 class="modal-title">Bella Vista Resort</h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
 
-            <div class="modal-body p-0">
-                <video id="modalVideo" controls playsinline class="framed-video">
-                    <source src="home/img/hero/bella-vdo.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/hero/bella-vdo.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
         </div>
+      </div>
     </div>
-</div>
+    <div class="modal fade" id="aprtment-modal" tabindex="-1" aria-labelledby="aprtment-modalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">APARTMENT WING</h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/apartment/apartment.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="executive-modal" tabindex="-1" aria-labelledby="executive-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">FOREST EXECUTIVE</h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/forest-executive/executive.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="deluxeGround-modal" tabindex="-1" aria-labelledby="deluxeGround-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">FOREST DELUXE (GROUND FLOOR)
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/forest-deluxe/deluxe-ground.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="modal fade" id="deluxeFirst-modal" tabindex="-1" aria-labelledby="deluxeFirst-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">FOREST DUPLEX (1ST FLOOR)
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/forest-duplex/duplex.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="orchid-executive-modal" tabindex="-1" aria-labelledby="orchid-executive-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">Orchid Executive
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/orchid/orchid-executive.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="orchid-deluxe-modal" tabindex="-1" aria-labelledby="orchid-deluxe-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">Orchid Deluxe
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/orchid/orchid-deluxe.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="valley-deluxe-modal" tabindex="-1" aria-labelledby="valley-deluxe-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">VALLEY DELUXE
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/red-stone/valley-deluxe.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="premium-modal" tabindex="-1" aria-labelledby="premium-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">PREMIUM ROOM
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/red-stone/premium.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="tierra-modal" tabindex="-1" aria-labelledby="tierra-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">Tierra suite
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/room-tierra/tierra.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
     <main class="main">
       <!--================= Header Area =================-->
       <header class="vs-header layout2">
@@ -628,7 +796,8 @@
                           <li class="menu-item-has-children">
                             <a href="javascript:void(0)">FOREST CENTRAL WING</a>
                             <ul class="sub-menu">
-                              <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive Room</a>
+                              <li class="menu-item-has-children"><a href="forest-executive-room.php"> Forest Executive
+                                  Room</a>
                               </li>
                             </ul>
                           </li>
@@ -670,7 +839,8 @@
                       <rect x="5" width="1" height="39" fill="#9A9696" fill-opacity="0.7" />
                       <rect y="9" width="1" height="20" fill="#9A9696" fill-opacity="0.7" />
                     </svg>
-                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank" class="vs-btn style8">
+                    <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank"
+                      class="vs-btn style8">
                       <span>Book Now</span>
                     </a>
                   </div>

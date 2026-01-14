@@ -487,7 +487,7 @@
                                 <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
                                         alt="icon"></button>
                             </div>
-                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#deluxeGround-modal">
                                 <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
                             </button>
 
@@ -960,12 +960,8 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-
-                    <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Balcony Garden View</h4>
-                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
-                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
-                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
+                    <div class=" room-img">
+                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -973,8 +969,11 @@
                 </div>
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class=" room-img">
-                        <img src="home/img/destination/forest-deluxe/img-15.jpeg" alt="" />
+                    <div class="room-card card p-3 mt-5">
+                        <h4>Balcony Garden View</h4>
+                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
+                            Lush greenery and fresh air create a relaxing and refreshing ambiance.
+                            Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
                     </div>
                 </div>
             </div>

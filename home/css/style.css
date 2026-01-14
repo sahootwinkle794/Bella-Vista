@@ -3802,10 +3802,10 @@ input #dateRange {
   background-color: transparent;
 }
 
-.search-box form .form-group .form-select::before {
+/* .search-box form .form-group .form-select::before {
   font: var(--fa-font-solid);
   content: "\f007";
-}
+} */
 
 @media (min-width: 992px) {
   .search-box form .form-group:not(:first-child) {
@@ -13255,7 +13255,9 @@ button.btn-close.ms-auto {
 .date-inputs .form-select {
   width: 100%;
 }
-
+.mob-label{
+  display: none;
+}
 .inner-search-box #dateRange {
   background: none !important;
   padding: 10px;
@@ -13500,6 +13502,25 @@ thead {
 
 /* Responsive */
 @media (max-width:768px) {
+  .mob-label{
+    display: block !important;
+  }
+   .select-dropdown{
+    position: relative !important;
+    top: 2px !important;
+  }
+  .search-box form .form-group .form-select{
+    max-height: 100% !important;
+  }
+  .search-box form .form-group {
+    padding: 0px;
+  }
+
+  .custom-select {
+    position: relative;
+    width: 100%;
+    z-index: 9999 !important;
+  }
   .menu-row {
     flex-direction: column;
   }
@@ -13569,6 +13590,25 @@ thead {
 
 /* Responsive */
 @media (max-width:968px) {
+  .mob-label{
+    display: block !important;
+  }
+  .custom-select {
+    position: relative;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+  .select-dropdown{
+    position: relative !important;
+    top: 2px !important;
+  }
+  .search-box form .form-group .form-select{
+    max-height: 100% !important;
+  }
+  .search-box form .form-group {
+    padding: 0px;
+  }
+
   .menu-row {
     flex-direction: column;
   }

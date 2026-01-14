@@ -521,7 +521,7 @@
                                 <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
                                         alt="icon"></button>
                             </div>
-                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#aprtment-modal">
                                 <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
                             </button>
 
@@ -797,7 +797,7 @@
                     </div>
                     <div class="search-box-inner" data-delay="0.77" data-direction="top">
                         <div class="search-box fade-anim inner-search-box">
-                            <form action="javascript:void(0);" class="align-items-center">
+                           <form action="javascript:void(0);" class="align-items-center">
                                 <!-- Destination Field -->
 
                                 <!-- Date Field -->

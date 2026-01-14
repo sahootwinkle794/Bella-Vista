@@ -435,6 +435,178 @@ function updateTotal() {
   });
 </script>
 <script>
+  const vdoModal = document.getElementById('aprtment-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('executive-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('deluxeGround-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('deluxeFirst-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('tierra-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+
+<script>
+  const vdoModal = document.getElementById('orchid-executive-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('orchid-deluxe-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('valley-deluxe-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
+  const vdoModal = document.getElementById('premium-modal');
+  const modalVideo = document.getElementById('modalVideo');
+
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
+<script>
   document.querySelectorAll('.destination-info-tabs a').forEach(tab => {
     tab.addEventListener('click', function (e) {
       e.preventDefault();
@@ -458,6 +630,10 @@ function updateTotal() {
   flatpickr("#checkIn", { dateFormat: "d M Y" });
   flatpickr("#checkOut", { dateFormat: "d M Y" });
 </script>
+
+
+
+
 </body>
 
 <!-- Mirrored from expert-themes.com/html/roisk/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Nov 2025 02:10:28 GMT -->

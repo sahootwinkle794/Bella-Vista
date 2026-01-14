@@ -193,7 +193,7 @@
                                 <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
                                         alt="icon"></button>
                             </div>
-                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#valley-deluxe-modal">
                                 <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
                             </button>
 
@@ -704,7 +704,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/red-stone/red-21.jpeg" alt="" />
+                        <img src="home/img/destination/red-stone/valley-20.jpeg" alt="" />
                     </div>
                 </div>
             </div>

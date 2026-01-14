@@ -27,370 +27,7 @@
 </section>
 <!--================= Breadcrumb Area end =================-->
 <!--================= Destination Details Area Start =================-->
-<!-- <section class="vs-destination-details space bg-theme-07">
-    <div class="container">
-        <div class="row gx-3 gx-xl-5 gy-5 room-row">
-            <div class="col-lg-8">
-                <div class="vs-destination-single">
-                    <div class="row align-items-center gy-3 mb-4">
-                        <div class="col-8 col-sm-12">
-                            <h2 class="destination-single-title">
-                                Tierra suite (1st floor)
-                            </h2>
-                        </div>
-                    </div>
-                    <div class="destination-single-info">
-                        <div class="owl-carousel owl-theme owl-loaded owl-drag">
 
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage"
-                                    style="transform: translate3d(-1527px, 0px, 0px); transition: all 0.25s ease 0s; width: 3334px;">
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-1.jpg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-2.jpg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-3.jpg" alt="">
-                                        </div>
-                                    </div>
-
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-4.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-5.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-6.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-7.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-8.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-9.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
-                                        <div class="item">
-                                            <img src="home/img/destination/Tierra/img-10.jpg" alt="">
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="owl-nav">
-                                <button class="room-btn prev-room"><img src="home/img/icons/left-arrow (1).png"
-                                        alt="icon"></button>
-                                <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
-                                        alt="icon"></button>
-                            </div>
-                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
-                            </button>
-
-                        </div>
-
-
-                        <div class="destination-single-px">
-                            <div class="destination-info-tabs">
-                                <ul class="custom-ul tab-ul">
-                                    <li class="current"><a href="#current">Overview</a></li>
-                                    <li><a href="#room">Room Services</a></li>
-                                    <li><a href="#hotel">Hotel Services</a></li>
-                                    <li><a href="#dimensions">Dimensions</a></li>
-                                </ul>
-                            </div>
-
-                            <div id="current" class="tab-content active">
-                                <h4 class="title">Overview</h4>
-                                <p> This state of the art suite will transport you to your own opulent haven within the
-                                    resort. Lavishly appointed with a convertible ensuite living room, a sophisticated
-                                    ensuite master, and a sizeable balcony to nestle in the lap of nature. Situated on
-                                    the 1st floor. </p>
-                            </div>
-
-                            <div id="room" class="tab-content">
-                                <h4 class="title">Room Services</h4>
-                                <div class="trip-info">
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-1.png" alt="service">
-                                            <span class="info-title">Satellite
-                                                channels</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-2.png" alt="service">
-                                            <span class="info-title">Split Air
-                                                Conditioning</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-3.png" alt="service">
-                                            <span class="info-title">24x7 Hot Water</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-4.png" alt="service">
-                                            <span class="info-title">Laundry
-                                                Facilities</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-5.png" alt="service">
-                                            <span class="info-title">Double Bed</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-6.png" alt="service">
-                                            <span class="info-title">Mini Refrigerator</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-7.png" alt="service">
-                                            <span class="info-title">Wi
-                                                Fi</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-8.png" alt="service">
-                                            <span class="info-title">Daily Newspapers</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-9.png" alt="service">
-                                            <span class="info-title">Tea/Coffee Maker</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-10.png" alt="service">
-                                            <span class="info-title">Room Slippers</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-11.png" alt="service">
-                                            <span class="info-title">Electronic Locker</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="hotel" class="tab-content">
-                                <h4 class="title">Hotel Services</h4>
-                                <div class="trip-info">
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-12.png" alt="service">
-                                            <span class="info-title">Board Games</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-13.png" alt="service">
-                                            <span class="info-title">Complimentary
-                                                Breakfast</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-14.png" alt="service">
-                                            <span class="info-title">Doctor on Call</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-15.png" alt="service">
-                                            <span class="info-title">Express Check In</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-16.png" alt="service">
-                                            <span class="info-title">Security Guards</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-17.png" alt="service">
-                                            <span class="info-title">24
-                                                hour Front Desk</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-18.png" alt="service">
-                                            <span class="info-title">Shoe Shine</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-19.png" alt="service">
-                                            <span class="info-title">Smoking Zone</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="dimensions" class="tab-content">
-                                <h4 class="title">Dimensions</h4>
-                                <div class="trip-info">
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
-                                            <span class="info-title">Room size: 220 sq
-                                                feet</span>
-                                        </div>
-                                    </div>
-                                    <div class="trip-info-box">
-                                        <div class="header"> <img src="home/img/icons/service-21.png" alt="service">
-                                            <span class="info-title">Bathroom: 35 sq
-                                                feet</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="sidebar-area tours-sidebar">
-
-                    <div class="widget widget_recent-posts">
-                        <div class="accordion accordion-style1" id="accordionRight">
-                            <div class="accordion-item">
-                                <h6 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOneV2" aria-expanded="true"
-                                        aria-controls="collapseOneV2">
-                                        Forest Wing
-                                    </button>
-                                </h6>
-                                <div id="collapseOneV2" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionRight">
-                                    <div class="accordion-body">
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="forestdeluxe.php">Forest Deluxe
-                                                    (Ground Floor)</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="forestduplex.php">Forest Duplex
-                                                    (1st Floor)</a></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h6 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwoV2" aria-expanded="false"
-                                        aria-controls="collapseTwoV2">
-                                        RED STONE WING
-                                    </button>
-                                </h6>
-                                <div id="collapseTwoV2" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionRight">
-                                    <div class="accordion-body">
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="deluxeroom.php">Deluxe
-                                                    Room</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="valleydeluxe.php">Valley Deluxe
-                                                    Room</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="premiumroom.php">Premium
-                                                    Room</a></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h6 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThreeV2" aria-expanded="false"
-                                        aria-controls="collapseThreeV2">
-                                        Orchid Wing
-                                    </button>
-                                </h6>
-                                <div id="collapseThreeV2" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionRight">
-                                    <div class="accordion-body">
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="orchid-deluxe.php">Orchid Deluxe
-                                                    (1st & 2nd floor)</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="orchid-executive1st.php">Orchid Executive
-                                                    1st floor</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="orchid-executive2nd.php">Orchid Executive
-                                                    2nd floor</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="tierra-suite.php">Tierra suite (1st
-                                                    floor)</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="javascript:void(0);">stella-suit.php</a></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h6 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFourV2" aria-expanded="false"
-                                        aria-controls="collapseFourV2">
-                                        FOREST CENTRAL WING
-                                    </button>
-                                </h6>
-                                <div id="collapseFourV2" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionRight">
-                                    <div class="accordion-body">
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="forest-executive-room.php">Forest Executive
-                                                    Room</a></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h6 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFiveV2" aria-expanded="false"
-                                        aria-controls="collapseFiveV2">
-                                        APARTMENT WING
-                                    </button>
-                                </h6>
-                                <div id="collapseFiveV2" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionRight">
-                                    <div class="accordion-body">
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="ground-floor.php">Ground
-                                                    Floor</a></span></div>
-                                        <div class="room-span"><img src="home/img/icons/bed(2).png" alt="icon"><span><a
-                                                    href="1st-floor.php">1st
-                                                    Floor</a></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-</section> -->
 <section class="vs-destination-details space bg-theme-07">
     <div class="container">
         <div class="row gx-3 gx-xl-5 gy-5 room-row">
@@ -405,70 +42,70 @@
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-11.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-11.JPG" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item cloned" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-12.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-12.JPG" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-13.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-13.JPG" alt="">
                                         </div>
                                     </div>
 
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-14.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-14.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-15.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-15.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-16.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-16.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-17.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-17.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-18.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-18.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-19.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-19.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-20.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-20.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-21.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-21.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-22.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-22.JPG" alt="">
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 128.906px; margin-right: 10px;">
                                         <div class="item">
-                                            <img src="home/img/destination/Tierra/img-23.jpg" alt="">
+                                            <img src="home/img/destination/room-tierra/img-23.JPG" alt="">
                                         </div>
                                     </div>
 
@@ -482,7 +119,7 @@
                                 <button class="room-btn next-room"><img src="home/img/icons/right-arrow.png"
                                         alt="icon"></button>
                             </div>
-                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <button class="super-button btn mt-3" data-bs-toggle="modal" data-bs-target="#tierra-modal">
                                 <img src="home/img/icons/play-button-arrowhead.png" alt="Play">
                             </button>
 
@@ -842,7 +479,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-3.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-3.JPG" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -882,7 +519,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-1.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-1.JPG" alt="" />
                     </div>
                 </div>
             </div>
@@ -897,7 +534,7 @@
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-12.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-12.JPG" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -937,7 +574,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-17.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-17.JPG" alt="" />
                     </div>
                 </div>
             </div>
@@ -965,7 +602,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-25.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-25.JPG" alt="" />
                     </div>
                 </div>
             </div>
@@ -993,7 +630,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class=" room-img">
-                        <img src="home/img/destination/Tierra/img-14.jpg" alt="" />
+                        <img src="home/img/destination/room-tierra/img-14.JPG" alt="" />
                     </div>
                 </div>
             </div>
@@ -1046,7 +683,7 @@
                         <div class="swiper-slide">
                             <div class="destination-box">
                                 <div class="destination-thumb">
-                                    <img src="home/img/destination/forest-wing.jpg" alt="destination" class="w-100" />
+                                    <img src="home/img/destination/forest-wing.JPG" alt="destination" class="w-100" />
                                 </div>
                                 <div class="destination-content">
                                     <div class="info">
@@ -1072,7 +709,7 @@
                         <div class="swiper-slide">
                             <div class="destination-box">
                                 <div class="destination-thumb">
-                                    <img src="home/img/destination/redstone-wing.jpg" alt="destination" class="w-100" />
+                                    <img src="home/img/destination/redstone-wing.JPG" alt="destination" class="w-100" />
                                 </div>
                                 <div class="destination-content">
                                     <div class="info">
@@ -1098,7 +735,7 @@
                         <div class="swiper-slide">
                             <div class="destination-box">
                                 <div class="destination-thumb">
-                                    <img src="home/img/destination/orchard-wing.jpg" alt="destination" class="w-100" />
+                                    <img src="home/img/destination/orchard-wing.JPG" alt="destination" class="w-100" />
                                 </div>
                                 <div class="destination-content">
                                     <div class="info">
@@ -1148,7 +785,7 @@
                         <div class="swiper-slide">
                             <div class="destination-box">
                                 <div class="destination-thumb">
-                                    <img src="https://www.bellavistaresort.com/images/forest-executive-room/forest-executive-room-05.jpg"
+                                    <img src="https://www.bellavistaresort.com/images/forest-executive-room/forest-executive-room-05.JPG"
                                         alt="destination" class="w-100" />
                                 </div>
                                 <div class="destination-content">

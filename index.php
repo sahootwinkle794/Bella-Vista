@@ -47,19 +47,21 @@
       <div class="form-group date-form">
         <label class="form-label d-flex align-items-center">
           <i class="fa-regular fa-calendar-days me-2"></i>
-          Date
+          Check-In Date
         </label>
         <div class="date-inputs">
-          <input type="text" id="checkIn" class="form-select" placeholder="Check-in">
+          
+          <input type="date" id="checkIn" class="form-select" placeholder="Check-in">
         </div>
       </div>
       <div class="form-group date-form">
         <label class="form-label d-flex align-items-center">
           <i class="fa-regular fa-calendar-days me-2"></i>
-          Date
+          Check-Out Date
         </label>
         <div class="date-inputs">
-          <input type="text" id="checkOut" class="form-select" placeholder="Check-out">
+           
+          <input type="date" id="checkOut" class="form-select" placeholder="Check-out">
         </div>
       </div>
 
