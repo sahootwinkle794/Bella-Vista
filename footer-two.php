@@ -529,7 +529,25 @@ function updateTotal() {
     modalVideo.currentTime = 0;
   });
 </script>
+<script>
+  const vdoModal = document.getElementById('Stella-modal');
+  const modalVideo = document.getElementById('modalVideo');
 
+  // Play video only when modal opens
+  vdoModal.addEventListener('shown.bs.modal', () => {
+    modalVideo.play();
+  });
+
+  // Pause video immediately when modal closes
+  vdoModal.addEventListener('hide.bs.modal', () => {
+    modalVideo.pause();
+  });
+
+  // Reset video time after modal fully closed
+  vdoModal.addEventListener('hidden.bs.modal', () => {
+    modalVideo.currentTime = 0;
+  });
+</script>
 <script>
   const vdoModal = document.getElementById('orchid-executive-modal');
   const modalVideo = document.getElementById('modalVideo');

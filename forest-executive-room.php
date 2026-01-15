@@ -953,7 +953,7 @@
             </div>
         </div>
     </div>
-    <div class="container mt-5 pt-5">
+     <div class="container mt-5 pt-5">
         <div class="inner-container">
             <div class="row clearfix">
                 <!-- Column -->
@@ -961,12 +961,8 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-
-                    <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Private Washroom View</h4>
-                        <p>A modern private washroom designed for comfort and convenience.
-                            Clean, elegant fixtures and subtle lighting create a fresh and relaxing atmosphere.
-                            Perfect for a refreshing start or unwinding after a long day.</p>
+                    <div class=" room-img">
+                        <img src="home/img/destination/forest-executive/img-11.jpeg" alt="" />
                     </div>
                     <div class="room-dott about-three_dotted"
                         style="background-image:url(assets/images/main-slider/dotted.png)">
@@ -974,8 +970,11 @@
                 </div>
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class=" room-img">
-                        <img src="home/img/destination/forest-executive/img-11.jpeg" alt="" />
+                    <div class="room-card card p-3 mt-5">
+                       <h4>Private Washroom View</h4>
+                        <p>A modern private washroom designed for comfort and convenience.
+                            Clean, elegant fixtures and subtle lighting create a fresh and relaxing atmosphere.
+                            Perfect for a refreshing start or unwinding after a long day.</p>
                     </div>
                 </div>
             </div>

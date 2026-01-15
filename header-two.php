@@ -564,6 +564,25 @@
         </div>
       </div>
     </div>
+    <div class="modal fade" id="Stella-modal" tabindex="-1" aria-labelledby="Stella-modalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content video-frame">
+          <div class="modal-header border-0">
+            <h5 class="modal-title">Stella suite
+            </h5>
+            <button type="button" class="btn-close  ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body p-0">
+            <video id="modalVideo" controls playsinline class="framed-video">
+              <source src="home/img/destination/orchid/orchid-executive.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="modal fade" id="orchid-deluxe-modal" tabindex="-1" aria-labelledby="orchid-deluxe-modalLabel"
       aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered modal-lg">

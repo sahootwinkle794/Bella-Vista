@@ -962,33 +962,6 @@
                     <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
                   <img src="assets/images/resource/about-9.png" alt="" />
                 </div> -->
-                    <div class=" room-img">
-                        <img src="home/img/destination/apartment/ground-4.jpeg" alt="" />
-                    </div>
-                    <div class="room-dott about-three_dotted"
-                        style="background-image:url(assets/images/main-slider/dotted.png)">
-                    </div>
-                </div>
-                <!-- Column -->
-                <div class="column col-lg-7 col-md-12 col-sm-12">
-                    <div class="room-card card p-3 mt-5">
-                        <h4>Entertainment & Amenities</h4>
-                        <p>Modern facilities, comfortable seating, and stylish décor create a lively yet cozy
-                            atmosphere.
-                            Perfect for unwinding, socializing, and experiencing premium leisure comforts.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container mt-5 pt-5">
-        <div class="inner-container">
-            <div class="row clearfix">
-                <!-- Column -->
-                <div class="column col-lg-5 col-md-12 col-sm-12 ">
-                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
-                  <img src="assets/images/resource/about-9.png" alt="" />
-                </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
                         <h4>Seating Area View</h4>
@@ -1009,6 +982,34 @@
             </div>
         </div>
     </div>
+    <div class="container mt-5 pt-5">
+        <div class="inner-container">
+            <div class="row clearfix">
+                <!-- Column -->
+                <div class="column col-lg-5 col-md-12 col-sm-12 ">
+                    <!-- <div class="about-three_image-two img-reveal_two overlay-anim">
+                  <img src="assets/images/resource/about-9.png" alt="" />
+                </div> -->
+                    <div class=" room-img">
+                        <img src="home/img/destination/apartment/ground-4.jpeg" alt="" />
+                    </div>
+                    <div class="room-dott about-three_dotted"
+                        style="background-image:url(assets/images/main-slider/dotted.png)">
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="column col-lg-7 col-md-12 col-sm-12">
+                    <div class="room-card card p-3 mt-5">
+                        <h4>Entertainment & Amenities</h4>
+                        <p>Modern facilities, comfortable seating, and stylish décor create a lively yet cozy
+                            atmosphere.
+                            Perfect for unwinding, socializing, and experiencing premium leisure comforts.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
     <div class="container mt-5 pt-5">
         <div class="inner-container">
             <div class="row clearfix">
