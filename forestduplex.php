@@ -864,7 +864,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Duplex Bedroom View</h4>
+                        <h4>Duplex Bedroom</h4>
                         <p>A spacious duplex bedroom featuring a stylish split-level design.
                             Elegant décor and ample natural light create a luxurious and airy ambiance.
                             Perfect for comfort, privacy, and a unique living experience.</p>
@@ -883,7 +883,7 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Bedroom Interior View</h4>
+                        <h4>Bedroom Interior</h4>
                         <p>The duplex bedroom combines modern design with functional space across two levels.
                             Natural light fills the room, highlighting the textures, colors, and elegant décor.
                             It creates a serene and inviting atmosphere, ideal for both relaxation and comfort.</p>
@@ -919,7 +919,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Duplex Exterior View</h4>
+                        <h4>Duplex Exterior</h4>
                         <p>The duplex exterior showcases a modern architectural design with clean lines and stylish
                             finishes.
                             Balconies, large windows, and landscaped surroundings enhance its visual appeal.
@@ -939,8 +939,8 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Seating Area View</h4>
-                        <p>An in-room seating area designed for comfort and relaxation.
+                        <h4>Sitting Area</h4>
+                        <p>An in-room sitting area designed for comfort and relaxation.
                             Warm lighting and tasteful decor create a calm and inviting atmosphere.
                             Perfect for unwinding, reading, or enjoying a quiet moment in privacy.</p>
                     </div>
@@ -975,7 +975,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Entertainment & Amenities</h4>
+                        <h4>Room Amenities</h4>
                         <p>Modern facilities, comfortable seating, and stylish décor create a lively yet cozy
                             atmosphere.
                             Perfect for unwinding, socializing, and experiencing premium leisure comforts.</p>
@@ -994,8 +994,8 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Balcony Garden View</h4>
-                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair.
+                        <h4>A moment in the outdoors</h4>
+                        <p>A balcony with serene property views featuring a plush sitting area.
                             Lush greenery and fresh air create a relaxing and refreshing ambiance.
                             Ideal for enjoying nature, morning coffee, or quiet moments of relaxation.</p>
                     </div>
@@ -1030,8 +1030,8 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Private Washroom View</h4>
-                        <p>A modern private washroom designed for comfort and convenience.
+                        <h4>En Suite Bathroom</h4>
+                        <p>A modern En Suite Bathroom designed for comfort and convenience.
                             Clean, elegant fixtures and subtle lighting create a fresh and relaxing atmosphere.
                             Perfect for a refreshing start or unwinding after a long day.</p>
                     </div>
@@ -1055,9 +1055,9 @@
             <div class="col-md-6 col-lg-6 col-xxl-5">
                 <div class="title-area text-center text-md-start">
                     <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
-                    <h2 class="sec-title fade-anim" data-direction="top">
+                    <!-- <h2 class="sec-title fade-anim" data-direction="top">
                         Our Room Category
-                    </h2>
+                    </h2> -->
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xxl-5">
@@ -1212,12 +1212,12 @@
                     </div>
                 </div>
             </div>
-            <div class="text-center mt-50 btn-trigger btn-bounce">
+            <!-- <div class="text-center mt-50 btn-trigger btn-bounce">
                 <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank"
                     class="vs-btn style4">
                     <span>view more</span>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

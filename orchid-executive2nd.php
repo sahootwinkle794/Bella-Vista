@@ -834,7 +834,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Bedroom Interior View</h4>
+                        <h4>Bedroom Interior</h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -866,7 +866,7 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Bedroom Interior View</h4>
+                        <h4>Bedroom Interior</h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -915,7 +915,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Entertainment & Amenities</h4>
+                        <h4>Room Amenities</h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -947,7 +947,7 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Seating Area View</h4>
+                        <h4>Sitting Area</h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -961,7 +961,7 @@
                             </div>
                         </div> -->
 
-                        <p>An in-room seating area designed for comfort and relaxation. Warm lighting and tasteful decor
+                        <p>An in-room Sitting Area designed for comfort and relaxation. Warm lighting and tasteful decor
                             create a calm and inviting atmosphere. Perfect for unwinding, reading, or enjoying a quiet
                             moment in privacy.</p>
                     </div>
@@ -996,7 +996,7 @@
                 <!-- Column -->
                 <div class="column col-lg-7 col-md-12 col-sm-12">
                     <div class="room-card card p-3 mt-5">
-                        <h4>Balcony Garden View
+                        <h4>A moment in the outdoors
                         </h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
@@ -1011,7 +1011,7 @@
                             </div>
                         </div> -->
 
-                        <p>A serene balcony garden view featuring a peaceful setting with a seating chair. Lush greenery
+                        <p>A balcony with serene property views featuring a plush sitting area. Lush greenery
                             and fresh air create a relaxing and refreshing ambiance. Ideal for enjoying nature, morning
                             coffee, or quiet moments of relaxation.
                         </p>
@@ -1030,7 +1030,7 @@
                 </div> -->
 
                     <div class="room-card card p-3 mt-5 room-img-right">
-                        <h4>Private Washroom View</h4>
+                        <h4>En Suite Bathroom</h4>
                         <!-- <div class="trip-info mt-4 mb-4">
                             <div class="trip-info-box">
                                 <div class="header"> <img src="home/img/icons/service-20.png" alt="service">
@@ -1044,7 +1044,7 @@
                             </div>
                         </div> -->
 
-                        <p>A modern private washroom designed for comfort and convenience. Clean, elegant fixtures and
+                        <p>A modern En Suite Bathroom designed for comfort and convenience. Clean, elegant fixtures and
                             subtle lighting create a fresh and relaxing atmosphere. Perfect for a refreshing start or
                             unwinding after a long day.</p>
                     </div>
@@ -1077,9 +1077,9 @@
             <div class="col-md-6 col-lg-6 col-xxl-5">
                 <div class="title-area text-center text-md-start">
                     <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
-                    <h2 class="sec-title fade-anim" data-direction="top">
+                    <!-- <h2 class="sec-title fade-anim" data-direction="top">
                         Our Room Category
-                    </h2>
+                    </h2> -->
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xxl-5">
@@ -1234,12 +1234,12 @@
                     </div>
                 </div>
             </div>
-            <div class="text-center mt-50 btn-trigger btn-bounce">
+            <!-- <div class="text-center mt-50 btn-trigger btn-bounce">
                 <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_blank"
                     class="vs-btn style4">
                     <span>view more</span>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

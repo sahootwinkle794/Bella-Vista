@@ -167,7 +167,9 @@ body {
     line-height: 24px;
   }
 }
-
+.orchid-room{
+  border-radius: 20px;
+}
 iframe {
   border: none;
   width: 100%;

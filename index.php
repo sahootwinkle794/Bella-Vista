@@ -199,12 +199,12 @@
           </div>
         </div>
       </div>
-      <div class="text-center mt-50 btn-trigger btn-bounce">
+      <!-- <div class="text-center mt-50 btn-trigger btn-bounce">
         <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" target="_Blank"
           class="vs-btn style4">
           <span>view more</span>
         </a>
-      </div>
+      </div> -->
     </div>
 
   </div>
@@ -292,8 +292,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                        target="_Blank">Resort and
-                        Spa</a>
+                        target="_Blank">Gym & Spa</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -330,8 +329,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                        target="_Blank">Convenient
-                        location</a>
+                        target="_Blank">In the Lap of Nature</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -368,7 +366,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                        target="_Blank">Homely food</a>
+                        target="_Blank">Multi-Cuisine Restaurant</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -440,7 +438,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                        target="_Blank">Kid friendly</a>
+                        target="_Blank">Kid's Zone</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -458,8 +456,7 @@
                   <div class="info">
                     <h4 class="text-white text-capitalize">
                       <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
-                        target="_Blank">Short city
-                        break</a>
+                        target="_Blank">Quick Getaway From the City</a>
                     </h4>
                   </div>
                   <a href="#" class="icon bg-theme-color text-white-color">
@@ -487,6 +484,24 @@
                 </div>
               </div>
             </div>
+            <div class="swiper-slide">
+              <div class="destination-box">
+                <div class="destination-thumb">
+                  <img src="home/img/destination/sing.jpg" alt="destination" class="w-100" />
+                </div>
+                <div class="destination-content">
+                  <div class="info">
+                    <h4 class="text-white text-capitalize">
+                      <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303"
+                        target="_Blank">Live Singing</a>
+                    </h4>
+                  </div>
+                  <a href="#" class="icon bg-theme-color text-white-color">
+                    <i class="fa-solid fa-location-dot"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -505,10 +520,10 @@
         <div class="row">
           <div class="col-12 col-xl-11">
             <div class="title-area text-center text-md-start">
-              <span class="sec-subtitle fade-anim" data-direction="bottom">Book Direct & Enjoy Exclusive
-                Services</span>
+              <!-- <span class="sec-subtitle fade-anim" data-direction="bottom">Book Direct & Enjoy Exclusive
+                Services</span> -->
               <h2 class="sec-title text-white-color fade-anim" data-direction="top">
-                Book Direct for <span>the Best </span> Prices
+               <span>Book Direct for the Best  Prices</span>
               </h2>
             </div>
             <a class="vs-btn style-4 fade-anim" target="_blank" data-direction="top"
@@ -526,7 +541,7 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="javascript:void(0)">Best Rates</a>
+                    <a href="javascript:void(0)">24/7 support</a>
                   </h5>
                 </div>
               </div>
@@ -575,14 +590,14 @@
 
                 <div class="services-content-inner">
                   <h5 class="services-title">
-                    <a href="javascript:void(0)">Wifi Access</a>
+                    <a href="javascript:void(0)">Free High Speed Internet</a>
                   </h5>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-12 fade-anim">
-            <img src="home/img/activities/act.png" alt="act">
+            <img src="home/img/destination/orchid/stella-2.jpeg" alt="act" class="orchid-room">
           </div>
         </div>
       </div>
@@ -604,7 +619,7 @@
         <div class="title-area text-center text-md-start">
           <span class="sec-subtitle fade-anim" data-direction="bottom">Choose Your Perfect Retreat</span>
           <h2 class="sec-title fade-anim" data-direction="top">
-            Explore The Room Type
+            Explore All Room Types
           </h2>
         </div>
       </div>
@@ -742,7 +757,7 @@
       <div class="text-center mt-50 btn-trigger btn-bounce">
         <a href="https://bookings.resavenue.com/resBooking/availsearch?regCode=IGIA0303" class="vs-btn style4"
           target="_Blank">
-          <span>view more</span>
+          <span>Book Now</span>
         </a>
       </div>
       <!-- <div class="col-md-12">
