@@ -50,7 +50,7 @@
           Check-In Date
         </label>
         <div class="date-inputs">
-          
+
           <input type="date" id="checkIn" class="form-select" placeholder="Check-in">
         </div>
       </div>
@@ -60,7 +60,7 @@
           Check-Out Date
         </label>
         <div class="date-inputs">
-           
+
           <input type="date" id="checkOut" class="form-select" placeholder="Check-out">
         </div>
       </div>
@@ -223,7 +223,7 @@
           </h2>
         </div>
       </div>
-      <div class="col-md-6 col-lg-6 col-xxl-5">
+      <!-- <div class="col-md-6 col-lg-6 col-xxl-5">
         <div class="swiper-arrow2 tour-packages-navigation justify-content-center justify-content-md-end">
           <button class="tour-packages-next">
             <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -240,10 +240,35 @@
             </svg>
           </button>
         </div>
-      </div>
-      <div class="col-12 mt-30 mt-md-0 fade-anim" data-direction="right">
+      </div> -->
+     <div class="swiper-arrow2 tour-packages-navigation">
+          <button class="tour-packages-next">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.08984 16.92L1.56984 10.4C0.799843 9.62996 0.799843 8.36996 1.56984 7.59996L8.08984 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button>
+          <button class="tour-packages-prev btn-right">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0.910156 16.92L7.43016 10.4C8.20016 9.62996 8.20016 8.36996 7.43016 7.59996L0.910156 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button>
+        </div>
+      <div class="col-12 mt-30 mt-md-0 fade-anim " data-direction="right">
+
         <div class="swiper tour-package-slider">
+          <!-- <button class="tour-packages-next">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.08984 16.92L1.56984 10.4C0.799843 9.62996 0.799843 8.36996 1.56984 7.59996L8.08984 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button> -->
           <div class="swiper-wrapper">
+
             <div class="swiper-slide">
               <div class="destination-box">
                 <div class="destination-thumb">
@@ -502,9 +527,19 @@
                 </div>
               </div>
             </div>
+
           </div>
+          <!-- <button class="tour-packages-prev btn-right">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0.910156 16.92L7.43016 10.4C8.20016 9.62996 8.20016 8.36996 7.43016 7.59996L0.910156 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button> -->
         </div>
+
       </div>
+
     </div>
   </div>
 </section>
@@ -523,7 +558,7 @@
               <!-- <span class="sec-subtitle fade-anim" data-direction="bottom">Book Direct & Enjoy Exclusive
                 Services</span> -->
               <h2 class="sec-title text-white-color fade-anim" data-direction="top">
-               <span>Book Direct for the Best  Prices</span>
+                <span>Book Direct for the Best Prices</span>
               </h2>
             </div>
             <a class="vs-btn style-4 fade-anim" target="_blank" data-direction="top"
@@ -623,7 +658,7 @@
           </h2>
         </div>
       </div>
-      <div class="col-md-6 col-lg-6 col-xxl-5">
+      <!-- <div class="col-md-6 col-lg-6 col-xxl-5">
         <div class="swiper-arrow2 tour-packages-navigation justify-content-center justify-content-md-end">
           <button class="room-type-next">
             <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -640,7 +675,23 @@
             </svg>
           </button>
         </div>
-      </div>
+      </div> -->
+      <div class="swiper-arrow2 tour-packages-navigation">
+          <button class="room-type-next">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.08984 16.92L1.56984 10.4C0.799843 9.62996 0.799843 8.36996 1.56984 7.59996L8.08984 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button>
+          <button class="room-type-prev btn-right">
+            <svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0.910156 16.92L7.43016 10.4C8.20016 9.62996 8.20016 8.36996 7.43016 7.59996L0.910156 1.07996"
+                stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </button>
+        </div>
       <div class="col-12 mt-30 mt-md-0 fade-anim" data-direction="right">
         <div class="swiper room-type-slider">
           <div class="swiper-wrapper">

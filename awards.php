@@ -302,7 +302,7 @@
                     <div class="award-box-style1-wrapper">
                         <figure class="award-box-icon text-center">
                             <img src="home/img/awards/awdEX-2016.png" alt="award" width="132" height="103"
-                                class="awd-icon" >
+                                class="awd-icon">
                         </figure>
                         <div
                             class="award-box-header d-flex align-items-end justify-content-between gap-xl-4 text-center">

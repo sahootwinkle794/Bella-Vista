@@ -1504,9 +1504,17 @@ textarea.is-invalid {
 .swiper-arrow2 {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  position: relative;
+  top: 300px;
   gap: 22px;
 }
-
+.vs-tour-package .title-area{
+  margin-bottom: 0px;
+}
+.vs-destination-style1 .title-area{
+  margin-bottom: 0px;
+}
 .swiper-arrow2 button {
   border: 1.5px dashed #909D81;
   width: 50px;
@@ -7493,7 +7501,7 @@ input #dateRange {
 
 @media (min-width: 1200px) {
   .destination-box .destination-content .info h4 {
-    font-size: 30px;
+    font-size: 20px;
   }
 }
 
@@ -12676,26 +12684,35 @@ span.info-title {
 
 /* Offer Button */
 .offer-button {
-  position: fixed;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-  background: #ff3b3f;
-  color: white;
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  font-weight: 600;
-  letter-spacing: 2px;
-  border: none;
-  border-radius: 10px 0 0 10px;
-  padding: 15px 10px;
-  cursor: pointer;
-  z-index: 2001;
-  transition: background 0.3s ease;
-  text-orientation: upright;
-  text-transform: uppercase;
+    position: fixed;
+    display: flex;
+    width: 67px;
+    height: 67px;
+    top: 77%;
+    right: 52px;
+    transform: translateY(-50%);
+    background: #4b0b0c;
+    color: white;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border: none;
+    border-radius: 32px;
+    padding: 15px 10px;
+    cursor: pointer;
+    z-index: 2001;
+    transition: background 0.3s ease;
+    text-orientation: upright;
+    text-transform: uppercase;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
-
+span.gift {
+    margin-right: 3px;
+    font-size: 34px;
+}
 .offer-button:hover {
   background: #d92a2e;
 }

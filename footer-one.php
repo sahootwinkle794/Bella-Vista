@@ -3,7 +3,7 @@
 <!-- Offer Button -->
 
 <!-- Offer Button -->
-<button class="offer-button" id="offerBtn">🎁 Special Offer</button>
+<button class="offer-button" id="offerBtn"><span class="gift">🎁</span></button>
 
 <!-- Overlay -->
 <div class="overlay" id="overlay"></div>
