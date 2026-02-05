@@ -67,6 +67,8 @@
 
   <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
   <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+  <!-- wedding style start  -->
+   
 
 </head>
 
@@ -192,7 +194,7 @@
             </ul>
           </li>
           <li class="menu-item-has-children mega-menu-wrap">
-            <a href="javascript:void(0)">Destination Wedding</a>
+            <a href="destination-wedding.php">Destination Wedding</a>
             <!-- <ul class="mega-menu">
                   <li>
                     <a href="#">Page List 1</a>
@@ -354,7 +356,7 @@
                 </ul>
               </li>
               <li class="menu-item-has-children mega-menu-wrap">
-                <a href="javascript:void(0)">Destination Wedding</a>
+                <a href="destination-wedding.php">Destination Wedding</a>
                 <!-- <ul class="mega-menu">
                   <li>
                     <a href="#">Page List 1</a>
@@ -830,7 +832,7 @@
                         </ul>
                       </li>
                       <li class="menu-item-has-children mega-menu-wrap">
-                        <a href="javascript:void(0)">Destination Wedding</a>
+                        <a href="destination-wedding.php">Destination Wedding</a>
 
                       </li>
                       <!-- <li class="menu-item-has-children">

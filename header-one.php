@@ -223,7 +223,7 @@
             </ul>
           </li>
           <li class="menu-item-has-children mega-menu-wrap">
-            <a href="javascript:void(0)">Destination Wedding</a>
+            <a href="destination-wedding.php">Destination Wedding</a>
             <!-- <ul class="mega-menu">
                   <li>
                     <a href="#">Page List 1</a>
@@ -385,7 +385,7 @@
                 </ul>
               </li>
               <li class="menu-item-has-children mega-menu-wrap">
-                <a href="javascript:void(0)">Destination Wedding</a>
+                <a href="destination-wedding.php">Destination Wedding</a>
                 <!-- <ul class="mega-menu">
                   <li>
                     <a href="#">Page List 1</a>
@@ -641,7 +641,7 @@
                     </ul>
                   </li>
                   <li class="menu-item-has-children mega-menu-wrap">
-                    <a href="javascript:void(0)">Destination Wedding</a>
+                    <a href="destination-wedding.php">Destination Wedding</a>
                     <!-- <ul class="mega-menu">
                       <li>
                         <a href="#">Page List 1</a>
