@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <meta name="author" content="https://vecuro.com/" />
+  <!-- <meta name="author" content="https://vecuro.com/" /> -->
   <title>Luxury Resort Near Mumbai | Elegant rooms | Bella Vista Resort</title>
 
   <meta name="description"

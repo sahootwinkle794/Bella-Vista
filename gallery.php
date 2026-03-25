@@ -40,49 +40,75 @@
                     <div class="row destination-gallery">
                         <div class="col-lg-6 p-0">
                             <div class="destination-gallery-box h-50">
-                                <img src="home/img/destination-galler/destination-gallery-1-1.png"
+                                <img src="home/img/destination-galler/destination-gallery-1-1.jpg"
                                     alt="destination-gallery" class="w-100 h-100" />
                                 <div class="icon-box">
-                                    <a href="home/img/destination-galler/destination-gallery-1-1.png"
+                                    <a href="home/img/destination-galler/destination-gallery-1-1.jpg"
                                         title="Destination Gallery-1" class="">
                                         <i class="fa-solid fa-eye"></i>
                                     </a>
                                 </div>
-                                <span class="content"> Activity Area </span>
+                                <span class="content"> Swimming Area </span>
                             </div>
                             <div class="destination-gallery-box h-50">
-                                <img src="home/img/destination-galler/destination-gallery-1-3.png"
+                                <img src="home/img/destination-galler/destination-gallery-1-3.jpg"
                                     alt="destination-gallery" class="w-100 h-100" />
                                 <div class="icon-box">
-                                    <a href="home/img/destination-galler/destination-gallery-1-3.png"
+                                    <a href="home/img/destination-galler/destination-gallery-1-3.jpg"
                                         title="Destination Gallery-1" class="">
                                         <i class="fa-solid fa-eye"></i>
                                     </a>
                                 </div>
-                                <span class="content"> Grounds & Views </span>
+                                <span class="content"> Indoor Game </span>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="row">
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-2.png"
+                                        <img src="home/img/destination-galler/destination-gallery-1-2.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-2.png"
+                                            <a href="home/img/destination-galler/destination-gallery-1-2.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> Grounds & Views </span>
+                                        <span class="content"> Reception Area </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="https://www.bellavistaresort.com/images/gallery/restaurant/restaurnt-04.jpg"
+                                        <img src="home/img/destination-galler/destination-gallery-1-6.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-3.png"
+                                            <a href="home/img/destination-galler/destination-gallery-1-6.jpg"
+                                                title="Destination Gallery-1" class="">
+                                                <i class="fa-solid fa-eye"></i>
+                                            </a>
+                                        </div>
+                                        <span class="content"> Outside Sitting Area </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 p-0">
+                                    <div class="destination-gallery-box h-100">
+                                        <img src="home/img/destination-galler/destination-gallery-1-4.jpg"
+                                            alt="destination-gallery" class="w-100 h-100" />
+                                        <div class="icon-box">
+                                            <a href="home/img/destination-galler/destination-gallery-1-4.jpg"
+                                                title="Destination Gallery-1" class="">
+                                                <i class="fa-solid fa-eye"></i>
+                                            </a>
+                                        </div>
+                                        <span class="content">Children Playzone </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 p-0">
+                                    <div class="destination-gallery-box h-100">
+                                        <img src="home/img/destination-galler/destination-gallery-1-5.jpg"
+                                            alt="destination-gallery" class="w-100 h-100" />
+                                        <div class="icon-box">
+                                            <a href="home/img/destination-galler/destination-gallery-1-5.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
@@ -92,36 +118,10 @@
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-4.png"
+                                        <img src="home/img/destination-galler/destination-gallery-1-7.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-4.png"
-                                                title="Destination Gallery-1" class="">
-                                                <i class="fa-solid fa-eye"></i>
-                                            </a>
-                                        </div>
-                                        <span class="content"> Room </span>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 p-0">
-                                    <div class="destination-gallery-box h-100">
-                                        <img src="home/img/destination-galler/destination-gallery-1-5.png"
-                                            alt="destination-gallery" class="w-100 h-100" />
-                                        <div class="icon-box">
-                                            <a href="home/img/destination-galler/destination-gallery-1-5.png"
-                                                title="Destination Gallery-1" class="">
-                                                <i class="fa-solid fa-eye"></i>
-                                            </a>
-                                        </div>
-                                        <span class="content"> Hotel Wings </span>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 p-0">
-                                    <div class="destination-gallery-box h-100">
-                                        <img src="https://www.bellavistaresort.com/images/gallery/garden/garden-010.jpg"
-                                            alt="destination-gallery" class="w-100 h-100" />
-                                        <div class="icon-box">
-                                            <a href="https://www.bellavistaresort.com/images/gallery/garden/garden-010.jpg"
+                                            <a href="home/img/destination-galler/destination-gallery-1-7.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
@@ -131,41 +131,41 @@
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-06.jpg"
+                                        <img src="home/img/destination-galler/destination-gallery-1-8.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-06.jpg"
+                                            <a href="home/img/destination-galler/destination-gallery-1-8.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> Activity Area </span>
+                                        <span class="content"> Garden Area </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-03.jpg"
+                                        <img src="home/img/destination-galler/destination-gallery-1-9.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="https://www.bellavistaresort.com/images/gallery/activity-area/activity-area-03.jpg"
+                                            <a href="home/img/destination-galler/destination-gallery-1-9.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> Activity Area </span>
+                                        <span class="content"> Spa Area </span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 p-0">
                                     <div class="destination-gallery-box h-100">
-                                        <img src="https://www.bellavistaresort.com/images/gallery/hotelwings/hotelwings-08.jpg"
+                                        <img src="home/img/destination-galler/destination-gallery-1-10.jpg"
                                             alt="destination-gallery" class="w-100 h-100" />
                                         <div class="icon-box">
-                                            <a href="https://www.bellavistaresort.com/images/gallery/hotelwings/hotelwings-08.jpg"
+                                            <a href="home/img/destination-galler/destination-gallery-1-10.jpg"
                                                 title="Destination Gallery-1" class="">
                                                 <i class="fa-solid fa-eye"></i>
                                             </a>
                                         </div>
-                                        <span class="content"> Hotel Wings </span>
+                                        <span class="content"> Outside Views </span>
                                     </div>
                                 </div>
 

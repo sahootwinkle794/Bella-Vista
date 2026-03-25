@@ -1096,7 +1096,7 @@
         titleSrc: function (item) {
           return (
             item.el.attr("title") +
-            ` <a href="https://vecuro.com" target="_blank" style="color: #f7921f;" rel="noopener noreferrer">&nbsp;Click Here</a>`
+            ` <a href="#" target="_blank" style="color: #f7921f;" rel="noopener noreferrer">&nbsp;Click Here</a>`
           );
         },
       },
